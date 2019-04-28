@@ -1850,19 +1850,11 @@
     },
     {
         "id" : 383,
-        "damage" : 15
-    },
-    {
-        "id" : 383,
         "damage" : 115
     },
     {
         "id" : 383,
         "damage" : 118
-    },
-    {
-        "id" : 383,
-        "damage" : 44
     },
     {
         "id" : 383,
@@ -2253,9 +2245,6 @@
     },
     {
         "id" : 513
-    },
-    {
-        "id" : 0
     },
     {
         "id" : 366
@@ -2958,7 +2947,7 @@
         "id" : -202
     },
     {
-        "id" : -209
+        "id" : 720
     },
     {
         "id" : 61
@@ -3991,6 +3980,11 @@
         "damage" : 6
     },
     {
+        "id" : 446,
+        "damage" : 15,
+        "nbt_b64" : "CgAAAwQAVHlwZQEAAAAA"
+    },
+    {
         "id" : 434
     },
     {
@@ -4154,5 +4148,10 @@
         "id" : 402,
         "damage" : 2,
         "nbt_b64" : "CgAAAwsAY3VzdG9tQ29sb3IWfF7/Cg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAgEMAEZpcmV3b3JrVHlwZQAHDABGaXJld29ya0ZhZGUAAAAAAQ0ARmlyZXdvcmtUcmFpbAABDwBGaXJld29ya0ZsaWNrZXIAAAA="
+    },
+    {
+        "id" : 402,
+        "damage" : 6,
+        "nbt_b64" : "CgAAAwsAY3VzdG9tQ29sb3KcnBb/Cg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABgEMAEZpcmV3b3JrVHlwZQAHDABGaXJld29ya0ZhZGUAAAAAAQ0ARmlyZXdvcmtUcmFpbAABDwBGaXJld29ya0ZsaWNrZXIAAAA="
     }
 ]
