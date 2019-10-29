@@ -1,5 +1,5 @@
 {
-    "version" : 361,
+    "version" : 388,
     "recipes" : [
         {
             "id" : "Bookshelf_woodplanks_recipeId",
@@ -60,8 +60,7 @@
             },
             "output" : [
                 {
-                    "id" : -140,
-                    "damage" : 5
+                    "id" : -140
                 }
             ],
             "shape" : [
@@ -81,8 +80,7 @@
             },
             "output" : [
                 {
-                    "id" : -141,
-                    "damage" : 5
+                    "id" : -141
                 }
             ],
             "shape" : [
@@ -102,8 +100,7 @@
             },
             "output" : [
                 {
-                    "id" : -142,
-                    "damage" : 5
+                    "id" : -142
                 }
             ],
             "shape" : [
@@ -123,8 +120,7 @@
             },
             "output" : [
                 {
-                    "id" : -143,
-                    "damage" : 5
+                    "id" : -143
                 }
             ],
             "shape" : [
@@ -144,8 +140,7 @@
             },
             "output" : [
                 {
-                    "id" : -144,
-                    "damage" : 5
+                    "id" : -144
                 }
             ],
             "shape" : [
@@ -657,31 +652,6 @@
             "priority" : 50
         },
         {
-            "id" : "TNT_recipeId",
-            "type" : 1,
-            "input" : {
-                "A" : {
-                    "id" : 289,
-                    "damage" : -1
-                },
-                "B" : {
-                    "id" : 12
-                }
-            },
-            "output" : [
-                {
-                    "id" : 46
-                }
-            ],
-            "shape" : [
-                "ABA",
-                "BAB",
-                "ABA"
-            ],
-            "block" : "crafting_table",
-            "priority" : 50
-        },
-        {
             "id" : "Torch_recipeId",
             "type" : 1,
             "input" : {
@@ -879,8 +849,7 @@
             },
             "output" : [
                 {
-                    "id" : 143,
-                    "damage" : 5
+                    "id" : 143
                 }
             ],
             "shape" : [
@@ -986,7 +955,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_color_1",
@@ -1012,7 +981,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_color_10",
@@ -1038,7 +1007,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_color_11",
@@ -1064,7 +1033,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_color_12",
@@ -1090,7 +1059,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_color_13",
@@ -1116,7 +1085,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_color_14",
@@ -1142,7 +1111,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_color_15",
@@ -1168,7 +1137,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_color_2",
@@ -1194,7 +1163,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_color_3",
@@ -1220,7 +1189,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_color_4",
@@ -1246,7 +1215,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_color_5",
@@ -1272,7 +1241,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_color_6",
@@ -1298,7 +1267,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_color_7",
@@ -1324,7 +1293,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_color_8",
@@ -1350,7 +1319,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_color_9",
@@ -1376,7 +1345,7 @@
                 "BBB"
             ],
             "block" : "crafting_table",
-            "priority" : 50
+            "priority" : 1
         },
         {
             "id" : "bed_dye_0_1",
@@ -1397,7 +1366,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_0_10",
@@ -1418,7 +1387,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_0_11",
@@ -1439,7 +1408,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_0_12",
@@ -1460,7 +1429,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_0_13",
@@ -1481,7 +1450,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_0_14",
@@ -1502,7 +1471,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_0_15",
@@ -1522,7 +1491,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_0_2",
@@ -1543,7 +1512,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_0_3",
@@ -1564,7 +1533,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_0_4",
@@ -1585,7 +1554,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_0_5",
@@ -1606,7 +1575,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_0_6",
@@ -1627,7 +1596,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_0_7",
@@ -1648,7 +1617,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_0_8",
@@ -1669,7 +1638,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_0_9",
@@ -1690,7 +1659,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_10_0",
@@ -1712,7 +1681,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_10_1",
@@ -1734,7 +1703,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_10_11",
@@ -1756,7 +1725,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_10_12",
@@ -1778,7 +1747,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_10_13",
@@ -1800,7 +1769,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_10_14",
@@ -1822,7 +1791,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_10_15",
@@ -1843,7 +1812,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_10_2",
@@ -1865,7 +1834,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_10_3",
@@ -1887,7 +1856,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_10_4",
@@ -1909,7 +1878,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_10_5",
@@ -1931,7 +1900,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_10_6",
@@ -1953,7 +1922,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_10_7",
@@ -1975,7 +1944,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_10_8",
@@ -1997,7 +1966,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_10_9",
@@ -2019,7 +1988,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_11_0",
@@ -2041,7 +2010,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_11_1",
@@ -2063,7 +2032,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_11_10",
@@ -2085,7 +2054,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_11_12",
@@ -2107,7 +2076,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_11_13",
@@ -2129,7 +2098,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_11_14",
@@ -2151,7 +2120,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_11_15",
@@ -2172,7 +2141,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_11_2",
@@ -2194,7 +2163,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_11_3",
@@ -2216,7 +2185,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_11_4",
@@ -2238,7 +2207,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_11_5",
@@ -2260,7 +2229,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_11_6",
@@ -2282,7 +2251,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_11_7",
@@ -2304,7 +2273,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_11_8",
@@ -2326,7 +2295,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_11_9",
@@ -2348,7 +2317,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_12_0",
@@ -2370,7 +2339,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_12_1",
@@ -2392,7 +2361,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_12_10",
@@ -2414,7 +2383,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_12_11",
@@ -2436,7 +2405,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_12_13",
@@ -2458,7 +2427,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_12_14",
@@ -2480,7 +2449,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_12_15",
@@ -2501,7 +2470,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_12_2",
@@ -2523,7 +2492,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_12_3",
@@ -2545,7 +2514,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_12_4",
@@ -2567,7 +2536,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_12_5",
@@ -2589,7 +2558,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_12_6",
@@ -2611,7 +2580,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_12_7",
@@ -2633,7 +2602,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_12_8",
@@ -2655,7 +2624,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_12_9",
@@ -2677,7 +2646,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_13_0",
@@ -2699,7 +2668,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_13_1",
@@ -2721,7 +2690,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_13_10",
@@ -2743,7 +2712,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_13_11",
@@ -2765,7 +2734,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_13_12",
@@ -2787,7 +2756,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_13_14",
@@ -2809,7 +2778,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_13_15",
@@ -2830,7 +2799,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_13_2",
@@ -2852,7 +2821,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_13_3",
@@ -2874,7 +2843,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_13_4",
@@ -2896,7 +2865,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_13_5",
@@ -2918,7 +2887,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_13_6",
@@ -2940,7 +2909,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_13_7",
@@ -2962,7 +2931,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_13_8",
@@ -2984,7 +2953,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_13_9",
@@ -3006,7 +2975,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_14_0",
@@ -3028,7 +2997,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_14_1",
@@ -3050,7 +3019,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_14_10",
@@ -3072,7 +3041,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_14_11",
@@ -3094,7 +3063,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_14_12",
@@ -3116,7 +3085,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_14_13",
@@ -3138,7 +3107,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_14_15",
@@ -3159,7 +3128,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_14_2",
@@ -3181,7 +3150,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_14_3",
@@ -3203,7 +3172,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_14_4",
@@ -3225,7 +3194,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_14_5",
@@ -3247,7 +3216,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_14_6",
@@ -3269,7 +3238,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_14_7",
@@ -3291,7 +3260,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_14_8",
@@ -3313,7 +3282,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_14_9",
@@ -3335,7 +3304,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_15_0",
@@ -3356,7 +3325,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_15_1",
@@ -3377,7 +3346,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_15_10",
@@ -3398,7 +3367,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_15_11",
@@ -3419,7 +3388,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_15_12",
@@ -3440,7 +3409,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_15_13",
@@ -3461,7 +3430,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_15_14",
@@ -3482,7 +3451,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_15_2",
@@ -3503,7 +3472,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_15_3",
@@ -3524,7 +3493,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_15_4",
@@ -3545,7 +3514,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_15_5",
@@ -3566,7 +3535,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_15_6",
@@ -3587,7 +3556,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_15_7",
@@ -3608,7 +3577,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_15_8",
@@ -3629,7 +3598,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_15_9",
@@ -3650,7 +3619,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_16_1",
@@ -3672,7 +3641,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_16_10",
@@ -3694,7 +3663,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_16_11",
@@ -3716,7 +3685,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_16_12",
@@ -3738,7 +3707,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_16_13",
@@ -3760,7 +3729,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_16_14",
@@ -3782,7 +3751,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_16_15",
@@ -3803,7 +3772,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_16_2",
@@ -3825,7 +3794,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_16_3",
@@ -3847,7 +3816,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_16_4",
@@ -3869,7 +3838,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_16_5",
@@ -3891,7 +3860,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_16_6",
@@ -3913,7 +3882,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_16_7",
@@ -3935,7 +3904,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_16_8",
@@ -3957,7 +3926,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_16_9",
@@ -3979,7 +3948,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_17_0",
@@ -4001,7 +3970,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_17_1",
@@ -4023,7 +3992,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_17_10",
@@ -4045,7 +4014,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_17_11",
@@ -4067,7 +4036,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_17_12",
@@ -4089,7 +4058,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_17_13",
@@ -4111,7 +4080,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_17_14",
@@ -4133,7 +4102,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_17_15",
@@ -4154,7 +4123,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_17_2",
@@ -4176,7 +4145,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_17_4",
@@ -4198,7 +4167,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_17_5",
@@ -4220,7 +4189,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_17_6",
@@ -4242,7 +4211,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_17_7",
@@ -4264,7 +4233,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_17_8",
@@ -4286,7 +4255,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_17_9",
@@ -4308,7 +4277,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_18_0",
@@ -4330,7 +4299,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_18_1",
@@ -4352,7 +4321,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_18_10",
@@ -4374,7 +4343,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_18_11",
@@ -4396,7 +4365,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_18_12",
@@ -4418,7 +4387,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_18_13",
@@ -4440,7 +4409,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_18_14",
@@ -4462,7 +4431,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_18_15",
@@ -4483,7 +4452,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_18_2",
@@ -4505,7 +4474,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_18_3",
@@ -4527,7 +4496,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_18_5",
@@ -4549,7 +4518,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_18_6",
@@ -4571,7 +4540,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_18_7",
@@ -4593,7 +4562,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_18_8",
@@ -4615,7 +4584,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_18_9",
@@ -4637,7 +4606,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_19_0",
@@ -4658,7 +4627,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_19_1",
@@ -4679,7 +4648,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_19_10",
@@ -4700,7 +4669,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_19_11",
@@ -4721,7 +4690,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_19_12",
@@ -4742,7 +4711,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_19_13",
@@ -4763,7 +4732,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_19_14",
@@ -4784,7 +4753,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_19_2",
@@ -4805,7 +4774,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_19_3",
@@ -4826,7 +4795,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_19_4",
@@ -4847,7 +4816,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_19_5",
@@ -4868,7 +4837,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_19_6",
@@ -4889,7 +4858,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_19_7",
@@ -4910,7 +4879,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_19_8",
@@ -4931,7 +4900,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_19_9",
@@ -4952,7 +4921,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_1_0",
@@ -4974,7 +4943,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_1_10",
@@ -4996,7 +4965,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_1_11",
@@ -5018,7 +4987,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_1_12",
@@ -5040,7 +5009,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_1_13",
@@ -5062,7 +5031,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_1_14",
@@ -5084,7 +5053,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_1_15",
@@ -5105,7 +5074,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_1_2",
@@ -5127,7 +5096,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_1_3",
@@ -5149,7 +5118,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_1_4",
@@ -5171,7 +5140,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_1_5",
@@ -5193,7 +5162,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_1_6",
@@ -5215,7 +5184,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_1_7",
@@ -5237,7 +5206,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_1_8",
@@ -5259,7 +5228,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_1_9",
@@ -5281,7 +5250,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_2_0",
@@ -5303,7 +5272,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_2_1",
@@ -5325,7 +5294,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_2_10",
@@ -5347,7 +5316,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_2_11",
@@ -5369,7 +5338,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_2_12",
@@ -5391,7 +5360,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_2_13",
@@ -5413,7 +5382,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_2_14",
@@ -5435,7 +5404,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_2_15",
@@ -5456,7 +5425,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_2_3",
@@ -5478,7 +5447,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_2_4",
@@ -5500,7 +5469,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_2_5",
@@ -5522,7 +5491,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_2_6",
@@ -5544,7 +5513,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_2_7",
@@ -5566,7 +5535,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_2_8",
@@ -5588,7 +5557,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_2_9",
@@ -5610,7 +5579,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_3_0",
@@ -5632,7 +5601,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_3_1",
@@ -5654,7 +5623,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_3_10",
@@ -5676,7 +5645,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_3_11",
@@ -5698,7 +5667,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_3_12",
@@ -5720,7 +5689,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_3_13",
@@ -5742,7 +5711,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_3_14",
@@ -5764,7 +5733,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_3_15",
@@ -5785,7 +5754,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_3_2",
@@ -5807,7 +5776,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_3_4",
@@ -5829,7 +5798,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_3_5",
@@ -5851,7 +5820,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_3_6",
@@ -5873,7 +5842,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_3_7",
@@ -5895,7 +5864,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_3_8",
@@ -5917,7 +5886,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_3_9",
@@ -5939,7 +5908,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_4_0",
@@ -5961,7 +5930,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_4_1",
@@ -5983,7 +5952,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_4_10",
@@ -6005,7 +5974,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_4_11",
@@ -6027,7 +5996,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_4_12",
@@ -6049,7 +6018,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_4_13",
@@ -6071,7 +6040,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_4_14",
@@ -6093,7 +6062,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_4_15",
@@ -6114,7 +6083,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_4_2",
@@ -6136,7 +6105,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_4_3",
@@ -6158,7 +6127,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_4_5",
@@ -6180,7 +6149,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_4_6",
@@ -6202,7 +6171,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_4_7",
@@ -6224,7 +6193,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_4_8",
@@ -6246,7 +6215,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_4_9",
@@ -6268,7 +6237,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_5_0",
@@ -6290,7 +6259,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_5_1",
@@ -6312,7 +6281,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_5_10",
@@ -6334,7 +6303,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_5_11",
@@ -6356,7 +6325,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_5_12",
@@ -6378,7 +6347,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_5_13",
@@ -6400,7 +6369,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_5_14",
@@ -6422,7 +6391,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_5_15",
@@ -6443,7 +6412,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_5_2",
@@ -6465,7 +6434,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_5_3",
@@ -6487,7 +6456,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_5_4",
@@ -6509,7 +6478,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_5_6",
@@ -6531,7 +6500,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_5_7",
@@ -6553,7 +6522,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_5_8",
@@ -6575,7 +6544,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_5_9",
@@ -6597,7 +6566,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_6_0",
@@ -6619,7 +6588,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_6_1",
@@ -6641,7 +6610,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_6_10",
@@ -6663,7 +6632,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_6_11",
@@ -6685,7 +6654,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_6_12",
@@ -6707,7 +6676,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_6_13",
@@ -6729,7 +6698,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_6_14",
@@ -6751,7 +6720,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_6_15",
@@ -6772,7 +6741,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_6_2",
@@ -6794,7 +6763,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_6_3",
@@ -6816,7 +6785,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_6_4",
@@ -6838,7 +6807,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_6_5",
@@ -6860,7 +6829,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_6_7",
@@ -6882,7 +6851,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_6_8",
@@ -6904,7 +6873,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_6_9",
@@ -6926,7 +6895,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_7_0",
@@ -6948,7 +6917,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_7_1",
@@ -6970,7 +6939,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_7_10",
@@ -6992,7 +6961,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_7_11",
@@ -7014,7 +6983,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_7_12",
@@ -7036,7 +7005,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_7_13",
@@ -7058,7 +7027,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_7_14",
@@ -7080,7 +7049,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_7_15",
@@ -7101,7 +7070,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_7_2",
@@ -7123,7 +7092,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_7_3",
@@ -7145,7 +7114,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_7_4",
@@ -7167,7 +7136,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_7_5",
@@ -7189,7 +7158,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_7_6",
@@ -7211,7 +7180,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_7_8",
@@ -7233,7 +7202,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_7_9",
@@ -7255,7 +7224,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_8_0",
@@ -7277,7 +7246,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_8_1",
@@ -7299,7 +7268,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_8_10",
@@ -7321,7 +7290,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_8_11",
@@ -7343,7 +7312,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_8_12",
@@ -7365,7 +7334,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_8_13",
@@ -7387,7 +7356,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_8_14",
@@ -7409,7 +7378,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_8_15",
@@ -7430,7 +7399,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_8_2",
@@ -7452,7 +7421,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_8_3",
@@ -7474,7 +7443,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_8_4",
@@ -7496,7 +7465,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_8_5",
@@ -7518,7 +7487,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_8_6",
@@ -7540,7 +7509,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_8_7",
@@ -7562,7 +7531,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_8_9",
@@ -7584,7 +7553,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_9_0",
@@ -7606,7 +7575,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_9_1",
@@ -7628,7 +7597,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_9_10",
@@ -7650,7 +7619,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_9_11",
@@ -7672,7 +7641,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_9_12",
@@ -7694,7 +7663,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_9_13",
@@ -7716,7 +7685,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_9_14",
@@ -7738,7 +7707,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_9_15",
@@ -7759,7 +7728,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_9_2",
@@ -7781,7 +7750,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_9_3",
@@ -7803,7 +7772,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_9_4",
@@ -7825,7 +7794,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_9_5",
@@ -7847,7 +7816,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_9_6",
@@ -7869,7 +7838,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_9_7",
@@ -7891,7 +7860,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "bed_dye_9_8",
@@ -7913,7 +7882,7 @@
                 }
             ],
             "block" : "crafting_table",
-            "priority" : 1
+            "priority" : 50
         },
         {
             "id" : "birch_stairs_birch_recipeId",
@@ -8139,8 +8108,7 @@
                     "damage" : 4
                 },
                 "B" : {
-                    "id" : 269,
-                    "damage" : -1
+                    "id" : 269
                 }
             },
             "output" : [
@@ -8809,33 +8777,27 @@
                 },
                 {
                     "id" : 457,
-                    "damage" : -1,
-                    "count" : 6
+                    "damage" : -1
                 },
                 {
                     "id" : 457,
-                    "damage" : -1,
-                    "count" : 6
+                    "damage" : -1
                 },
                 {
                     "id" : 457,
-                    "damage" : -1,
-                    "count" : 6
+                    "damage" : -1
                 },
                 {
                     "id" : 457,
-                    "damage" : -1,
-                    "count" : 6
+                    "damage" : -1
                 },
                 {
                     "id" : 457,
-                    "damage" : -1,
-                    "count" : 6
+                    "damage" : -1
                 },
                 {
                     "id" : 457,
-                    "damage" : -1,
-                    "count" : 6
+                    "damage" : -1
                 }
             ],
             "output" : [
@@ -8855,8 +8817,7 @@
                     "damage" : 2
                 },
                 "B" : {
-                    "id" : 269,
-                    "damage" : -1
+                    "id" : 269
                 }
             },
             "output" : [
@@ -9300,6 +9261,24 @@
             "input" : [
                 {
                     "id" : 351
+                }
+            ],
+            "output" : [
+                {
+                    "id" : 351,
+                    "damage" : 16
+                }
+            ],
+            "block" : "crafting_table",
+            "priority" : 0
+        },
+        {
+            "id" : "minecraft:black_dye_from_wither_rose",
+            "type" : 0,
+            "input" : [
+                {
+                    "id" : -216,
+                    "damage" : -1
                 }
             ],
             "output" : [
@@ -9919,8 +9898,7 @@
                     "id" : 5
                 },
                 "B" : {
-                    "id" : 269,
-                    "damage" : -1
+                    "id" : 269
                 }
             },
             "output" : [
@@ -10843,8 +10821,7 @@
             "type" : 1,
             "input" : {
                 "A" : {
-                    "id" : 346,
-                    "damage" : -1
+                    "id" : 346
                 },
                 "B" : {
                     "id" : 391,
@@ -11561,8 +11538,7 @@
                     "damage" : 5
                 },
                 "B" : {
-                    "id" : 269,
-                    "damage" : -1
+                    "id" : 269
                 }
             },
             "output" : [
@@ -12257,8 +12233,7 @@
                     "damage" : -1
                 },
                 "B" : {
-                    "id" : 261,
-                    "damage" : -1
+                    "id" : 261
                 },
                 "C" : {
                     "id" : 331,
@@ -14397,8 +14372,7 @@
                     "damage" : 3
                 },
                 "B" : {
-                    "id" : 269,
-                    "damage" : -1
+                    "id" : 269
                 }
             },
             "output" : [
@@ -19961,8 +19935,7 @@
                     "damage" : 1
                 },
                 "B" : {
-                    "id" : 269,
-                    "damage" : -1
+                    "id" : 269
                 }
             },
             "output" : [
@@ -20338,8 +20311,7 @@
             },
             "output" : [
                 {
-                    "id" : 77,
-                    "damage" : 5
+                    "id" : 77
                 }
             ],
             "shape" : [
@@ -20576,6 +20548,420 @@
             ],
             "shape" : [
                 "A"
+            ],
+            "block" : "crafting_table",
+            "priority" : 0
+        },
+        {
+            "id" : "minecraft:suspicious_stew_from_allium",
+            "type" : 0,
+            "input" : [
+                {
+                    "id" : 39,
+                    "damage" : -1
+                },
+                {
+                    "id" : 40,
+                    "damage" : -1
+                },
+                {
+                    "id" : 281,
+                    "damage" : -1
+                },
+                {
+                    "id" : 38,
+                    "damage" : 2
+                }
+            ],
+            "output" : [
+                {
+                    "id" : 734,
+                    "damage" : 7
+                }
+            ],
+            "block" : "crafting_table",
+            "priority" : 0
+        },
+        {
+            "id" : "minecraft:suspicious_stew_from_azure_bluet",
+            "type" : 0,
+            "input" : [
+                {
+                    "id" : 39,
+                    "damage" : -1
+                },
+                {
+                    "id" : 40,
+                    "damage" : -1
+                },
+                {
+                    "id" : 281,
+                    "damage" : -1
+                },
+                {
+                    "id" : 38,
+                    "damage" : 3
+                }
+            ],
+            "output" : [
+                {
+                    "id" : 734,
+                    "damage" : 3
+                }
+            ],
+            "block" : "crafting_table",
+            "priority" : 0
+        },
+        {
+            "id" : "minecraft:suspicious_stew_from_blue_orchid",
+            "type" : 0,
+            "input" : [
+                {
+                    "id" : 39,
+                    "damage" : -1
+                },
+                {
+                    "id" : 40,
+                    "damage" : -1
+                },
+                {
+                    "id" : 281,
+                    "damage" : -1
+                },
+                {
+                    "id" : 38,
+                    "damage" : 1
+                }
+            ],
+            "output" : [
+                {
+                    "id" : 734,
+                    "damage" : 6
+                }
+            ],
+            "block" : "crafting_table",
+            "priority" : 0
+        },
+        {
+            "id" : "minecraft:suspicious_stew_from_cornflower",
+            "type" : 0,
+            "input" : [
+                {
+                    "id" : 39,
+                    "damage" : -1
+                },
+                {
+                    "id" : 40,
+                    "damage" : -1
+                },
+                {
+                    "id" : 281,
+                    "damage" : -1
+                },
+                {
+                    "id" : 38,
+                    "damage" : 9
+                }
+            ],
+            "output" : [
+                {
+                    "id" : 734,
+                    "damage" : 1
+                }
+            ],
+            "block" : "crafting_table",
+            "priority" : 0
+        },
+        {
+            "id" : "minecraft:suspicious_stew_from_dandelion",
+            "type" : 0,
+            "input" : [
+                {
+                    "id" : 39,
+                    "damage" : -1
+                },
+                {
+                    "id" : 40,
+                    "damage" : -1
+                },
+                {
+                    "id" : 281,
+                    "damage" : -1
+                },
+                {
+                    "id" : 37,
+                    "damage" : -1
+                }
+            ],
+            "output" : [
+                {
+                    "id" : 734,
+                    "damage" : 5
+                }
+            ],
+            "block" : "crafting_table",
+            "priority" : 0
+        },
+        {
+            "id" : "minecraft:suspicious_stew_from_lily_of_the_valley",
+            "type" : 0,
+            "input" : [
+                {
+                    "id" : 39,
+                    "damage" : -1
+                },
+                {
+                    "id" : 40,
+                    "damage" : -1
+                },
+                {
+                    "id" : 281,
+                    "damage" : -1
+                },
+                {
+                    "id" : 38,
+                    "damage" : 10
+                }
+            ],
+            "output" : [
+                {
+                    "id" : 734,
+                    "damage" : 4
+                }
+            ],
+            "block" : "crafting_table",
+            "priority" : 0
+        },
+        {
+            "id" : "minecraft:suspicious_stew_from_oxeye_daisy",
+            "type" : 0,
+            "input" : [
+                {
+                    "id" : 39,
+                    "damage" : -1
+                },
+                {
+                    "id" : 40,
+                    "damage" : -1
+                },
+                {
+                    "id" : 281,
+                    "damage" : -1
+                },
+                {
+                    "id" : 38,
+                    "damage" : 8
+                }
+            ],
+            "output" : [
+                {
+                    "id" : 734,
+                    "damage" : 8
+                }
+            ],
+            "block" : "crafting_table",
+            "priority" : 0
+        },
+        {
+            "id" : "minecraft:suspicious_stew_from_poppy",
+            "type" : 0,
+            "input" : [
+                {
+                    "id" : 39,
+                    "damage" : -1
+                },
+                {
+                    "id" : 40,
+                    "damage" : -1
+                },
+                {
+                    "id" : 281,
+                    "damage" : -1
+                },
+                {
+                    "id" : 38
+                }
+            ],
+            "output" : [
+                {
+                    "id" : 734
+                }
+            ],
+            "block" : "crafting_table",
+            "priority" : 0
+        },
+        {
+            "id" : "minecraft:suspicious_stew_from_tulip_orange",
+            "type" : 0,
+            "input" : [
+                {
+                    "id" : 39,
+                    "damage" : -1
+                },
+                {
+                    "id" : 40,
+                    "damage" : -1
+                },
+                {
+                    "id" : 281,
+                    "damage" : -1
+                },
+                {
+                    "id" : 38,
+                    "damage" : 5
+                }
+            ],
+            "output" : [
+                {
+                    "id" : 734,
+                    "damage" : 2
+                }
+            ],
+            "block" : "crafting_table",
+            "priority" : 0
+        },
+        {
+            "id" : "minecraft:suspicious_stew_from_tulip_pink",
+            "type" : 0,
+            "input" : [
+                {
+                    "id" : 39,
+                    "damage" : -1
+                },
+                {
+                    "id" : 40,
+                    "damage" : -1
+                },
+                {
+                    "id" : 281,
+                    "damage" : -1
+                },
+                {
+                    "id" : 38,
+                    "damage" : 7
+                }
+            ],
+            "output" : [
+                {
+                    "id" : 734,
+                    "damage" : 2
+                }
+            ],
+            "block" : "crafting_table",
+            "priority" : 0
+        },
+        {
+            "id" : "minecraft:suspicious_stew_from_tulip_red",
+            "type" : 0,
+            "input" : [
+                {
+                    "id" : 39,
+                    "damage" : -1
+                },
+                {
+                    "id" : 40,
+                    "damage" : -1
+                },
+                {
+                    "id" : 281,
+                    "damage" : -1
+                },
+                {
+                    "id" : 38,
+                    "damage" : 4
+                }
+            ],
+            "output" : [
+                {
+                    "id" : 734,
+                    "damage" : 2
+                }
+            ],
+            "block" : "crafting_table",
+            "priority" : 0
+        },
+        {
+            "id" : "minecraft:suspicious_stew_from_tulip_white",
+            "type" : 0,
+            "input" : [
+                {
+                    "id" : 39,
+                    "damage" : -1
+                },
+                {
+                    "id" : 40,
+                    "damage" : -1
+                },
+                {
+                    "id" : 281,
+                    "damage" : -1
+                },
+                {
+                    "id" : 38,
+                    "damage" : 6
+                }
+            ],
+            "output" : [
+                {
+                    "id" : 734,
+                    "damage" : 2
+                }
+            ],
+            "block" : "crafting_table",
+            "priority" : 0
+        },
+        {
+            "id" : "minecraft:suspicious_stew_from_wither_rose",
+            "type" : 0,
+            "input" : [
+                {
+                    "id" : 39,
+                    "damage" : -1
+                },
+                {
+                    "id" : 40,
+                    "damage" : -1
+                },
+                {
+                    "id" : 281,
+                    "damage" : -1
+                },
+                {
+                    "id" : -216,
+                    "damage" : -1
+                }
+            ],
+            "output" : [
+                {
+                    "id" : 734,
+                    "damage" : 9
+                }
+            ],
+            "block" : "crafting_table",
+            "priority" : 0
+        },
+        {
+            "id" : "minecraft:tnt",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "id" : 289,
+                    "damage" : -1
+                },
+                "B" : {
+                    "id" : 12,
+                    "damage" : -1
+                }
+            },
+            "output" : [
+                {
+                    "id" : 46
+                }
+            ],
+            "shape" : [
+                "ABA",
+                "BAB",
+                "ABA"
             ],
             "block" : "crafting_table",
             "priority" : 0
@@ -39115,6 +39501,149 @@
         {
             "type" : 3,
             "input" : {
+                "id" : -212
+            },
+            "output" : {
+                "id" : 263,
+                "damage" : 1
+            },
+            "block" : "furnace"
+        },
+        {
+            "type" : 3,
+            "input" : {
+                "id" : -212,
+                "damage" : 1
+            },
+            "output" : {
+                "id" : 263,
+                "damage" : 1
+            },
+            "block" : "furnace"
+        },
+        {
+            "type" : 3,
+            "input" : {
+                "id" : -212,
+                "damage" : 2
+            },
+            "output" : {
+                "id" : 263,
+                "damage" : 1
+            },
+            "block" : "furnace"
+        },
+        {
+            "type" : 3,
+            "input" : {
+                "id" : -212,
+                "damage" : 3
+            },
+            "output" : {
+                "id" : 263,
+                "damage" : 1
+            },
+            "block" : "furnace"
+        },
+        {
+            "type" : 3,
+            "input" : {
+                "id" : -212,
+                "damage" : 4
+            },
+            "output" : {
+                "id" : 263,
+                "damage" : 1
+            },
+            "block" : "furnace"
+        },
+        {
+            "type" : 3,
+            "input" : {
+                "id" : -212,
+                "damage" : 5
+            },
+            "output" : {
+                "id" : 263,
+                "damage" : 1
+            },
+            "block" : "furnace"
+        },
+        {
+            "type" : 3,
+            "input" : {
+                "id" : -212,
+                "damage" : 8
+            },
+            "output" : {
+                "id" : 263,
+                "damage" : 1
+            },
+            "block" : "furnace"
+        },
+        {
+            "type" : 3,
+            "input" : {
+                "id" : -212,
+                "damage" : 9
+            },
+            "output" : {
+                "id" : 263,
+                "damage" : 1
+            },
+            "block" : "furnace"
+        },
+        {
+            "type" : 3,
+            "input" : {
+                "id" : -212,
+                "damage" : 10
+            },
+            "output" : {
+                "id" : 263,
+                "damage" : 1
+            },
+            "block" : "furnace"
+        },
+        {
+            "type" : 3,
+            "input" : {
+                "id" : -212,
+                "damage" : 11
+            },
+            "output" : {
+                "id" : 263,
+                "damage" : 1
+            },
+            "block" : "furnace"
+        },
+        {
+            "type" : 3,
+            "input" : {
+                "id" : -212,
+                "damage" : 12
+            },
+            "output" : {
+                "id" : 263,
+                "damage" : 1
+            },
+            "block" : "furnace"
+        },
+        {
+            "type" : 3,
+            "input" : {
+                "id" : -212,
+                "damage" : 13
+            },
+            "output" : {
+                "id" : 263,
+                "damage" : 1
+            },
+            "block" : "furnace"
+        },
+        {
+            "type" : 3,
+            "input" : {
                 "id" : -156,
                 "damage" : -1
             },
@@ -39199,8 +39728,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 1,
-                "damage" : -1
+                "id" : 1
             },
             "output" : {
                 "id" : -183
@@ -39747,8 +40275,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 256,
-                "damage" : -1
+                "id" : 256
             },
             "output" : {
                 "id" : 452
@@ -39758,8 +40285,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 256,
-                "damage" : -1
+                "id" : 256
             },
             "output" : {
                 "id" : 452
@@ -39769,8 +40295,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 257,
-                "damage" : -1
+                "id" : 257
             },
             "output" : {
                 "id" : 452
@@ -39780,8 +40305,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 257,
-                "damage" : -1
+                "id" : 257
             },
             "output" : {
                 "id" : 452
@@ -39791,8 +40315,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 258,
-                "damage" : -1
+                "id" : 258
             },
             "output" : {
                 "id" : 452
@@ -39802,8 +40325,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 258,
-                "damage" : -1
+                "id" : 258
             },
             "output" : {
                 "id" : 452
@@ -39813,8 +40335,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 267,
-                "damage" : -1
+                "id" : 267
             },
             "output" : {
                 "id" : 452
@@ -39824,8 +40345,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 267,
-                "damage" : -1
+                "id" : 267
             },
             "output" : {
                 "id" : 452
@@ -39835,8 +40355,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 283,
-                "damage" : -1
+                "id" : 283
             },
             "output" : {
                 "id" : 371
@@ -39846,8 +40365,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 283,
-                "damage" : -1
+                "id" : 283
             },
             "output" : {
                 "id" : 371
@@ -39857,8 +40375,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 284,
-                "damage" : -1
+                "id" : 284
             },
             "output" : {
                 "id" : 371
@@ -39868,8 +40385,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 284,
-                "damage" : -1
+                "id" : 284
             },
             "output" : {
                 "id" : 371
@@ -39879,8 +40395,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 285,
-                "damage" : -1
+                "id" : 285
             },
             "output" : {
                 "id" : 371
@@ -39890,8 +40405,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 285,
-                "damage" : -1
+                "id" : 285
             },
             "output" : {
                 "id" : 371
@@ -39901,8 +40415,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 286,
-                "damage" : -1
+                "id" : 286
             },
             "output" : {
                 "id" : 371
@@ -39912,8 +40425,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 286,
-                "damage" : -1
+                "id" : 286
             },
             "output" : {
                 "id" : 371
@@ -39923,8 +40435,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 292,
-                "damage" : -1
+                "id" : 292
             },
             "output" : {
                 "id" : 452
@@ -39934,8 +40445,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 292,
-                "damage" : -1
+                "id" : 292
             },
             "output" : {
                 "id" : 452
@@ -39945,8 +40455,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 294,
-                "damage" : -1
+                "id" : 294
             },
             "output" : {
                 "id" : 371
@@ -39956,8 +40465,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 294,
-                "damage" : -1
+                "id" : 294
             },
             "output" : {
                 "id" : 371
@@ -39967,8 +40475,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 302,
-                "damage" : -1
+                "id" : 302
             },
             "output" : {
                 "id" : 452
@@ -39978,8 +40485,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 302,
-                "damage" : -1
+                "id" : 302
             },
             "output" : {
                 "id" : 452
@@ -39989,8 +40495,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 303,
-                "damage" : -1
+                "id" : 303
             },
             "output" : {
                 "id" : 452
@@ -40000,8 +40505,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 303,
-                "damage" : -1
+                "id" : 303
             },
             "output" : {
                 "id" : 452
@@ -40011,8 +40515,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 304,
-                "damage" : -1
+                "id" : 304
             },
             "output" : {
                 "id" : 452
@@ -40022,8 +40525,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 304,
-                "damage" : -1
+                "id" : 304
             },
             "output" : {
                 "id" : 452
@@ -40033,8 +40535,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 305,
-                "damage" : -1
+                "id" : 305
             },
             "output" : {
                 "id" : 452
@@ -40044,8 +40545,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 305,
-                "damage" : -1
+                "id" : 305
             },
             "output" : {
                 "id" : 452
@@ -40055,8 +40555,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 306,
-                "damage" : -1
+                "id" : 306
             },
             "output" : {
                 "id" : 452
@@ -40066,8 +40565,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 306,
-                "damage" : -1
+                "id" : 306
             },
             "output" : {
                 "id" : 452
@@ -40077,8 +40575,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 307,
-                "damage" : -1
+                "id" : 307
             },
             "output" : {
                 "id" : 452
@@ -40088,8 +40585,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 307,
-                "damage" : -1
+                "id" : 307
             },
             "output" : {
                 "id" : 452
@@ -40099,8 +40595,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 308,
-                "damage" : -1
+                "id" : 308
             },
             "output" : {
                 "id" : 452
@@ -40110,8 +40605,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 308,
-                "damage" : -1
+                "id" : 308
             },
             "output" : {
                 "id" : 452
@@ -40121,8 +40615,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 309,
-                "damage" : -1
+                "id" : 309
             },
             "output" : {
                 "id" : 452
@@ -40132,8 +40625,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 309,
-                "damage" : -1
+                "id" : 309
             },
             "output" : {
                 "id" : 452
@@ -40143,8 +40635,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 314,
-                "damage" : -1
+                "id" : 314
             },
             "output" : {
                 "id" : 371
@@ -40154,8 +40645,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 314,
-                "damage" : -1
+                "id" : 314
             },
             "output" : {
                 "id" : 371
@@ -40165,8 +40655,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 315,
-                "damage" : -1
+                "id" : 315
             },
             "output" : {
                 "id" : 371
@@ -40176,8 +40665,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 315,
-                "damage" : -1
+                "id" : 315
             },
             "output" : {
                 "id" : 371
@@ -40187,8 +40675,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 316,
-                "damage" : -1
+                "id" : 316
             },
             "output" : {
                 "id" : 371
@@ -40198,8 +40685,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 316,
-                "damage" : -1
+                "id" : 316
             },
             "output" : {
                 "id" : 371
@@ -40209,8 +40695,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 317,
-                "damage" : -1
+                "id" : 317
             },
             "output" : {
                 "id" : 371
@@ -40220,8 +40705,7 @@
         {
             "type" : 3,
             "input" : {
-                "id" : 317,
-                "damage" : -1
+                "id" : 317
             },
             "output" : {
                 "id" : 371
