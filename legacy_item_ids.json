@@ -212,6 +212,7 @@
     "minecraft:acacia_sign" : 475,
     "minecraft:darkoak_sign" : 476,
     "minecraft:sweet_berries" : 477,
+    "minecraft:camera" : 498,
     "minecraft:compound" : 499,
     "minecraft:record_13" : 500,
     "minecraft:record_cat" : 501,
@@ -226,5 +227,8 @@
     "minecraft:record_11" : 510,
     "minecraft:record_wait" : 511,
     "minecraft:shield" : 513,
-    "minecraft:campfire" : 720
+    "minecraft:campfire" : 720,
+    "minecraft:suspicious_stew" : 734,
+    "minecraft:honeycomb" : 736,
+    "minecraft:honey_bottle" : 737
 }

@@ -8,14 +8,6 @@
         "id" : -158
     },
     {
-        "name" : "minecraft:stripped_jungle_log",
-        "id" : -7
-    },
-    {
-        "name" : "minecraft:unlit_redstone_torch",
-        "id" : 75
-    },
-    {
         "name" : "minecraft:item.birch_door",
         "id" : 194
     },
@@ -50,6 +42,10 @@
     {
         "name" : "minecraft:bread",
         "id" : 297
+    },
+    {
+        "name" : "minecraft:light_block",
+        "id" : -215
     },
     {
         "name" : "minecraft:porkchop",
@@ -368,10 +364,6 @@
         "id" : 362
     },
     {
-        "name" : "minecraft:lit_redstone_ore",
-        "id" : 74
-    },
-    {
         "name" : "minecraft:nether_wart",
         "id" : 372
     },
@@ -620,6 +612,10 @@
         "id" : 373
     },
     {
+        "name" : "minecraft:wither_rose",
+        "id" : -216
+    },
+    {
         "name" : "minecraft:leather_helmet",
         "id" : 298
     },
@@ -654,6 +650,14 @@
     {
         "name" : "minecraft:stonebrick",
         "id" : 98
+    },
+    {
+        "name" : "minecraft:stickypistonarmcollision",
+        "id" : -217
+    },
+    {
+        "name" : "minecraft:structure_void",
+        "id" : 217
     },
     {
         "name" : "minecraft:chainmail_chestplate",
@@ -1232,16 +1236,16 @@
         "id" : 500
     },
     {
+        "name" : "minecraft:stone_button",
+        "id" : 77
+    },
+    {
         "name" : "minecraft:record_cat",
         "id" : 501
     },
     {
         "name" : "minecraft:element_89",
         "id" : -100
-    },
-    {
-        "name" : "minecraft:stone_button",
-        "id" : 77
     },
     {
         "name" : "minecraft:record_blocks",
@@ -1476,6 +1480,38 @@
         "id" : 434
     },
     {
+        "name" : "minecraft:suspicious_stew",
+        "id" : 734
+    },
+    {
+        "name" : "minecraft:birch_fence_gate",
+        "id" : 184
+    },
+    {
+        "name" : "minecraft:honeycomb",
+        "id" : 736
+    },
+    {
+        "name" : "minecraft:element_115",
+        "id" : -126
+    },
+    {
+        "name" : "minecraft:honey_bottle",
+        "id" : 737
+    },
+    {
+        "name" : "minecraft:element_4",
+        "id" : -15
+    },
+    {
+        "name" : "minecraft:element_24",
+        "id" : -35
+    },
+    {
+        "name" : "minecraft:camera",
+        "id" : 498
+    },
+    {
         "name" : "minecraft:compound",
         "id" : 499
     },
@@ -1486,6 +1522,10 @@
     {
         "name" : "minecraft:element_40",
         "id" : -51
+    },
+    {
+        "name" : "minecraft:honey_block",
+        "id" : -220
     },
     {
         "name" : "minecraft:rapid_fertilizer",
@@ -1638,10 +1678,6 @@
     {
         "name" : "minecraft:planks",
         "id" : 5
-    },
-    {
-        "name" : "minecraft:redstone_torch",
-        "id" : 76
     },
     {
         "name" : "minecraft:quartz_block",
@@ -1810,14 +1846,6 @@
     {
         "name" : "minecraft:element_21",
         "id" : -32
-    },
-    {
-        "name" : "minecraft:element_4",
-        "id" : -15
-    },
-    {
-        "name" : "minecraft:element_24",
-        "id" : -35
     },
     {
         "name" : "minecraft:element_6",
@@ -2160,14 +2188,6 @@
         "id" : -125
     },
     {
-        "name" : "minecraft:birch_fence_gate",
-        "id" : 184
-    },
-    {
-        "name" : "minecraft:element_115",
-        "id" : -126
-    },
-    {
         "name" : "minecraft:element_117",
         "id" : -128
     },
@@ -2238,6 +2258,10 @@
     {
         "name" : "minecraft:lapis_ore",
         "id" : 21
+    },
+    {
+        "name" : "minecraft:beehive",
+        "id" : -219
     },
     {
         "name" : "minecraft:item.bed",
@@ -2328,8 +2352,24 @@
         "id" : 71
     },
     {
+        "name" : "minecraft:lit_redstone_ore",
+        "id" : 74
+    },
+    {
+        "name" : "minecraft:stripped_jungle_log",
+        "id" : -7
+    },
+    {
+        "name" : "minecraft:unlit_redstone_torch",
+        "id" : 75
+    },
+    {
         "name" : "minecraft:red_nether_brick_stairs",
         "id" : -184
+    },
+    {
+        "name" : "minecraft:redstone_torch",
+        "id" : 76
     },
     {
         "name" : "minecraft:ice",
@@ -2656,6 +2696,14 @@
         "id" : 240
     },
     {
+        "name" : "minecraft:fire",
+        "id" : 51
+    },
+    {
+        "name" : "minecraft:item.camera",
+        "id" : 242
+    },
+    {
         "name" : "minecraft:stonecutter",
         "id" : 245
     },
@@ -2678,10 +2726,6 @@
     {
         "name" : "minecraft:stripped_dark_oak_log",
         "id" : -9
-    },
-    {
-        "name" : "minecraft:fire",
-        "id" : 51
     },
     {
         "name" : "minecraft:hard_glass_pane",
@@ -2754,5 +2798,13 @@
     {
         "name" : "minecraft:item.campfire",
         "id" : -209
+    },
+    {
+        "name" : "minecraft:bee_nest",
+        "id" : -218
+    },
+    {
+        "name" : "minecraft:honeycomb_block",
+        "id" : -221
     }
 ]
