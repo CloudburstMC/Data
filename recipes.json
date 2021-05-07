@@ -41944,7 +41944,7 @@
             "priority" : 50
         },
         {
-            "id" : "stoneslab_recipeId",
+            "id" : "stoneslab_prismarine_recipeId",
             "type" : 1,
             "input" : {
                 "A" : {
