@@ -27,6 +27,7 @@
     "10": "minecraft:lava_bucket"
   },
   "minecraft:coal": {
+    "0": "minecraft:coal",
     "1": "minecraft:charcoal"
   },
   "minecraft:dye": {
@@ -52,7 +53,7 @@
     "19": "minecraft:white_dye"
   },
   "minecraft:spawn_egg": {
-    "0": "",
+    "0": "minecraft:spawn_egg",
     "10": "minecraft:chicken_spawn_egg",
     "11": "minecraft:cow_spawn_egg",
     "12": "minecraft:pig_spawn_egg",
