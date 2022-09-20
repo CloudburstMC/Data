@@ -2116,13 +2116,6 @@
             "block_state_b64" : "CgAACAQAbmFtZRgAbWluZWNyYWZ0OmNvcmFsX2Zhbl9kZWFkBAkAbmFtZV9oYXNo3kgokLV4uQIKBgBzdGF0ZXMICwBjb3JhbF9jb2xvcgYAeWVsbG93AxMAY29yYWxfZmFuX2RpcmVjdGlvbgAAAAAAAwcAdmVyc2lvbgEKEgEA"
         },
         {
-            "id" : "minecraft:kelp"
-        },
-        {
-            "id" : "minecraft:seagrass",
-            "block_state_b64" : "CgAACAQAbmFtZRIAbWluZWNyYWZ0OnNlYWdyYXNzBAkAbmFtZV9oYXNoHSBFtoHdWxIKBgBzdGF0ZXMIDgBzZWFfZ3Jhc3NfdHlwZQcAZGVmYXVsdAADBwB2ZXJzaW9uAQoSAQA="
-        },
-        {
             "id" : "minecraft:crimson_roots",
             "block_state_b64" : "CgAACAQAbmFtZRcAbWluZWNyYWZ0OmNyaW1zb25fcm9vdHMECQBuYW1lX2hhc2j1fWgQLViv5QoGAHN0YXRlcwADBwB2ZXJzaW9uAQoSAQA="
         },
@@ -2276,6 +2269,13 @@
         {
             "id" : "minecraft:waterlily",
             "block_state_b64" : "CgAACAQAbmFtZRMAbWluZWNyYWZ0OndhdGVybGlseQQJAG5hbWVfaGFzaEHgC4c1SXg0CgYAc3RhdGVzAAMHAHZlcnNpb24BChIBAA=="
+        },
+        {
+            "id" : "minecraft:seagrass",
+            "block_state_b64" : "CgAACAQAbmFtZRIAbWluZWNyYWZ0OnNlYWdyYXNzBAkAbmFtZV9oYXNoHSBFtoHdWxIKBgBzdGF0ZXMIDgBzZWFfZ3Jhc3NfdHlwZQcAZGVmYXVsdAADBwB2ZXJzaW9uAQoSAQA="
+        },
+        {
+            "id" : "minecraft:kelp"
         },
         {
             "id" : "minecraft:deadbush",
