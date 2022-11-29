@@ -1,5 +1,5 @@
 {
-    "version" : 557,
+    "version" : 560,
     "recipes" : [
         {
             "id" : "minecraft:smithingtable_diamond_axe_to_netherite_axe",
@@ -234,6 +234,31 @@
             ],
             "block" : "smithing_table",
             "priority" : 2
+        },
+        {
+            "id" : "minecraft:stripped_mangrove_wood",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -485,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : -498,
+                    "id" : "minecraft:stripped_mangrove_wood",
+                    "count" : 3
+                }
+            ],
+            "shape" : [
+                "AA",
+                "AA"
+            ],
+            "block" : "deprecated",
+            "priority" : 0
         },
         {
             "type" : 4,
@@ -5455,6 +5480,501 @@
             ],
             "block" : "crafting_table",
             "priority" : 1
+        },
+        {
+            "id" : "bed_color_bamboo_0",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 0
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed"
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
+        },
+        {
+            "id" : "bed_color_bamboo_1",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 1
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed",
+                    "damage" : 1
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
+        },
+        {
+            "id" : "bed_color_bamboo_10",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 10
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed",
+                    "damage" : 10
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
+        },
+        {
+            "id" : "bed_color_bamboo_11",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 11
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed",
+                    "damage" : 11
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
+        },
+        {
+            "id" : "bed_color_bamboo_12",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 12
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed",
+                    "damage" : 12
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
+        },
+        {
+            "id" : "bed_color_bamboo_13",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 13
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed",
+                    "damage" : 13
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
+        },
+        {
+            "id" : "bed_color_bamboo_14",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 14
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed",
+                    "damage" : 14
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
+        },
+        {
+            "id" : "bed_color_bamboo_15",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 15
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed",
+                    "damage" : 15
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
+        },
+        {
+            "id" : "bed_color_bamboo_2",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 2
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed",
+                    "damage" : 2
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
+        },
+        {
+            "id" : "bed_color_bamboo_3",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 3
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed",
+                    "damage" : 3
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
+        },
+        {
+            "id" : "bed_color_bamboo_4",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 4
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed",
+                    "damage" : 4
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
+        },
+        {
+            "id" : "bed_color_bamboo_5",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 5
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed",
+                    "damage" : 5
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
+        },
+        {
+            "id" : "bed_color_bamboo_6",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 6
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed",
+                    "damage" : 6
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
+        },
+        {
+            "id" : "bed_color_bamboo_7",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 7
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed",
+                    "damage" : 7
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
+        },
+        {
+            "id" : "bed_color_bamboo_8",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 8
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed",
+                    "damage" : 8
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
+        },
+        {
+            "id" : "bed_color_bamboo_9",
+            "type" : 1,
+            "input" : {
+                "A" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : 35,
+                    "auxValue" : 9
+                },
+                "B" : {
+                    "type" : "default",
+                    "count" : 1,
+                    "itemId" : -510,
+                    "auxValue" : 32767
+                }
+            },
+            "output" : [
+                {
+                    "legacyId" : 418,
+                    "id" : "minecraft:bed",
+                    "damage" : 9
+                }
+            ],
+            "shape" : [
+                "AAA",
+                "BBB"
+            ],
+            "block" : "crafting_table",
+            "priority" : 2
         },
         {
             "id" : "bed_dye_0_1",
@@ -14079,7 +14599,7 @@
             ],
             "output" : [
                 {
-                    "legacyId" : 642,
+                    "legacyId" : 645,
                     "id" : "minecraft:acacia_chest_boat"
                 }
             ],
@@ -15211,7 +15731,7 @@
             ],
             "output" : [
                 {
-                    "legacyId" : 639,
+                    "legacyId" : 642,
                     "id" : "minecraft:birch_chest_boat"
                 }
             ],
@@ -19106,7 +19626,7 @@
             ],
             "output" : [
                 {
-                    "legacyId" : 638,
+                    "legacyId" : 641,
                     "id" : "minecraft:oak_chest_boat"
                 }
             ],
@@ -21304,7 +21824,7 @@
             ],
             "output" : [
                 {
-                    "legacyId" : 643,
+                    "legacyId" : 646,
                     "id" : "minecraft:dark_oak_chest_boat"
                 }
             ],
@@ -22768,7 +23288,7 @@
             },
             "output" : [
                 {
-                    "legacyId" : 653,
+                    "legacyId" : 657,
                     "id" : "minecraft:end_crystal"
                 }
             ],
@@ -25928,7 +26448,7 @@
             ],
             "output" : [
                 {
-                    "legacyId" : 640,
+                    "legacyId" : 643,
                     "id" : "minecraft:jungle_chest_boat"
                 }
             ],
@@ -28919,7 +29439,7 @@
             },
             "output" : [
                 {
-                    "legacyId" : 635,
+                    "legacyId" : 636,
                     "id" : "minecraft:mangrove_boat"
                 }
             ],
@@ -28966,13 +29486,13 @@
                 {
                     "type" : "default",
                     "count" : 1,
-                    "itemId" : 635,
+                    "itemId" : 636,
                     "auxValue" : 0
                 }
             ],
             "output" : [
                 {
-                    "legacyId" : 644,
+                    "legacyId" : 647,
                     "id" : "minecraft:mangrove_chest_boat"
                 }
             ],
@@ -28992,7 +29512,7 @@
             },
             "output" : [
                 {
-                    "legacyId" : 633,
+                    "legacyId" : 634,
                     "id" : "minecraft:mangrove_door",
                     "count" : 3
                 }
@@ -29204,7 +29724,7 @@
             },
             "output" : [
                 {
-                    "legacyId" : 634,
+                    "legacyId" : 635,
                     "id" : "minecraft:mangrove_sign",
                     "count" : 3
                 }
@@ -32965,13 +33485,13 @@
                 "A" : {
                     "type" : "default",
                     "count" : 1,
-                    "itemId" : 637,
+                    "itemId" : 640,
                     "auxValue" : 32767
                 }
             },
             "output" : [
                 {
-                    "legacyId" : 636,
+                    "legacyId" : 639,
                     "id" : "minecraft:music_disc_5"
                 }
             ],
@@ -32990,7 +33510,7 @@
                 "A" : {
                     "type" : "default",
                     "count" : 1,
-                    "itemId" : 647,
+                    "itemId" : 651,
                     "auxValue" : 32767
                 },
                 "B" : {
@@ -33002,7 +33522,7 @@
             },
             "output" : [
                 {
-                    "legacyId" : 646,
+                    "legacyId" : 650,
                     "id" : "minecraft:recovery_compass"
                 }
             ],
@@ -33021,7 +33541,7 @@
                 "A" : {
                     "type" : "default",
                     "count" : 1,
-                    "itemId" : 647,
+                    "itemId" : 651,
                     "auxValue" : 32767
                 },
                 "B" : {
@@ -33033,7 +33553,7 @@
             },
             "output" : [
                 {
-                    "legacyId" : 646,
+                    "legacyId" : 650,
                     "id" : "minecraft:recovery_compass"
                 }
             ],
@@ -36630,7 +37150,7 @@
             ],
             "output" : [
                 {
-                    "legacyId" : 641,
+                    "legacyId" : 644,
                     "id" : "minecraft:spruce_chest_boat"
                 }
             ],
@@ -37757,31 +38277,6 @@
                 {
                     "legacyId" : -300,
                     "id" : "minecraft:stripped_crimson_hyphae",
-                    "count" : 3
-                }
-            ],
-            "shape" : [
-                "AA",
-                "AA"
-            ],
-            "block" : "crafting_table",
-            "priority" : 0
-        },
-        {
-            "id" : "minecraft:stripped_mangrove_wood",
-            "type" : 1,
-            "input" : {
-                "A" : {
-                    "type" : "default",
-                    "count" : 1,
-                    "itemId" : -485,
-                    "auxValue" : 32767
-                }
-            },
-            "output" : [
-                {
-                    "legacyId" : -498,
-                    "id" : "minecraft:stripped_mangrove_wood",
                     "count" : 3
                 }
             ],
