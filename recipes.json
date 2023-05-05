@@ -1,5 +1,5 @@
 {
-    "version": 575,
+    "version": 582,
     "recipes": [
         {
             "type": 8,
@@ -14451,8 +14451,8 @@
             },
             "output": [
                 {
-                    "legacyId": 85,
-                    "id": "minecraft:fence",
+                    "legacyId": -575,
+                    "id": "minecraft:acacia_fence",
                     "count": 3
                 }
             ],
@@ -15583,8 +15583,8 @@
             },
             "output": [
                 {
-                    "legacyId": 85,
-                    "id": "minecraft:fence",
+                    "legacyId": -576,
+                    "id": "minecraft:birch_fence",
                     "count": 3
                 }
             ],
@@ -15632,8 +15632,8 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 17,
-                    "auxValue": 2
+                    "itemId": -570,
+                    "auxValue": 0
                 }
             },
             "output": [
@@ -15754,8 +15754,8 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 17,
-                    "auxValue": 2
+                    "itemId": -570,
+                    "auxValue": 0
                 }
             },
             "output": [
@@ -18112,10 +18112,8 @@
                     "auxValue": 32767
                 },
                 "C": {
-                    "type": "default",
-                    "count": 1,
-                    "itemId": 17,
-                    "auxValue": 32767
+                    "type": "complex_alias",
+                    "count": 1
                 }
             },
             "output": [
@@ -18149,10 +18147,8 @@
                     "auxValue": 32767
                 },
                 "C": {
-                    "type": "default",
-                    "count": 1,
-                    "itemId": 162,
-                    "auxValue": 32767
+                    "type": "complex_alias",
+                    "count": 1
                 }
             },
             "output": [
@@ -18624,12 +18620,6 @@
                 "B": {
                     "type": "complex_alias",
                     "count": 1
-                },
-                "C": {
-                    "type": "default",
-                    "count": 1,
-                    "itemId": 162,
-                    "auxValue": 32767
                 }
             },
             "output": [
@@ -18641,7 +18631,7 @@
             "shape": [
                 " A ",
                 "ABA",
-                "CCC"
+                "BBB"
             ],
             "block": "crafting_table",
             "priority": 2
@@ -21644,8 +21634,8 @@
             },
             "output": [
                 {
-                    "legacyId": 85,
-                    "id": "minecraft:fence",
+                    "legacyId": -577,
+                    "id": "minecraft:dark_oak_fence",
                     "count": 3
                 }
             ],
@@ -21693,8 +21683,8 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 162,
-                    "auxValue": 1
+                    "itemId": -572,
+                    "auxValue": 0
                 }
             },
             "output": [
@@ -21815,8 +21805,8 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 162,
-                    "auxValue": 1
+                    "itemId": -572,
+                    "auxValue": 0
                 }
             },
             "output": [
@@ -23056,7 +23046,7 @@
             },
             "output": [
                 {
-                    "legacyId": 669,
+                    "legacyId": 708,
                     "id": "minecraft:end_crystal"
                 }
             ],
@@ -23176,7 +23166,7 @@
             "output": [
                 {
                     "legacyId": 85,
-                    "id": "minecraft:fence",
+                    "id": "minecraft:oak_fence",
                     "count": 3
                 }
             ],
@@ -26268,8 +26258,8 @@
             },
             "output": [
                 {
-                    "legacyId": 85,
-                    "id": "minecraft:fence",
+                    "legacyId": -578,
+                    "id": "minecraft:jungle_fence",
                     "count": 3
                 }
             ],
@@ -26317,8 +26307,8 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 17,
-                    "auxValue": 3
+                    "itemId": -571,
+                    "auxValue": 0
                 }
             },
             "output": [
@@ -26439,8 +26429,8 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 17,
-                    "auxValue": 3
+                    "itemId": -571,
+                    "auxValue": 0
                 }
             },
             "output": [
@@ -28407,7 +28397,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 609,
+                    "itemId": 614,
                     "auxValue": 32767
                 }
             },
@@ -30253,7 +30243,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 609,
+                    "itemId": 614,
                     "auxValue": 32767
                 }
             },
@@ -30326,7 +30316,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 609,
+                    "legacyId": 614,
                     "id": "minecraft:netherite_ingot"
                 }
             ],
@@ -30346,7 +30336,7 @@
             },
             "output": [
                 {
-                    "legacyId": 609,
+                    "legacyId": 614,
                     "id": "minecraft:netherite_ingot",
                     "count": 9
                 }
@@ -30479,6 +30469,37 @@
             ],
             "block": "crafting_table",
             "priority": 2
+        },
+        {
+            "id": "minecraft:oak_fence",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 5,
+                    "auxValue": 0
+                },
+                "B": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 321,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": 85,
+                    "id": "minecraft:oak_fence",
+                    "count": 3
+                }
+            ],
+            "shape": [
+                "ABA",
+                "ABA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
         },
         {
             "id": "minecraft:oak_planks",
@@ -34797,10 +34818,8 @@
             "type": 1,
             "input": {
                 "A": {
-                    "type": "default",
-                    "count": 1,
-                    "itemId": 162,
-                    "auxValue": 32767
+                    "type": "complex_alias",
+                    "count": 1
                 },
                 "B": {
                     "type": "default",
@@ -35676,10 +35695,8 @@
                     "auxValue": 32767
                 },
                 "C": {
-                    "type": "default",
-                    "count": 1,
-                    "itemId": 17,
-                    "auxValue": 32767
+                    "type": "complex_alias",
+                    "count": 1
                 }
             },
             "output": [
@@ -35713,10 +35730,8 @@
                     "auxValue": 32767
                 },
                 "C": {
-                    "type": "default",
-                    "count": 1,
-                    "itemId": 162,
-                    "auxValue": 32767
+                    "type": "complex_alias",
+                    "count": 1
                 }
             },
             "output": [
@@ -36009,10 +36024,8 @@
                     "auxValue": 32767
                 },
                 "C": {
-                    "type": "default",
-                    "count": 1,
-                    "itemId": 17,
-                    "auxValue": 32767
+                    "type": "complex_alias",
+                    "count": 1
                 }
             },
             "output": [
@@ -36046,10 +36059,8 @@
                     "auxValue": 32767
                 },
                 "C": {
-                    "type": "default",
-                    "count": 1,
-                    "itemId": 162,
-                    "auxValue": 32767
+                    "type": "complex_alias",
+                    "count": 1
                 }
             },
             "output": [
@@ -36966,8 +36977,8 @@
             },
             "output": [
                 {
-                    "legacyId": 85,
-                    "id": "minecraft:fence",
+                    "legacyId": -579,
+                    "id": "minecraft:spruce_fence",
                     "count": 3
                 }
             ],
@@ -37015,8 +37026,8 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 17,
-                    "auxValue": 1
+                    "itemId": -569,
+                    "auxValue": 0
                 }
             },
             "output": [
@@ -37137,8 +37148,8 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 17,
-                    "auxValue": 1
+                    "itemId": -569,
+                    "auxValue": 0
                 }
             },
             "output": [
@@ -42568,6 +42579,10 @@
         {
             "type": 4,
             "uuid": "00000000-0000-0000-0000-000000000001"
+        },
+        {
+            "type": 4,
+            "uuid": "00000000-0000-0000-0000-0000000000c8"
         },
         {
             "id": "shulkerBox_shulker_box_color_block_0_10_0",
@@ -60504,6 +60519,106 @@
         {
             "type": 3,
             "input": {
+                "legacyId": -572,
+                "id": "minecraft:dark_oak_log"
+            },
+            "output": {
+                "legacyId": 304,
+                "id": "minecraft:charcoal"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -572,
+                "id": "minecraft:dark_oak_log",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": 304,
+                "id": "minecraft:charcoal"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -571,
+                "id": "minecraft:jungle_log"
+            },
+            "output": {
+                "legacyId": 304,
+                "id": "minecraft:charcoal"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -571,
+                "id": "minecraft:jungle_log",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": 304,
+                "id": "minecraft:charcoal"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -570,
+                "id": "minecraft:birch_log"
+            },
+            "output": {
+                "legacyId": 304,
+                "id": "minecraft:charcoal"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -570,
+                "id": "minecraft:birch_log",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": 304,
+                "id": "minecraft:charcoal"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -569,
+                "id": "minecraft:spruce_log"
+            },
+            "output": {
+                "legacyId": 304,
+                "id": "minecraft:charcoal"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -569,
+                "id": "minecraft:spruce_log",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": 304,
+                "id": "minecraft:charcoal"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
                 "legacyId": -498,
                 "id": "minecraft:stripped_mangrove_wood",
                 "damage": -1
@@ -61305,7 +61420,7 @@
             "type": 3,
             "input": {
                 "legacyId": 17,
-                "id": "minecraft:log"
+                "id": "minecraft:oak_log"
             },
             "output": {
                 "legacyId": 304,
@@ -61317,46 +61432,7 @@
             "type": 3,
             "input": {
                 "legacyId": 17,
-                "id": "minecraft:log",
-                "damage": 1
-            },
-            "output": {
-                "legacyId": 304,
-                "id": "minecraft:charcoal"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 17,
-                "id": "minecraft:log",
-                "damage": 2
-            },
-            "output": {
-                "legacyId": 304,
-                "id": "minecraft:charcoal"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 17,
-                "id": "minecraft:log",
-                "damage": 3
-            },
-            "output": {
-                "legacyId": 304,
-                "id": "minecraft:charcoal"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 17,
-                "id": "minecraft:log",
+                "id": "minecraft:oak_log",
                 "damage": -1
             },
             "output": {
@@ -61817,7 +61893,7 @@
             "type": 3,
             "input": {
                 "legacyId": 162,
-                "id": "minecraft:log2"
+                "id": "minecraft:acacia_log"
             },
             "output": {
                 "legacyId": 304,
@@ -61829,20 +61905,7 @@
             "type": 3,
             "input": {
                 "legacyId": 162,
-                "id": "minecraft:log2",
-                "damage": 1
-            },
-            "output": {
-                "legacyId": 304,
-                "id": "minecraft:charcoal"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 162,
-                "id": "minecraft:log2",
+                "id": "minecraft:acacia_log",
                 "damage": -1
             },
             "output": {
