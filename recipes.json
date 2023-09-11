@@ -1,5 +1,5 @@
 {
-    "version": 594,
+    "version": 618,
     "recipes": [
         {
             "type": 9,
@@ -16742,8 +16742,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -723,
+                    "id": "minecraft:black_concrete_powder",
                     "count": 8
                 }
             ],
@@ -16811,8 +16811,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -723,
+                    "id": "minecraft:black_concrete_powder",
                     "count": 8
                 }
             ],
@@ -16878,8 +16878,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -687,
+                    "id": "minecraft:black_stained_glass",
                     "count": 8
                 }
             ],
@@ -16910,8 +16910,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -687,
+                    "id": "minecraft:black_stained_glass",
                     "count": 8
                 }
             ],
@@ -16930,14 +16930,14 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 241,
-                    "auxValue": 15
+                    "itemId": -687,
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -657,
+                    "id": "minecraft:black_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -16967,8 +16967,8 @@
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -657,
+                    "id": "minecraft:black_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -16999,8 +16999,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -738,
+                    "id": "minecraft:black_terracotta",
                     "count": 8
                 }
             ],
@@ -17031,8 +17031,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -738,
+                    "id": "minecraft:black_terracotta",
                     "count": 8
                 }
             ],
@@ -17378,8 +17378,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -719,
+                    "id": "minecraft:blue_concrete_powder",
                     "count": 8
                 }
             ],
@@ -17447,8 +17447,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -719,
+                    "id": "minecraft:blue_concrete_powder",
                     "count": 8
                 }
             ],
@@ -17539,8 +17539,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -683,
+                    "id": "minecraft:blue_stained_glass",
                     "count": 8
                 }
             ],
@@ -17571,8 +17571,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -683,
+                    "id": "minecraft:blue_stained_glass",
                     "count": 8
                 }
             ],
@@ -17591,14 +17591,14 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 241,
-                    "auxValue": 11
+                    "itemId": -683,
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -653,
+                    "id": "minecraft:blue_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -17628,8 +17628,8 @@
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -653,
+                    "id": "minecraft:blue_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -17660,8 +17660,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -734,
+                    "id": "minecraft:blue_terracotta",
                     "count": 8
                 }
             ],
@@ -17692,8 +17692,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -734,
+                    "id": "minecraft:blue_terracotta",
                     "count": 8
                 }
             ],
@@ -18421,8 +18421,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -720,
+                    "id": "minecraft:brown_concrete_powder",
                     "count": 8
                 }
             ],
@@ -18490,8 +18490,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -720,
+                    "id": "minecraft:brown_concrete_powder",
                     "count": 8
                 }
             ],
@@ -18537,8 +18537,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -684,
+                    "id": "minecraft:brown_stained_glass",
                     "count": 8
                 }
             ],
@@ -18569,8 +18569,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -684,
+                    "id": "minecraft:brown_stained_glass",
                     "count": 8
                 }
             ],
@@ -18589,14 +18589,14 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 241,
-                    "auxValue": 12
+                    "itemId": -684,
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -654,
+                    "id": "minecraft:brown_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -18626,8 +18626,8 @@
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -654,
+                    "id": "minecraft:brown_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -18658,8 +18658,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -735,
+                    "id": "minecraft:brown_terracotta",
                     "count": 8
                 }
             ],
@@ -18690,8 +18690,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -735,
+                    "id": "minecraft:brown_terracotta",
                     "count": 8
                 }
             ],
@@ -22678,8 +22678,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -717,
+                    "id": "minecraft:cyan_concrete_powder",
                     "count": 8
                 }
             ],
@@ -22779,8 +22779,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -681,
+                    "id": "minecraft:cyan_stained_glass",
                     "count": 8
                 }
             ],
@@ -22799,14 +22799,14 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 241,
-                    "auxValue": 9
+                    "itemId": -681,
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -651,
+                    "id": "minecraft:cyan_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -22836,8 +22836,8 @@
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -651,
+                    "id": "minecraft:cyan_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -22868,8 +22868,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -732,
+                    "id": "minecraft:cyan_terracotta",
                     "count": 8
                 }
             ],
@@ -24458,7 +24458,7 @@
             },
             "output": [
                 {
-                    "legacyId": 714,
+                    "legacyId": 718,
                     "id": "minecraft:end_crystal"
                 }
             ],
@@ -25770,8 +25770,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -715,
+                    "id": "minecraft:gray_concrete_powder",
                     "count": 8
                 }
             ],
@@ -25905,8 +25905,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -679,
+                    "id": "minecraft:gray_stained_glass",
                     "count": 8
                 }
             ],
@@ -25925,14 +25925,14 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 241,
-                    "auxValue": 7
+                    "itemId": -679,
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -649,
+                    "id": "minecraft:gray_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -25962,8 +25962,8 @@
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -649,
+                    "id": "minecraft:gray_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -25994,8 +25994,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -730,
+                    "id": "minecraft:gray_terracotta",
                     "count": 8
                 }
             ],
@@ -26182,8 +26182,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -721,
+                    "id": "minecraft:green_concrete_powder",
                     "count": 8
                 }
             ],
@@ -26209,8 +26209,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -685,
+                    "id": "minecraft:green_stained_glass",
                     "count": 8
                 }
             ],
@@ -26229,14 +26229,14 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 241,
-                    "auxValue": 13
+                    "itemId": -685,
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -655,
+                    "id": "minecraft:green_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -26266,8 +26266,8 @@
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -655,
+                    "id": "minecraft:green_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -26298,8 +26298,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -736,
+                    "id": "minecraft:green_terracotta",
                     "count": 8
                 }
             ],
@@ -28623,8 +28623,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -711,
+                    "id": "minecraft:light_blue_concrete_powder",
                     "count": 8
                 }
             ],
@@ -28778,8 +28778,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -675,
+                    "id": "minecraft:light_blue_stained_glass",
                     "count": 8
                 }
             ],
@@ -28798,14 +28798,14 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 241,
-                    "auxValue": 3
+                    "itemId": -675,
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -645,
+                    "id": "minecraft:light_blue_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -28835,8 +28835,8 @@
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -645,
+                    "id": "minecraft:light_blue_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -28867,8 +28867,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -726,
+                    "id": "minecraft:light_blue_terracotta",
                     "count": 8
                 }
             ],
@@ -29055,8 +29055,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -716,
+                    "id": "minecraft:light_gray_concrete_powder",
                     "count": 8
                 }
             ],
@@ -29328,8 +29328,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -680,
+                    "id": "minecraft:light_gray_stained_glass",
                     "count": 8
                 }
             ],
@@ -29348,14 +29348,14 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 241,
-                    "auxValue": 8
+                    "itemId": -680,
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -650,
+                    "id": "minecraft:light_gray_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -29385,8 +29385,8 @@
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -650,
+                    "id": "minecraft:light_gray_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -29417,8 +29417,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -731,
+                    "id": "minecraft:light_gray_terracotta",
                     "count": 8
                 }
             ],
@@ -29653,8 +29653,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -713,
+                    "id": "minecraft:lime_concrete_powder",
                     "count": 8
                 }
             ],
@@ -29734,8 +29734,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -677,
+                    "id": "minecraft:lime_stained_glass",
                     "count": 8
                 }
             ],
@@ -29754,14 +29754,14 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 241,
-                    "auxValue": 5
+                    "itemId": -677,
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -647,
+                    "id": "minecraft:lime_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -29791,8 +29791,8 @@
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -647,
+                    "id": "minecraft:lime_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -29823,8 +29823,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -728,
+                    "id": "minecraft:lime_terracotta",
                     "count": 8
                 }
             ],
@@ -30223,8 +30223,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -710,
+                    "id": "minecraft:magenta_concrete_powder",
                     "count": 8
                 }
             ],
@@ -30540,8 +30540,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -674,
+                    "id": "minecraft:magenta_stained_glass",
                     "count": 8
                 }
             ],
@@ -30560,14 +30560,14 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 241,
-                    "auxValue": 2
+                    "itemId": -674,
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -644,
+                    "id": "minecraft:magenta_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -30597,8 +30597,8 @@
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -644,
+                    "id": "minecraft:magenta_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -30629,8 +30629,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -725,
+                    "id": "minecraft:magenta_terracotta",
                     "count": 8
                 }
             ],
@@ -32519,8 +32519,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -709,
+                    "id": "minecraft:orange_concrete_powder",
                     "count": 8
                 }
             ],
@@ -32613,8 +32613,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -673,
+                    "id": "minecraft:orange_stained_glass",
                     "count": 8
                 }
             ],
@@ -32633,14 +32633,14 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 241,
-                    "auxValue": 1
+                    "itemId": -673,
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -643,
+                    "id": "minecraft:orange_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -32670,8 +32670,8 @@
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -643,
+                    "id": "minecraft:orange_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -32702,8 +32702,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -724,
+                    "id": "minecraft:orange_terracotta",
                     "count": 8
                 }
             ],
@@ -33019,8 +33019,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -714,
+                    "id": "minecraft:pink_concrete_powder",
                     "count": 8
                 }
             ],
@@ -33161,8 +33161,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -678,
+                    "id": "minecraft:pink_stained_glass",
                     "count": 8
                 }
             ],
@@ -33181,14 +33181,14 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 241,
-                    "auxValue": 6
+                    "itemId": -678,
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -648,
+                    "id": "minecraft:pink_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -33218,8 +33218,8 @@
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -648,
+                    "id": "minecraft:pink_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -33250,8 +33250,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -729,
+                    "id": "minecraft:pink_terracotta",
                     "count": 8
                 }
             ],
@@ -34341,8 +34341,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -718,
+                    "id": "minecraft:purple_concrete_powder",
                     "count": 8
                 }
             ],
@@ -34422,8 +34422,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -682,
+                    "id": "minecraft:purple_stained_glass",
                     "count": 8
                 }
             ],
@@ -34442,14 +34442,14 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 241,
-                    "auxValue": 10
+                    "itemId": -682,
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -652,
+                    "id": "minecraft:purple_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -34479,8 +34479,8 @@
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -652,
+                    "id": "minecraft:purple_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -34511,8 +34511,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -733,
+                    "id": "minecraft:purple_terracotta",
                     "count": 8
                 }
             ],
@@ -35216,8 +35216,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -722,
+                    "id": "minecraft:red_concrete_powder",
                     "count": 8
                 }
             ],
@@ -35480,8 +35480,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -686,
+                    "id": "minecraft:red_stained_glass",
                     "count": 8
                 }
             ],
@@ -35500,14 +35500,14 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 241,
-                    "auxValue": 14
+                    "itemId": -686,
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -656,
+                    "id": "minecraft:red_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -35537,8 +35537,8 @@
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -656,
+                    "id": "minecraft:red_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -35569,8 +35569,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -737,
+                    "id": "minecraft:red_terracotta",
                     "count": 8
                 }
             ],
@@ -42129,7 +42129,7 @@
             "output": [
                 {
                     "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "id": "minecraft:white_concrete_powder",
                     "count": 8
                 }
             ],
@@ -42198,7 +42198,7 @@
             "output": [
                 {
                     "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "id": "minecraft:white_concrete_powder",
                     "count": 8
                 }
             ],
@@ -42265,7 +42265,7 @@
             "output": [
                 {
                     "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "id": "minecraft:white_stained_glass",
                     "count": 8
                 }
             ],
@@ -42297,7 +42297,7 @@
             "output": [
                 {
                     "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "id": "minecraft:white_stained_glass",
                     "count": 8
                 }
             ],
@@ -42317,13 +42317,13 @@
                     "type": "default",
                     "count": 1,
                     "itemId": 241,
-                    "auxValue": 0
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
                     "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "id": "minecraft:white_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -42354,7 +42354,7 @@
             "output": [
                 {
                     "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "id": "minecraft:white_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -42386,7 +42386,7 @@
             "output": [
                 {
                     "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "id": "minecraft:white_terracotta",
                     "count": 8
                 }
             ],
@@ -42418,7 +42418,7 @@
             "output": [
                 {
                     "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "id": "minecraft:white_terracotta",
                     "count": 8
                 }
             ],
@@ -43316,8 +43316,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 237,
-                    "id": "minecraft:concrete_powder",
+                    "legacyId": -712,
+                    "id": "minecraft:yellow_concrete_powder",
                     "count": 8
                 }
             ],
@@ -43384,8 +43384,8 @@
             },
             "output": [
                 {
-                    "legacyId": 241,
-                    "id": "minecraft:stained_glass",
+                    "legacyId": -676,
+                    "id": "minecraft:yellow_stained_glass",
                     "count": 8
                 }
             ],
@@ -43404,14 +43404,14 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 241,
-                    "auxValue": 4
+                    "itemId": -676,
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -646,
+                    "id": "minecraft:yellow_stained_glass_pane",
                     "count": 16
                 }
             ],
@@ -43441,8 +43441,8 @@
             },
             "output": [
                 {
-                    "legacyId": 160,
-                    "id": "minecraft:stained_glass_pane",
+                    "legacyId": -646,
+                    "id": "minecraft:yellow_stained_glass_pane",
                     "count": 8
                 }
             ],
@@ -43473,8 +43473,8 @@
             },
             "output": [
                 {
-                    "legacyId": 159,
-                    "id": "minecraft:stained_hardened_clay",
+                    "legacyId": -727,
+                    "id": "minecraft:yellow_terracotta",
                     "count": 8
                 }
             ],
@@ -62721,6 +62721,186 @@
         {
             "type": 3,
             "input": {
+                "legacyId": -738,
+                "id": "minecraft:black_terracotta"
+            },
+            "output": {
+                "legacyId": 235,
+                "id": "minecraft:black_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -737,
+                "id": "minecraft:red_terracotta"
+            },
+            "output": {
+                "legacyId": 234,
+                "id": "minecraft:red_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -736,
+                "id": "minecraft:green_terracotta"
+            },
+            "output": {
+                "legacyId": 233,
+                "id": "minecraft:green_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -735,
+                "id": "minecraft:brown_terracotta"
+            },
+            "output": {
+                "legacyId": 232,
+                "id": "minecraft:brown_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -734,
+                "id": "minecraft:blue_terracotta"
+            },
+            "output": {
+                "legacyId": 231,
+                "id": "minecraft:blue_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -733,
+                "id": "minecraft:purple_terracotta"
+            },
+            "output": {
+                "legacyId": 219,
+                "id": "minecraft:purple_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -732,
+                "id": "minecraft:cyan_terracotta"
+            },
+            "output": {
+                "legacyId": 229,
+                "id": "minecraft:cyan_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -731,
+                "id": "minecraft:light_gray_terracotta"
+            },
+            "output": {
+                "legacyId": 228,
+                "id": "minecraft:silver_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -730,
+                "id": "minecraft:gray_terracotta"
+            },
+            "output": {
+                "legacyId": 227,
+                "id": "minecraft:gray_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -729,
+                "id": "minecraft:pink_terracotta"
+            },
+            "output": {
+                "legacyId": 226,
+                "id": "minecraft:pink_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -728,
+                "id": "minecraft:lime_terracotta"
+            },
+            "output": {
+                "legacyId": 225,
+                "id": "minecraft:lime_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -727,
+                "id": "minecraft:yellow_terracotta"
+            },
+            "output": {
+                "legacyId": 224,
+                "id": "minecraft:yellow_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -726,
+                "id": "minecraft:light_blue_terracotta"
+            },
+            "output": {
+                "legacyId": 223,
+                "id": "minecraft:light_blue_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -725,
+                "id": "minecraft:magenta_terracotta"
+            },
+            "output": {
+                "legacyId": 222,
+                "id": "minecraft:magenta_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -724,
+                "id": "minecraft:orange_terracotta"
+            },
+            "output": {
+                "legacyId": 221,
+                "id": "minecraft:orange_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
                 "legacyId": -572,
                 "id": "minecraft:dark_oak_log"
             },
@@ -63940,206 +64120,11 @@
             "type": 3,
             "input": {
                 "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay"
+                "id": "minecraft:white_terracotta"
             },
             "output": {
                 "legacyId": 220,
                 "id": "minecraft:white_glazed_terracotta"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay",
-                "damage": 1
-            },
-            "output": {
-                "legacyId": 221,
-                "id": "minecraft:orange_glazed_terracotta"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay",
-                "damage": 2
-            },
-            "output": {
-                "legacyId": 222,
-                "id": "minecraft:magenta_glazed_terracotta"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay",
-                "damage": 3
-            },
-            "output": {
-                "legacyId": 223,
-                "id": "minecraft:light_blue_glazed_terracotta"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay",
-                "damage": 4
-            },
-            "output": {
-                "legacyId": 224,
-                "id": "minecraft:yellow_glazed_terracotta"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay",
-                "damage": 5
-            },
-            "output": {
-                "legacyId": 225,
-                "id": "minecraft:lime_glazed_terracotta"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay",
-                "damage": 6
-            },
-            "output": {
-                "legacyId": 226,
-                "id": "minecraft:pink_glazed_terracotta"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay",
-                "damage": 7
-            },
-            "output": {
-                "legacyId": 227,
-                "id": "minecraft:gray_glazed_terracotta"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay",
-                "damage": 8
-            },
-            "output": {
-                "legacyId": 228,
-                "id": "minecraft:silver_glazed_terracotta"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay",
-                "damage": 9
-            },
-            "output": {
-                "legacyId": 229,
-                "id": "minecraft:cyan_glazed_terracotta"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay",
-                "damage": 10
-            },
-            "output": {
-                "legacyId": 219,
-                "id": "minecraft:purple_glazed_terracotta"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay",
-                "damage": 11
-            },
-            "output": {
-                "legacyId": 231,
-                "id": "minecraft:blue_glazed_terracotta"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay",
-                "damage": 12
-            },
-            "output": {
-                "legacyId": 232,
-                "id": "minecraft:brown_glazed_terracotta"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay",
-                "damage": 13
-            },
-            "output": {
-                "legacyId": 233,
-                "id": "minecraft:green_glazed_terracotta"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay",
-                "damage": 14
-            },
-            "output": {
-                "legacyId": 234,
-                "id": "minecraft:red_glazed_terracotta"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 159,
-                "id": "minecraft:stained_hardened_clay",
-                "damage": 15
-            },
-            "output": {
-                "legacyId": 235,
-                "id": "minecraft:black_glazed_terracotta"
             },
             "block": "furnace"
         },
