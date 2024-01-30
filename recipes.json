@@ -1,5 +1,5 @@
 {
-    "version": 630,
+    "version": 649,
     "recipes": [
         {
             "type": 9,
@@ -270,7 +270,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 523,
+                    "legacyId": 524,
                     "id": "minecraft:empty_map",
                     "damage": 2
                 }
@@ -291,7 +291,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 523,
+                    "legacyId": 524,
                     "id": "minecraft:empty_map"
                 }
             ],
@@ -14474,7 +14474,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 532,
+                    "itemId": 533,
                     "auxValue": 32767
                 },
                 "C": {
@@ -14522,7 +14522,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 517,
+                    "legacyId": 518,
                     "id": "minecraft:fire_charge",
                     "count": 3
                 }
@@ -14554,7 +14554,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 517,
+                    "legacyId": 518,
                     "id": "minecraft:fire_charge",
                     "count": 3
                 }
@@ -14718,7 +14718,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 650,
+                    "legacyId": 651,
                     "id": "minecraft:acacia_chest_boat"
                 }
             ],
@@ -14738,7 +14738,7 @@
             },
             "output": [
                 {
-                    "legacyId": 564,
+                    "legacyId": 565,
                     "id": "minecraft:acacia_door",
                     "count": 3
                 }
@@ -14819,7 +14819,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 627,
+                    "itemId": 628,
                     "auxValue": 32767
                 },
                 "B": {
@@ -15085,7 +15085,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 632,
+                    "itemId": 633,
                     "auxValue": 32767
                 }
             },
@@ -15230,7 +15230,7 @@
             },
             "output": [
                 {
-                    "legacyId": 560,
+                    "legacyId": 561,
                     "id": "minecraft:armor_stand"
                 }
             ],
@@ -15341,13 +15341,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 661,
+                    "itemId": 662,
                     "auxValue": 0
                 }
             ],
             "output": [
                 {
-                    "legacyId": 662,
+                    "legacyId": 663,
                     "id": "minecraft:bamboo_chest_raft"
                 }
             ],
@@ -15448,7 +15448,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 627,
+                    "itemId": 628,
                     "auxValue": 32767
                 },
                 "B": {
@@ -15631,7 +15631,7 @@
             },
             "output": [
                 {
-                    "legacyId": 661,
+                    "legacyId": 662,
                     "id": "minecraft:bamboo_raft"
                 }
             ],
@@ -15661,7 +15661,7 @@
             },
             "output": [
                 {
-                    "legacyId": 660,
+                    "legacyId": 661,
                     "id": "minecraft:bamboo_sign",
                     "count": 3
                 }
@@ -15768,7 +15768,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 593,
+                    "legacyId": 594,
                     "id": "minecraft:field_masoned_banner_pattern"
                 }
             ],
@@ -15788,13 +15788,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 524,
+                    "itemId": 525,
                     "auxValue": 4
                 }
             ],
             "output": [
                 {
-                    "legacyId": 590,
+                    "legacyId": 591,
                     "id": "minecraft:creeper_banner_pattern"
                 }
             ],
@@ -15820,7 +15820,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 589,
+                    "legacyId": 590,
                     "id": "minecraft:flower_banner_pattern"
                 }
             ],
@@ -15840,13 +15840,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 524,
+                    "itemId": 525,
                     "auxValue": 1
                 }
             ],
             "output": [
                 {
-                    "legacyId": 591,
+                    "legacyId": 592,
                     "id": "minecraft:skull_banner_pattern"
                 }
             ],
@@ -15872,7 +15872,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 592,
+                    "legacyId": 593,
                     "id": "minecraft:mojang_banner_pattern"
                 }
             ],
@@ -15898,7 +15898,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 594,
+                    "legacyId": 595,
                     "id": "minecraft:bordure_indented_banner_pattern"
                 }
             ],
@@ -15941,7 +15941,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 523,
+                    "itemId": 524,
                     "auxValue": 1
                 },
                 {
@@ -15953,7 +15953,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 523,
+                    "legacyId": 524,
                     "id": "minecraft:empty_map",
                     "damage": 2
                 }
@@ -15974,7 +15974,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 526,
+                    "itemId": 527,
                     "auxValue": 32767
                 },
                 "C": {
@@ -16010,7 +16010,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             },
@@ -16041,7 +16041,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             },
@@ -16072,7 +16072,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             },
@@ -16103,7 +16103,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             },
@@ -16220,7 +16220,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 647,
+                    "legacyId": 648,
                     "id": "minecraft:birch_chest_boat"
                 }
             ],
@@ -16240,7 +16240,7 @@
             },
             "output": [
                 {
-                    "legacyId": 562,
+                    "legacyId": 563,
                     "id": "minecraft:birch_door",
                     "count": 3
                 }
@@ -16321,7 +16321,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 627,
+                    "itemId": 628,
                     "auxValue": 32767
                 },
                 "B": {
@@ -16561,7 +16561,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner"
                 }
             ],
@@ -17196,7 +17196,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner",
                     "damage": 4
                 }
@@ -18239,7 +18239,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner",
                     "damage": 3
                 }
@@ -18716,7 +18716,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 512,
+                    "itemId": 513,
                     "auxValue": 32767
                 },
                 "C": {
@@ -18728,7 +18728,7 @@
             },
             "output": [
                 {
-                    "legacyId": 684,
+                    "legacyId": 685,
                     "id": "minecraft:brush"
                 }
             ],
@@ -18819,7 +18819,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 632,
+                    "itemId": 633,
                     "auxValue": 32767
                 },
                 "B": {
@@ -18865,7 +18865,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -18900,7 +18900,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -18935,7 +18935,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -18972,7 +18972,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19009,7 +19009,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19046,7 +19046,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19083,7 +19083,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19120,7 +19120,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19157,7 +19157,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19194,7 +19194,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19231,7 +19231,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19268,7 +19268,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19305,7 +19305,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19342,7 +19342,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19377,7 +19377,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19406,7 +19406,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19441,7 +19441,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19476,7 +19476,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19511,7 +19511,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19546,7 +19546,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19581,7 +19581,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19616,7 +19616,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19651,7 +19651,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19686,7 +19686,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19721,7 +19721,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19756,7 +19756,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19791,7 +19791,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19826,7 +19826,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19861,7 +19861,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19896,7 +19896,7 @@
             },
             "output": [
                 {
-                    "legacyId": 597,
+                    "legacyId": 598,
                     "id": "minecraft:campfire"
                 }
             ],
@@ -19921,7 +19921,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             },
@@ -19957,7 +19957,7 @@
             },
             "output": [
                 {
-                    "legacyId": 525,
+                    "legacyId": 526,
                     "id": "minecraft:carrot_on_a_stick"
                 }
             ],
@@ -20123,7 +20123,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 577,
+                    "itemId": 578,
                     "auxValue": 32767
                 },
                 "B": {
@@ -20135,7 +20135,7 @@
             },
             "output": [
                 {
-                    "legacyId": 627,
+                    "legacyId": 628,
                     "id": "minecraft:chain"
                 }
             ],
@@ -20160,7 +20160,7 @@
             },
             "output": [
                 {
-                    "legacyId": 657,
+                    "legacyId": 658,
                     "id": "minecraft:cherry_boat"
                 }
             ],
@@ -20207,13 +20207,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 657,
+                    "itemId": 658,
                     "auxValue": 32767
                 }
             ],
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:cherry_chest_boat"
                 }
             ],
@@ -20314,7 +20314,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 627,
+                    "itemId": 628,
                     "auxValue": 32767
                 },
                 "B": {
@@ -20477,7 +20477,7 @@
             },
             "output": [
                 {
-                    "legacyId": 659,
+                    "legacyId": 660,
                     "id": "minecraft:cherry_sign",
                     "count": 3
                 }
@@ -20634,7 +20634,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 646,
+                    "legacyId": 647,
                     "id": "minecraft:oak_chest_boat"
                 }
             ],
@@ -20991,7 +20991,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 688,
+                    "itemId": 689,
                     "auxValue": 32767
                 },
                 "C": {
@@ -21003,7 +21003,7 @@
             },
             "output": [
                 {
-                    "legacyId": 688,
+                    "legacyId": 689,
                     "id": "minecraft:coast_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -21155,7 +21155,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 532,
+                    "itemId": 533,
                     "auxValue": 32767
                 },
                 "C": {
@@ -21167,7 +21167,7 @@
             },
             "output": [
                 {
-                    "legacyId": 530,
+                    "legacyId": 531,
                     "id": "minecraft:comparator"
                 }
             ],
@@ -21316,13 +21316,13 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 578,
+                    "itemId": 579,
                     "auxValue": 32767
                 },
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 579,
+                    "itemId": 580,
                     "auxValue": 32767
                 }
             },
@@ -21377,7 +21377,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 512,
+                    "itemId": 513,
                     "auxValue": 32767
                 }
             },
@@ -22103,7 +22103,7 @@
             },
             "output": [
                 {
-                    "legacyId": 624,
+                    "legacyId": 625,
                     "id": "minecraft:crimson_door",
                     "count": 3
                 }
@@ -22184,7 +22184,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 627,
+                    "itemId": 628,
                     "auxValue": 32767
                 },
                 "B": {
@@ -22372,7 +22372,7 @@
             },
             "output": [
                 {
-                    "legacyId": 622,
+                    "legacyId": 623,
                     "id": "minecraft:crimson_sign",
                     "count": 3
                 }
@@ -22491,7 +22491,7 @@
             },
             "output": [
                 {
-                    "legacyId": 583,
+                    "legacyId": 584,
                     "id": "minecraft:crossbow"
                 }
             ],
@@ -22522,7 +22522,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner",
                     "damage": 6
                 }
@@ -22924,7 +22924,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 651,
+                    "legacyId": 652,
                     "id": "minecraft:dark_oak_chest_boat"
                 }
             ],
@@ -22944,7 +22944,7 @@
             },
             "output": [
                 {
-                    "legacyId": 565,
+                    "legacyId": 566,
                     "id": "minecraft:dark_oak_door",
                     "count": 3
                 }
@@ -23025,7 +23025,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 627,
+                    "itemId": 628,
                     "auxValue": 32767
                 },
                 "B": {
@@ -23253,7 +23253,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 573,
+                    "itemId": 574,
                     "auxValue": 32767
                 },
                 "B": {
@@ -23284,7 +23284,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 573,
+                    "itemId": 574,
                     "auxValue": 32767
                 },
                 "B": {
@@ -23321,7 +23321,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 532,
+                    "itemId": 533,
                     "auxValue": 32767
                 },
                 "C": {
@@ -23358,7 +23358,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 532,
+                    "itemId": 533,
                     "auxValue": 32767
                 },
                 "C": {
@@ -23395,7 +23395,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 532,
+                    "itemId": 533,
                     "auxValue": 32767
                 },
                 "C": {
@@ -23972,7 +23972,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 532,
+                    "itemId": 533,
                     "auxValue": 32767
                 }
             },
@@ -24219,7 +24219,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 687,
+                    "itemId": 688,
                     "auxValue": 32767
                 },
                 "C": {
@@ -24231,7 +24231,7 @@
             },
             "output": [
                 {
-                    "legacyId": 687,
+                    "legacyId": 688,
                     "id": "minecraft:dune_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -24257,7 +24257,7 @@
             },
             "output": [
                 {
-                    "legacyId": 520,
+                    "legacyId": 521,
                     "id": "minecraft:emerald",
                     "count": 9
                 }
@@ -24275,7 +24275,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 520,
+                    "itemId": 521,
                     "auxValue": 32767
                 }
             },
@@ -24300,7 +24300,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 523,
+                    "itemId": 524,
                     "auxValue": 0
                 },
                 {
@@ -24312,7 +24312,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 523,
+                    "legacyId": 524,
                     "id": "minecraft:empty_map",
                     "damage": 2
                 }
@@ -24458,7 +24458,7 @@
             },
             "output": [
                 {
-                    "legacyId": 720,
+                    "legacyId": 727,
                     "id": "minecraft:end_crystal"
                 }
             ],
@@ -24483,7 +24483,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 567,
+                    "itemId": 568,
                     "auxValue": 32767
                 }
             },
@@ -24571,7 +24571,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 691,
+                    "itemId": 692,
                     "auxValue": 32767
                 },
                 "C": {
@@ -24583,7 +24583,7 @@
             },
             "output": [
                 {
-                    "legacyId": 691,
+                    "legacyId": 692,
                     "id": "minecraft:eye_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -24882,7 +24882,7 @@
             },
             "output": [
                 {
-                    "legacyId": 522,
+                    "legacyId": 523,
                     "id": "minecraft:flower_pot"
                 }
             ],
@@ -25024,19 +25024,19 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 521,
+                    "itemId": 522,
                     "auxValue": 32767
                 },
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 511,
+                    "itemId": 512,
                     "auxValue": 32767
                 }
             ],
             "output": [
                 {
-                    "legacyId": 631,
+                    "legacyId": 632,
                     "id": "minecraft:glow_frame"
                 }
             ],
@@ -25531,7 +25531,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 532,
+                    "itemId": 533,
                     "auxValue": 32767
                 }
             ],
@@ -25614,7 +25614,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner",
                     "damage": 8
                 }
@@ -26026,7 +26026,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner",
                     "damage": 2
                 }
@@ -26833,7 +26833,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 600,
+                    "itemId": 601,
                     "auxValue": 32767
                 }
             },
@@ -26892,7 +26892,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 600,
+                    "legacyId": 601,
                     "id": "minecraft:honey_bottle",
                     "count": 4
                 }
@@ -26907,7 +26907,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 600,
+                    "itemId": 601,
                     "auxValue": 32767
                 }
             },
@@ -26935,7 +26935,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             },
@@ -26971,7 +26971,7 @@
             },
             "output": [
                 {
-                    "legacyId": 535,
+                    "legacyId": 536,
                     "id": "minecraft:hopper"
                 }
             ],
@@ -26990,7 +26990,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 535,
+                    "itemId": 536,
                     "auxValue": 32767
                 },
                 {
@@ -27002,7 +27002,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 534,
+                    "legacyId": 535,
                     "id": "minecraft:hopper_minecart"
                 }
             ],
@@ -27022,7 +27022,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 701,
+                    "itemId": 702,
                     "auxValue": 32767
                 },
                 "C": {
@@ -27034,7 +27034,7 @@
             },
             "output": [
                 {
-                    "legacyId": 701,
+                    "legacyId": 702,
                     "id": "minecraft:host_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -27060,7 +27060,7 @@
             },
             "output": [
                 {
-                    "legacyId": 512,
+                    "legacyId": 513,
                     "id": "minecraft:copper_ingot",
                     "count": 9
                 }
@@ -27084,7 +27084,7 @@
             },
             "output": [
                 {
-                    "legacyId": 512,
+                    "legacyId": 513,
                     "id": "minecraft:copper_ingot",
                     "count": 9
                 }
@@ -27337,7 +27337,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 577,
+                    "itemId": 578,
                     "auxValue": 32767
                 }
             },
@@ -27393,7 +27393,7 @@
             },
             "output": [
                 {
-                    "legacyId": 577,
+                    "legacyId": 578,
                     "id": "minecraft:iron_nugget",
                     "count": 9
                 }
@@ -27540,7 +27540,7 @@
             },
             "output": [
                 {
-                    "legacyId": 521,
+                    "legacyId": 522,
                     "id": "minecraft:frame"
                 }
             ],
@@ -27688,7 +27688,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 648,
+                    "legacyId": 649,
                     "id": "minecraft:jungle_chest_boat"
                 }
             ],
@@ -27708,7 +27708,7 @@
             },
             "output": [
                 {
-                    "legacyId": 563,
+                    "legacyId": 564,
                     "id": "minecraft:jungle_door",
                     "count": 3
                 }
@@ -27789,7 +27789,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 627,
+                    "itemId": 628,
                     "auxValue": 32767
                 },
                 "B": {
@@ -28043,7 +28043,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 577,
+                    "itemId": 578,
                     "auxValue": 32767
                 },
                 "B": {
@@ -28135,7 +28135,7 @@
             },
             "output": [
                 {
-                    "legacyId": 555,
+                    "legacyId": 556,
                     "id": "minecraft:lead",
                     "count": 2
                 }
@@ -28155,7 +28155,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 537,
+                    "itemId": 538,
                     "auxValue": 32767
                 }
             },
@@ -28258,7 +28258,7 @@
             },
             "output": [
                 {
-                    "legacyId": 538,
+                    "legacyId": 539,
                     "id": "minecraft:leather_horse_armor"
                 }
             ],
@@ -28467,7 +28467,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner",
                     "damage": 12
                 }
@@ -28931,7 +28931,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner",
                     "damage": 7
                 }
@@ -29460,7 +29460,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 512,
+                    "itemId": 513,
                     "auxValue": 32767
                 }
             },
@@ -29529,7 +29529,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner",
                     "damage": 10
                 }
@@ -29885,7 +29885,7 @@
             },
             "output": [
                 {
-                    "legacyId": 523,
+                    "legacyId": 524,
                     "id": "minecraft:empty_map",
                     "damage": 2
                 }
@@ -29911,7 +29911,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 616,
+                    "itemId": 617,
                     "auxValue": 32767
                 }
             },
@@ -30067,7 +30067,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner",
                     "damage": 13
                 }
@@ -30705,7 +30705,7 @@
             },
             "output": [
                 {
-                    "legacyId": 643,
+                    "legacyId": 644,
                     "id": "minecraft:mangrove_boat"
                 }
             ],
@@ -30752,13 +30752,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 643,
+                    "itemId": 644,
                     "auxValue": 0
                 }
             ],
             "output": [
                 {
-                    "legacyId": 652,
+                    "legacyId": 653,
                     "id": "minecraft:mangrove_chest_boat"
                 }
             ],
@@ -30778,7 +30778,7 @@
             },
             "output": [
                 {
-                    "legacyId": 641,
+                    "legacyId": 642,
                     "id": "minecraft:mangrove_door",
                     "count": 3
                 }
@@ -30859,7 +30859,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 627,
+                    "itemId": 628,
                     "auxValue": 32767
                 },
                 "B": {
@@ -31022,7 +31022,7 @@
             },
             "output": [
                 {
-                    "legacyId": 642,
+                    "legacyId": 643,
                     "id": "minecraft:mangrove_sign",
                     "count": 3
                 }
@@ -31173,7 +31173,7 @@
             },
             "output": [
                 {
-                    "legacyId": 523,
+                    "legacyId": 524,
                     "id": "minecraft:empty_map"
                 }
             ],
@@ -31652,7 +31652,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 531,
+                    "itemId": 532,
                     "auxValue": 32767
                 }
             },
@@ -31682,7 +31682,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 531,
+                    "itemId": 532,
                     "auxValue": 32767
                 }
             },
@@ -31783,7 +31783,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 616,
+                    "itemId": 617,
                     "auxValue": 32767
                 }
             },
@@ -31808,25 +31808,25 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 621,
+                    "itemId": 622,
                     "auxValue": 32767
                 },
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 621,
+                    "itemId": 622,
                     "auxValue": 32767
                 },
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 621,
+                    "itemId": 622,
                     "auxValue": 32767
                 },
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 621,
+                    "itemId": 622,
                     "auxValue": 32767
                 },
                 {
@@ -31856,7 +31856,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 616,
+                    "legacyId": 617,
                     "id": "minecraft:netherite_ingot"
                 }
             ],
@@ -31876,7 +31876,7 @@
             },
             "output": [
                 {
-                    "legacyId": 616,
+                    "legacyId": 617,
                     "id": "minecraft:netherite_ingot",
                     "count": 9
                 }
@@ -31900,7 +31900,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 685,
+                    "itemId": 686,
                     "auxValue": 32767
                 },
                 "C": {
@@ -31912,7 +31912,7 @@
             },
             "output": [
                 {
-                    "legacyId": 685,
+                    "legacyId": 686,
                     "id": "minecraft:netherite_upgrade_smithing_template",
                     "count": 2
                 }
@@ -32086,7 +32086,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 627,
+                    "itemId": 628,
                     "auxValue": 32767
                 },
                 "B": {
@@ -32326,7 +32326,7 @@
                 "C": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 532,
+                    "itemId": 533,
                     "auxValue": 32767
                 }
             },
@@ -32363,7 +32363,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner",
                     "damage": 14
                 }
@@ -32863,7 +32863,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner",
                     "damage": 9
                 }
@@ -33965,7 +33965,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 573,
+                    "itemId": 574,
                     "auxValue": 32767
                 }
             },
@@ -33989,7 +33989,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 573,
+                    "itemId": 574,
                     "auxValue": 32767
                 }
             },
@@ -34185,7 +34185,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner",
                     "damage": 5
                 }
@@ -34531,7 +34531,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 567,
+                    "itemId": 568,
                     "auxValue": 32767
                 }
             },
@@ -34582,7 +34582,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 532,
+                    "itemId": 533,
                     "auxValue": 32767
                 }
             },
@@ -34782,7 +34782,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 699,
+                    "itemId": 700,
                     "auxValue": 32767
                 },
                 "C": {
@@ -34794,7 +34794,7 @@
             },
             "output": [
                 {
-                    "legacyId": 699,
+                    "legacyId": 700,
                     "id": "minecraft:raiser_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -34820,7 +34820,7 @@
             },
             "output": [
                 {
-                    "legacyId": 515,
+                    "legacyId": 516,
                     "id": "minecraft:raw_copper",
                     "count": 9
                 }
@@ -34838,7 +34838,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 515,
+                    "itemId": 516,
                     "auxValue": 32767
                 }
             },
@@ -34869,7 +34869,7 @@
             },
             "output": [
                 {
-                    "legacyId": 514,
+                    "legacyId": 515,
                     "id": "minecraft:raw_gold",
                     "count": 9
                 }
@@ -34887,7 +34887,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 514,
+                    "itemId": 515,
                     "auxValue": 32767
                 }
             },
@@ -34918,7 +34918,7 @@
             },
             "output": [
                 {
-                    "legacyId": 513,
+                    "legacyId": 514,
                     "id": "minecraft:raw_iron",
                     "count": 9
                 }
@@ -34936,7 +34936,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 513,
+                    "itemId": 514,
                     "auxValue": 32767
                 }
             },
@@ -34961,13 +34961,13 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 645,
+                    "itemId": 646,
                     "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 644,
+                    "legacyId": 645,
                     "id": "minecraft:music_disc_5"
                 }
             ],
@@ -34986,7 +34986,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 655,
+                    "itemId": 656,
                     "auxValue": 32767
                 },
                 "B": {
@@ -34998,7 +34998,7 @@
             },
             "output": [
                 {
-                    "legacyId": 654,
+                    "legacyId": 655,
                     "id": "minecraft:recovery_compass"
                 }
             ],
@@ -35017,19 +35017,19 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 655,
+                    "itemId": 656,
                     "auxValue": 32767
                 },
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 610,
+                    "itemId": 611,
                     "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 654,
+                    "legacyId": 655,
                     "id": "minecraft:recovery_compass"
                 }
             ],
@@ -35060,7 +35060,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner",
                     "damage": 1
                 }
@@ -35312,7 +35312,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 531,
+                    "itemId": 532,
                     "auxValue": 32767
                 },
                 "B": {
@@ -35772,7 +35772,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 695,
+                    "itemId": 696,
                     "auxValue": 32767
                 },
                 "C": {
@@ -35784,7 +35784,7 @@
             },
             "output": [
                 {
-                    "legacyId": 695,
+                    "legacyId": 696,
                     "id": "minecraft:rib_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -35911,13 +35911,13 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 573,
+                    "itemId": 574,
                     "auxValue": 32767
                 },
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 557,
+                    "itemId": 558,
                     "auxValue": 32767
                 }
             },
@@ -35948,7 +35948,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 686,
+                    "itemId": 687,
                     "auxValue": 32767
                 },
                 "C": {
@@ -35960,7 +35960,7 @@
             },
             "output": [
                 {
-                    "legacyId": 686,
+                    "legacyId": 687,
                     "id": "minecraft:sentry_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -35986,7 +35986,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 700,
+                    "itemId": 701,
                     "auxValue": 32767
                 },
                 "C": {
@@ -35998,7 +35998,7 @@
             },
             "output": [
                 {
-                    "legacyId": 700,
+                    "legacyId": 701,
                     "id": "minecraft:shaper_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -36165,7 +36165,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 574,
+                    "itemId": 575,
                     "auxValue": 32767
                 },
                 "B": {
@@ -36208,7 +36208,7 @@
             },
             "output": [
                 {
-                    "legacyId": 587,
+                    "legacyId": 588,
                     "id": "minecraft:acacia_sign",
                     "count": 3
                 }
@@ -36240,7 +36240,7 @@
             },
             "output": [
                 {
-                    "legacyId": 585,
+                    "legacyId": 586,
                     "id": "minecraft:birch_sign",
                     "count": 3
                 }
@@ -36272,7 +36272,7 @@
             },
             "output": [
                 {
-                    "legacyId": 588,
+                    "legacyId": 589,
                     "id": "minecraft:dark_oak_sign",
                     "count": 3
                 }
@@ -36304,7 +36304,7 @@
             },
             "output": [
                 {
-                    "legacyId": 586,
+                    "legacyId": 587,
                     "id": "minecraft:jungle_sign",
                     "count": 3
                 }
@@ -36368,7 +36368,7 @@
             },
             "output": [
                 {
-                    "legacyId": 584,
+                    "legacyId": 585,
                     "id": "minecraft:spruce_sign",
                     "count": 3
                 }
@@ -36394,7 +36394,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 697,
+                    "itemId": 698,
                     "auxValue": 32767
                 },
                 "C": {
@@ -36406,7 +36406,7 @@
             },
             "output": [
                 {
-                    "legacyId": 697,
+                    "legacyId": 698,
                     "id": "minecraft:silence_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -37225,7 +37225,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 694,
+                    "itemId": 695,
                     "auxValue": 32767
                 },
                 "C": {
@@ -37237,7 +37237,7 @@
             },
             "output": [
                 {
-                    "legacyId": 694,
+                    "legacyId": 695,
                     "id": "minecraft:snout_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -37321,7 +37321,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37358,7 +37358,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37395,7 +37395,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37432,7 +37432,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37469,7 +37469,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37506,7 +37506,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37543,7 +37543,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37578,7 +37578,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37613,7 +37613,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37650,7 +37650,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37687,7 +37687,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37724,7 +37724,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37761,7 +37761,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37798,7 +37798,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37835,7 +37835,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37872,7 +37872,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37907,7 +37907,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37942,7 +37942,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -37979,7 +37979,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38016,7 +38016,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38053,7 +38053,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38090,7 +38090,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38127,7 +38127,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38164,7 +38164,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38201,7 +38201,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38238,7 +38238,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38275,7 +38275,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38312,7 +38312,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38349,7 +38349,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38386,7 +38386,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38423,7 +38423,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38460,7 +38460,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38497,7 +38497,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38534,7 +38534,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38571,7 +38571,7 @@
             },
             "output": [
                 {
-                    "legacyId": 630,
+                    "legacyId": 631,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -38590,7 +38590,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 577,
+                    "itemId": 578,
                     "auxValue": 32767
                 },
                 "B": {
@@ -38766,7 +38766,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 696,
+                    "itemId": 697,
                     "auxValue": 32767
                 },
                 "C": {
@@ -38778,7 +38778,7 @@
             },
             "output": [
                 {
-                    "legacyId": 696,
+                    "legacyId": 697,
                     "id": "minecraft:spire_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -38834,7 +38834,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 649,
+                    "legacyId": 650,
                     "id": "minecraft:spruce_chest_boat"
                 }
             ],
@@ -38854,7 +38854,7 @@
             },
             "output": [
                 {
-                    "legacyId": 561,
+                    "legacyId": 562,
                     "id": "minecraft:spruce_door",
                     "count": 3
                 }
@@ -38935,7 +38935,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 627,
+                    "itemId": 628,
                     "auxValue": 32767
                 },
                 "B": {
@@ -39163,19 +39163,19 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 632,
+                    "itemId": 633,
                     "auxValue": 32767
                 },
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 512,
+                    "itemId": 513,
                     "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 633,
+                    "legacyId": 634,
                     "id": "minecraft:spyglass"
                 }
             ],
@@ -40080,7 +40080,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 598,
+                    "legacyId": 599,
                     "id": "minecraft:suspicious_stew",
                     "damage": 7
                 }
@@ -40119,7 +40119,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 598,
+                    "legacyId": 599,
                     "id": "minecraft:suspicious_stew",
                     "damage": 3
                 }
@@ -40158,7 +40158,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 598,
+                    "legacyId": 599,
                     "id": "minecraft:suspicious_stew",
                     "damage": 6
                 }
@@ -40197,7 +40197,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 598,
+                    "legacyId": 599,
                     "id": "minecraft:suspicious_stew",
                     "damage": 1
                 }
@@ -40236,7 +40236,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 598,
+                    "legacyId": 599,
                     "id": "minecraft:suspicious_stew",
                     "damage": 5
                 }
@@ -40275,7 +40275,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 598,
+                    "legacyId": 599,
                     "id": "minecraft:suspicious_stew",
                     "damage": 4
                 }
@@ -40314,7 +40314,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 598,
+                    "legacyId": 599,
                     "id": "minecraft:suspicious_stew",
                     "damage": 8
                 }
@@ -40353,7 +40353,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 598,
+                    "legacyId": 599,
                     "id": "minecraft:suspicious_stew"
                 }
             ],
@@ -40391,7 +40391,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 598,
+                    "legacyId": 599,
                     "id": "minecraft:suspicious_stew",
                     "damage": 10
                 }
@@ -40430,7 +40430,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 598,
+                    "legacyId": 599,
                     "id": "minecraft:suspicious_stew",
                     "damage": 2
                 }
@@ -40469,7 +40469,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 598,
+                    "legacyId": 599,
                     "id": "minecraft:suspicious_stew",
                     "damage": 2
                 }
@@ -40508,7 +40508,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 598,
+                    "legacyId": 599,
                     "id": "minecraft:suspicious_stew",
                     "damage": 2
                 }
@@ -40547,7 +40547,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 598,
+                    "legacyId": 599,
                     "id": "minecraft:suspicious_stew",
                     "damage": 2
                 }
@@ -40586,7 +40586,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 598,
+                    "legacyId": 599,
                     "id": "minecraft:suspicious_stew",
                     "damage": 9
                 }
@@ -40638,7 +40638,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 693,
+                    "itemId": 694,
                     "auxValue": 32767
                 },
                 "C": {
@@ -40650,7 +40650,7 @@
             },
             "output": [
                 {
-                    "legacyId": 693,
+                    "legacyId": 694,
                     "id": "minecraft:tide_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -40670,7 +40670,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 632,
+                    "itemId": 633,
                     "auxValue": 32767
                 },
                 "B": {
@@ -40745,7 +40745,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 533,
+                    "legacyId": 534,
                     "id": "minecraft:tnt_minecart"
                 }
             ],
@@ -40963,13 +40963,13 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 580,
+                    "itemId": 581,
                     "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 581,
+                    "legacyId": 582,
                     "id": "minecraft:turtle_helmet"
                 }
             ],
@@ -40993,7 +40993,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 692,
+                    "itemId": 693,
                     "auxValue": 32767
                 },
                 "C": {
@@ -41005,7 +41005,7 @@
             },
             "output": [
                 {
-                    "legacyId": 692,
+                    "legacyId": 693,
                     "id": "minecraft:vex_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -41031,7 +41031,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 690,
+                    "itemId": 691,
                     "auxValue": 32767
                 },
                 "C": {
@@ -41043,7 +41043,7 @@
             },
             "output": [
                 {
-                    "legacyId": 690,
+                    "legacyId": 691,
                     "id": "minecraft:ward_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -41092,7 +41092,7 @@
             },
             "output": [
                 {
-                    "legacyId": 625,
+                    "legacyId": 626,
                     "id": "minecraft:warped_door",
                     "count": 3
                 }
@@ -41185,7 +41185,7 @@
             },
             "output": [
                 {
-                    "legacyId": 626,
+                    "legacyId": 627,
                     "id": "minecraft:warped_fungus_on_a_stick"
                 }
             ],
@@ -41203,7 +41203,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 627,
+                    "itemId": 628,
                     "auxValue": 32767
                 },
                 "B": {
@@ -41391,7 +41391,7 @@
             },
             "output": [
                 {
-                    "legacyId": 623,
+                    "legacyId": 624,
                     "id": "minecraft:warped_sign",
                     "count": 3
                 }
@@ -41492,7 +41492,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41518,7 +41518,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41544,7 +41544,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41570,7 +41570,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41596,7 +41596,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41622,7 +41622,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41648,7 +41648,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41674,7 +41674,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41700,7 +41700,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41726,7 +41726,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41752,7 +41752,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41778,7 +41778,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41804,7 +41804,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41830,7 +41830,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41856,7 +41856,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41882,7 +41882,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 599,
+                    "itemId": 600,
                     "auxValue": 32767
                 }
             ],
@@ -41908,7 +41908,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 698,
+                    "itemId": 699,
                     "auxValue": 32767
                 },
                 "C": {
@@ -41920,7 +41920,7 @@
             },
             "output": [
                 {
-                    "legacyId": 698,
+                    "legacyId": 699,
                     "id": "minecraft:wayfinder_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -41976,7 +41976,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner",
                     "damage": 15
                 }
@@ -42441,7 +42441,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 689,
+                    "itemId": 690,
                     "auxValue": 32767
                 },
                 "C": {
@@ -42453,7 +42453,7 @@
             },
             "output": [
                 {
-                    "legacyId": 689,
+                    "legacyId": 690,
                     "id": "minecraft:wild_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -43132,7 +43132,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 518,
+                    "legacyId": 519,
                     "id": "minecraft:writable_book"
                 }
             ],
@@ -43158,7 +43158,7 @@
             },
             "output": [
                 {
-                    "legacyId": 575,
+                    "legacyId": 576,
                     "id": "minecraft:banner",
                     "damage": 11
                 }
@@ -43529,13 +43529,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 0
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAABwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -43563,13 +43563,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 10
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAKBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -43597,13 +43597,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 11
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAALBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -43631,13 +43631,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 12
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAMBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -43665,13 +43665,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 13
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAANBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -43699,13 +43699,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 14
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAOBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -43733,13 +43733,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 15
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAPBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -43767,13 +43767,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 0
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAABwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -43801,13 +43801,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 3
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAADBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -43835,13 +43835,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 4
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAEBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -43869,13 +43869,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 15
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAPBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -43903,13 +43903,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 1
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAABBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -43937,13 +43937,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 2
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAACBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -43971,13 +43971,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 3
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAADBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -44005,13 +44005,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 4
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAEBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -44039,13 +44039,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 5
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAFBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -44073,13 +44073,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 6
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAGBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -44107,13 +44107,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 7
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAHBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -44141,13 +44141,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 8
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAIBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -44175,13 +44175,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 528,
+                    "itemId": 529,
                     "auxValue": 9
                 }
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwoBAAAABw0ARmlyZXdvcmtDb2xvcgEAAAAJBwwARmlyZXdvcmtGYWRlAAAAAAEPAEZpcmV3b3JrRmxpY2tlcgABDQBGaXJld29ya1RyYWlsAAEMAEZpcmV3b3JrVHlwZQAAAQYARmxpZ2h0AQAA"
@@ -44209,7 +44209,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yIR0d/wA="
                 }
@@ -44236,7 +44236,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 10,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yH8eA/wA="
@@ -44264,7 +44264,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 11,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yPdj+/wA="
@@ -44292,7 +44292,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 12,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9y2rM6/wA="
@@ -44320,7 +44320,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 13,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yvU7H/wA="
@@ -44348,7 +44348,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 14,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yHYD5/wA="
@@ -44376,7 +44376,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 15,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9y8PDw/wA="
@@ -44404,7 +44404,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yIR0d/wA="
                 }
@@ -44431,7 +44431,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 3,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yMlSD/wA="
@@ -44459,7 +44459,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 4,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yqkQ8/wA="
@@ -44487,7 +44487,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 15,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAADwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9y8PDw/wA="
@@ -44515,7 +44515,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 1,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yJi6w/wA="
@@ -44543,7 +44543,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 2,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yFnxe/wA="
@@ -44571,7 +44571,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 3,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAAAwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yMlSD/wA="
@@ -44599,7 +44599,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 4,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yqkQ8/wA="
@@ -44627,7 +44627,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 5,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yuDKJ/wA="
@@ -44655,7 +44655,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 6,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABgcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9ynJwW/wA="
@@ -44683,7 +44683,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 7,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAABwcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yl52d/wA="
@@ -44711,7 +44711,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 8,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACAcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yUk9H/wA="
@@ -44739,7 +44739,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 528,
+                    "legacyId": 529,
                     "id": "minecraft:firework_star",
                     "damage": 9,
                     "nbt_b64": "CgAACg0ARmlyZXdvcmtzSXRlbQcNAEZpcmV3b3JrQ29sb3IBAAAACQcMAEZpcmV3b3JrRmFkZQAAAAABDwBGaXJld29ya0ZsaWNrZXIAAQ0ARmlyZXdvcmtUcmFpbAABDABGaXJld29ya1R5cGUAAAMLAGN1c3RvbUNvbG9yqovz/wA="
@@ -44767,7 +44767,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 527,
+                    "legacyId": 528,
                     "id": "minecraft:firework_rocket",
                     "count": 3,
                     "nbt_b64": "CgAACgkARmlyZXdvcmtzCQoARXhwbG9zaW9ucwAAAAAAAQYARmxpZ2h0AQAA"
@@ -53675,7 +53675,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 10
                 }
             },
@@ -53708,7 +53708,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 11
                 }
             },
@@ -53741,7 +53741,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 12
                 }
             },
@@ -53774,7 +53774,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 13
                 }
             },
@@ -53807,7 +53807,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 14
                 }
             },
@@ -53840,7 +53840,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 15
                 }
             },
@@ -53873,7 +53873,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 16
                 }
             },
@@ -53906,7 +53906,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 17
                 }
             },
@@ -53939,7 +53939,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 18
                 }
             },
@@ -53972,7 +53972,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 19
                 }
             },
@@ -54005,7 +54005,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 20
                 }
             },
@@ -54038,7 +54038,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 21
                 }
             },
@@ -54071,7 +54071,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 22
                 }
             },
@@ -54104,7 +54104,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 23
                 }
             },
@@ -54137,7 +54137,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 24
                 }
             },
@@ -54170,7 +54170,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 25
                 }
             },
@@ -54203,7 +54203,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 26
                 }
             },
@@ -54236,7 +54236,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 27
                 }
             },
@@ -54269,7 +54269,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 28
                 }
             },
@@ -54302,7 +54302,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 29
                 }
             },
@@ -54335,7 +54335,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 30
                 }
             },
@@ -54368,7 +54368,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 31
                 }
             },
@@ -54401,7 +54401,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 32
                 }
             },
@@ -54434,7 +54434,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 33
                 }
             },
@@ -54467,7 +54467,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 34
                 }
             },
@@ -54500,7 +54500,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 35
                 }
             },
@@ -54533,7 +54533,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 36
                 }
             },
@@ -54566,7 +54566,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 37
                 }
             },
@@ -54599,7 +54599,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 38
                 }
             },
@@ -54632,7 +54632,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 39
                 }
             },
@@ -54665,7 +54665,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 40
                 }
             },
@@ -54698,7 +54698,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 41
                 }
             },
@@ -54731,7 +54731,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 42
                 }
             },
@@ -54764,7 +54764,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 5
                 }
             },
@@ -54797,7 +54797,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 6
                 }
             },
@@ -54830,7 +54830,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 7
                 }
             },
@@ -54863,7 +54863,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 8
                 }
             },
@@ -54896,7 +54896,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 570,
+                    "itemId": 571,
                     "auxValue": 9
                 }
             },
@@ -63108,7 +63108,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 512,
+                "legacyId": 513,
                 "id": "minecraft:copper_ingot",
                 "damage": 32767
             },
@@ -63122,7 +63122,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 512,
+                "legacyId": 513,
                 "id": "minecraft:copper_ingot",
                 "damage": 32767
             },
@@ -63136,7 +63136,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 520,
+                "legacyId": 521,
                 "id": "minecraft:emerald",
                 "damage": 32767
             },
@@ -63150,7 +63150,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 520,
+                "legacyId": 521,
                 "id": "minecraft:emerald",
                 "damage": 32767
             },
@@ -63367,7 +63367,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 512,
+                "legacyId": 513,
                 "id": "minecraft:copper_ingot",
                 "damage": 32767
             },
@@ -63381,7 +63381,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 512,
+                "legacyId": 513,
                 "id": "minecraft:copper_ingot",
                 "damage": 32767
             },
@@ -63436,7 +63436,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 621,
+                "legacyId": 622,
                 "id": "minecraft:netherite_scrap",
                 "damage": 32767
             },
@@ -63450,7 +63450,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 621,
+                "legacyId": 622,
                 "id": "minecraft:netherite_scrap",
                 "damage": 32767
             },
@@ -64015,7 +64015,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 531,
+                "legacyId": 532,
                 "id": "minecraft:netherbrick",
                 "damage": 32767
             },
@@ -64054,7 +64054,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 520,
+                "legacyId": 521,
                 "id": "minecraft:emerald",
                 "damage": 32767
             },
@@ -64068,7 +64068,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 520,
+                "legacyId": 521,
                 "id": "minecraft:emerald",
                 "damage": 32767
             },
@@ -64082,7 +64082,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 532,
+                "legacyId": 533,
                 "id": "minecraft:quartz",
                 "damage": 32767
             },
@@ -64096,7 +64096,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 532,
+                "legacyId": 533,
                 "id": "minecraft:quartz",
                 "damage": 32767
             },
@@ -64564,7 +64564,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64578,7 +64578,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64592,7 +64592,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64606,7 +64606,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64620,7 +64620,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64634,7 +64634,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64648,7 +64648,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64662,7 +64662,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64788,7 +64788,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64802,7 +64802,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64843,7 +64843,7 @@
                 "id": "minecraft:chainmail_helmet"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64856,7 +64856,7 @@
                 "id": "minecraft:chainmail_helmet"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64869,7 +64869,7 @@
                 "id": "minecraft:chainmail_chestplate"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64882,7 +64882,7 @@
                 "id": "minecraft:chainmail_chestplate"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64895,7 +64895,7 @@
                 "id": "minecraft:chainmail_leggings"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64908,7 +64908,7 @@
                 "id": "minecraft:chainmail_leggings"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64921,7 +64921,7 @@
                 "id": "minecraft:chainmail_boots"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64934,7 +64934,7 @@
                 "id": "minecraft:chainmail_boots"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64947,7 +64947,7 @@
                 "id": "minecraft:iron_helmet"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64960,7 +64960,7 @@
                 "id": "minecraft:iron_helmet"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64973,7 +64973,7 @@
                 "id": "minecraft:iron_chestplate"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64986,7 +64986,7 @@
                 "id": "minecraft:iron_chestplate"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -64999,7 +64999,7 @@
                 "id": "minecraft:iron_leggings"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -65012,7 +65012,7 @@
                 "id": "minecraft:iron_leggings"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -65025,7 +65025,7 @@
                 "id": "minecraft:iron_boots"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -65038,7 +65038,7 @@
                 "id": "minecraft:iron_boots"
             },
             "output": {
-                "legacyId": 577,
+                "legacyId": 578,
                 "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
@@ -65221,7 +65221,7 @@
         {
             "type": 3,
             "input": {
-                "legacyId": 513,
+                "legacyId": 514,
                 "id": "minecraft:raw_iron",
                 "damage": -1
             },
@@ -65235,7 +65235,7 @@
         {
             "type": 3,
             "input": {
-                "legacyId": 513,
+                "legacyId": 514,
                 "id": "minecraft:raw_iron",
                 "damage": -1
             },
@@ -65249,7 +65249,7 @@
         {
             "type": 3,
             "input": {
-                "legacyId": 514,
+                "legacyId": 515,
                 "id": "minecraft:raw_gold",
                 "damage": -1
             },
@@ -65263,7 +65263,7 @@
         {
             "type": 3,
             "input": {
-                "legacyId": 514,
+                "legacyId": 515,
                 "id": "minecraft:raw_gold",
                 "damage": -1
             },
@@ -65277,12 +65277,12 @@
         {
             "type": 3,
             "input": {
-                "legacyId": 515,
+                "legacyId": 516,
                 "id": "minecraft:raw_copper",
                 "damage": -1
             },
             "output": {
-                "legacyId": 512,
+                "legacyId": 513,
                 "id": "minecraft:copper_ingot",
                 "damage": 32767
             },
@@ -65291,41 +65291,13 @@
         {
             "type": 3,
             "input": {
-                "legacyId": 515,
+                "legacyId": 516,
                 "id": "minecraft:raw_copper",
                 "damage": -1
             },
             "output": {
-                "legacyId": 512,
+                "legacyId": 513,
                 "id": "minecraft:copper_ingot",
-                "damage": 32767
-            },
-            "block": "blast_furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 539,
-                "id": "minecraft:iron_horse_armor",
-                "damage": -1
-            },
-            "output": {
-                "legacyId": 577,
-                "id": "minecraft:iron_nugget",
-                "damage": 32767
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 539,
-                "id": "minecraft:iron_horse_armor",
-                "damage": -1
-            },
-            "output": {
-                "legacyId": 577,
-                "id": "minecraft:iron_nugget",
                 "damage": 32767
             },
             "block": "blast_furnace"
@@ -65334,6 +65306,34 @@
             "type": 3,
             "input": {
                 "legacyId": 540,
+                "id": "minecraft:iron_horse_armor",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": 578,
+                "id": "minecraft:iron_nugget",
+                "damage": 32767
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": 540,
+                "id": "minecraft:iron_horse_armor",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": 578,
+                "id": "minecraft:iron_nugget",
+                "damage": 32767
+            },
+            "block": "blast_furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": 541,
                 "id": "minecraft:golden_horse_armor",
                 "damage": -1
             },
@@ -65347,7 +65347,7 @@
         {
             "type": 3,
             "input": {
-                "legacyId": 540,
+                "legacyId": 541,
                 "id": "minecraft:golden_horse_armor",
                 "damage": -1
             },
@@ -65361,12 +65361,12 @@
         {
             "type": 3,
             "input": {
-                "legacyId": 558,
+                "legacyId": 559,
                 "id": "minecraft:mutton",
                 "damage": -1
             },
             "output": {
-                "legacyId": 559,
+                "legacyId": 560,
                 "id": "minecraft:cooked_mutton",
                 "damage": 32767
             },
@@ -65375,12 +65375,12 @@
         {
             "type": 3,
             "input": {
-                "legacyId": 558,
+                "legacyId": 559,
                 "id": "minecraft:mutton",
                 "damage": -1
             },
             "output": {
-                "legacyId": 559,
+                "legacyId": 560,
                 "id": "minecraft:cooked_mutton",
                 "damage": 32767
             },
@@ -65389,12 +65389,12 @@
         {
             "type": 3,
             "input": {
-                "legacyId": 558,
+                "legacyId": 559,
                 "id": "minecraft:mutton",
                 "damage": -1
             },
             "output": {
-                "legacyId": 559,
+                "legacyId": 560,
                 "id": "minecraft:cooked_mutton",
                 "damage": 32767
             },
@@ -65403,12 +65403,12 @@
         {
             "type": 3,
             "input": {
-                "legacyId": 558,
+                "legacyId": 559,
                 "id": "minecraft:mutton",
                 "damage": -1
             },
             "output": {
-                "legacyId": 559,
+                "legacyId": 560,
                 "id": "minecraft:cooked_mutton",
                 "damage": 32767
             },
@@ -65417,12 +65417,12 @@
         {
             "type": 3,
             "input": {
-                "legacyId": 566,
+                "legacyId": 567,
                 "id": "minecraft:chorus_fruit",
                 "damage": -1
             },
             "output": {
-                "legacyId": 567,
+                "legacyId": 568,
                 "id": "minecraft:popped_chorus_fruit",
                 "damage": 32767
             },
