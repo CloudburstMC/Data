@@ -1,5 +1,5 @@
 {
-    "version": 712,
+    "version": 729,
     "recipes": [
         {
             "type": 9,
@@ -1308,13 +1308,13 @@
                     "type": "default",
                     "count": 1,
                     "itemId": -594,
-                    "auxValue": 0
+                    "auxValue": 32767
                 }
             ],
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall"
+                    "legacyId": -974,
+                    "id": "minecraft:andesite_wall"
                 }
             ],
             "block": "stonecutter",
@@ -1471,13 +1471,13 @@
                     "type": "default",
                     "count": 1,
                     "itemId": 45,
-                    "auxValue": 0
+                    "auxValue": 32767
                 }
             ],
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall"
+                    "legacyId": -976,
+                    "id": "minecraft:brick_wall"
                 }
             ],
             "block": "stonecutter",
@@ -1632,7 +1632,7 @@
                     "type": "default",
                     "count": 1,
                     "itemId": 4,
-                    "auxValue": 0
+                    "auxValue": 32767
                 }
             ],
             "output": [
@@ -1900,13 +1900,13 @@
                     "type": "default",
                     "count": 1,
                     "itemId": -592,
-                    "auxValue": 0
+                    "auxValue": 32767
                 }
             ],
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall"
+                    "legacyId": -973,
+                    "id": "minecraft:diorite_wall"
                 }
             ],
             "block": "stonecutter",
@@ -2023,13 +2023,13 @@
                     "type": "default",
                     "count": 1,
                     "itemId": 121,
-                    "auxValue": 0
+                    "auxValue": 32767
                 }
             ],
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall"
+                    "legacyId": -980,
+                    "id": "minecraft:end_stone_brick_wall"
                 }
             ],
             "block": "stonecutter",
@@ -2043,13 +2043,13 @@
                     "type": "default",
                     "count": 1,
                     "itemId": 206,
-                    "auxValue": 0
+                    "auxValue": 32767
                 }
             ],
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall"
+                    "legacyId": -980,
+                    "id": "minecraft:end_stone_brick_wall"
                 }
             ],
             "block": "stonecutter",
@@ -2290,13 +2290,13 @@
                     "type": "default",
                     "count": 1,
                     "itemId": -590,
-                    "auxValue": 0
+                    "auxValue": 32767
                 }
             ],
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall"
+                    "legacyId": -972,
+                    "id": "minecraft:granite_wall"
                 }
             ],
             "block": "stonecutter",
@@ -2351,13 +2351,13 @@
                     "type": "default",
                     "count": 1,
                     "itemId": 48,
-                    "auxValue": 0
+                    "auxValue": 32767
                 }
             ],
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall"
+                    "legacyId": -971,
+                    "id": "minecraft:mossy_cobblestone_wall"
                 }
             ],
             "block": "stonecutter",
@@ -2417,8 +2417,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall"
+                    "legacyId": -978,
+                    "id": "minecraft:mossy_stone_brick_wall"
                 }
             ],
             "block": "stonecutter",
@@ -2534,13 +2534,13 @@
                     "type": "default",
                     "count": 1,
                     "itemId": 112,
-                    "auxValue": 0
+                    "auxValue": 32767
                 }
             ],
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall"
+                    "legacyId": -979,
+                    "id": "minecraft:nether_brick_wall"
                 }
             ],
             "block": "stonecutter",
@@ -3457,8 +3457,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall"
+                    "legacyId": -981,
+                    "id": "minecraft:prismarine_wall"
                 }
             ],
             "block": "stonecutter",
@@ -3477,8 +3477,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 201,
-                    "id": "minecraft:purpur_block"
+                    "legacyId": -951,
+                    "id": "minecraft:purpur_pillar"
                 }
             ],
             "block": "stonecutter",
@@ -3675,13 +3675,13 @@
                     "type": "default",
                     "count": 1,
                     "itemId": 215,
-                    "auxValue": 0
+                    "auxValue": 32767
                 }
             ],
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall"
+                    "legacyId": -983,
+                    "id": "minecraft:red_nether_brick_wall"
                 }
             ],
             "block": "stonecutter",
@@ -3781,8 +3781,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall"
+                    "legacyId": -982,
+                    "id": "minecraft:red_sandstone_wall"
                 }
             ],
             "block": "stonecutter",
@@ -3882,8 +3882,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall"
+                    "legacyId": -975,
+                    "id": "minecraft:sandstone_wall"
                 }
             ],
             "block": "stonecutter",
@@ -4250,8 +4250,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall"
+                    "legacyId": -977,
+                    "id": "minecraft:stone_brick_wall"
                 }
             ],
             "block": "stonecutter",
@@ -4270,8 +4270,8 @@
             ],
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall"
+                    "legacyId": -977,
+                    "id": "minecraft:stone_brick_wall"
                 }
             ],
             "block": "stonecutter",
@@ -15582,8 +15582,8 @@
             },
             "output": [
                 {
-                    "legacyId": 201,
-                    "id": "minecraft:purpur_block"
+                    "legacyId": -951,
+                    "id": "minecraft:purpur_pillar"
                 }
             ],
             "shape": [
@@ -16397,13 +16397,13 @@
                     "type": "default",
                     "count": 1,
                     "itemId": -594,
-                    "auxValue": 0
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall",
+                    "legacyId": -974,
+                    "id": "minecraft:andesite_wall",
                     "count": 6
                 }
             ],
@@ -19520,8 +19520,8 @@
             },
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall",
+                    "legacyId": -976,
+                    "id": "minecraft:brick_wall",
                     "count": 6
                 }
             ],
@@ -24316,7 +24316,8 @@
             "output": [
                 {
                     "legacyId": 410,
-                    "id": "minecraft:cyan_dye"
+                    "id": "minecraft:cyan_dye",
+                    "count": 2
                 }
             ],
             "block": "crafting_table",
@@ -25586,13 +25587,13 @@
                     "type": "default",
                     "count": 1,
                     "itemId": -592,
-                    "auxValue": 0
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall",
+                    "legacyId": -973,
+                    "id": "minecraft:diorite_wall",
                     "count": 6
                 }
             ],
@@ -25956,8 +25957,8 @@
             },
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall",
+                    "legacyId": -980,
+                    "id": "minecraft:end_stone_brick_wall",
                     "count": 6
                 }
             ],
@@ -26018,7 +26019,7 @@
             },
             "output": [
                 {
-                    "legacyId": 769,
+                    "legacyId": 772,
                     "id": "minecraft:end_crystal"
                 }
             ],
@@ -26536,7 +26537,7 @@
                 "C": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 261,
+                    "itemId": 257,
                     "auxValue": 32767
                 }
             },
@@ -26864,7 +26865,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 257,
+                    "itemId": 261,
                     "auxValue": 32767
                 }
             },
@@ -27264,13 +27265,13 @@
                     "type": "default",
                     "count": 1,
                     "itemId": -590,
-                    "auxValue": 0
+                    "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall",
+                    "legacyId": -972,
+                    "id": "minecraft:granite_wall",
                     "count": 6
                 }
             ],
@@ -31428,7 +31429,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 261,
+                    "itemId": 257,
                     "auxValue": 32767
                 }
             },
@@ -32770,8 +32771,8 @@
             },
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall",
+                    "legacyId": -971,
+                    "id": "minecraft:mossy_cobblestone_wall",
                     "count": 6
                 }
             ],
@@ -32821,8 +32822,8 @@
             },
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall",
+                    "legacyId": -978,
+                    "id": "minecraft:mossy_stone_brick_wall",
                     "count": 6
                 }
             ],
@@ -33137,8 +33138,8 @@
             },
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall",
+                    "legacyId": -979,
+                    "id": "minecraft:nether_brick_wall",
                     "count": 6
                 }
             ],
@@ -35686,8 +35687,8 @@
             },
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall",
+                    "legacyId": -981,
+                    "id": "minecraft:prismarine_wall",
                     "count": 6
                 }
             ],
@@ -36143,10 +36144,8 @@
             "type": 1,
             "input": {
                 "A": {
-                    "type": "default",
-                    "count": 1,
-                    "itemId": 201,
-                    "auxValue": 32767
+                    "type": "complex_alias",
+                    "count": 1
                 }
             },
             "output": [
@@ -36965,8 +36964,8 @@
             },
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall",
+                    "legacyId": -983,
+                    "id": "minecraft:red_nether_brick_wall",
                     "count": 6
                 }
             ],
@@ -37040,8 +37039,8 @@
             },
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall",
+                    "legacyId": -982,
+                    "id": "minecraft:red_sandstone_wall",
                     "count": 6
                 }
             ],
@@ -37451,8 +37450,8 @@
             },
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall",
+                    "legacyId": -975,
+                    "id": "minecraft:sandstone_wall",
                     "count": 6
                 }
             ],
@@ -40357,10 +40356,8 @@
                     "auxValue": 32767
                 },
                 "C": {
-                    "type": "default",
-                    "count": 1,
-                    "itemId": 201,
-                    "auxValue": 32767
+                    "type": "complex_alias",
+                    "count": 1
                 }
             },
             "output": [
@@ -41034,8 +41031,8 @@
             },
             "output": [
                 {
-                    "legacyId": 139,
-                    "id": "minecraft:cobblestone_wall",
+                    "legacyId": -977,
+                    "id": "minecraft:stone_brick_wall",
                     "count": 6
                 }
             ],
@@ -45192,7 +45189,7 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 261,
+                    "itemId": 257,
                     "auxValue": 32767
                 }
             ],
@@ -65617,6 +65614,19 @@
         {
             "type": 3,
             "input": {
+                "legacyId": -984,
+                "id": "minecraft:wet_sponge",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": 19,
+                "id": "minecraft:sponge"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
                 "legacyId": -949,
                 "id": "minecraft:red_sand",
                 "damage": -1
@@ -65637,7 +65647,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -65662,7 +65672,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -65687,7 +65697,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -65712,7 +65722,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -65737,7 +65747,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -65762,7 +65772,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -65787,7 +65797,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -65812,7 +65822,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -65837,7 +65847,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -65862,7 +65872,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -65887,7 +65897,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -66092,7 +66102,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -66117,7 +66127,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -66142,7 +66152,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -66167,7 +66177,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -66665,7 +66675,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -66900,7 +66910,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
@@ -66912,19 +66922,6 @@
             "output": {
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
-            },
-            "block": "furnace"
-        },
-        {
-            "type": 3,
-            "input": {
-                "legacyId": 19,
-                "id": "minecraft:sponge",
-                "damage": 1
-            },
-            "output": {
-                "legacyId": 19,
-                "id": "minecraft:sponge"
             },
             "block": "furnace"
         },
@@ -67178,7 +67175,7 @@
                 "legacyId": 310,
                 "id": "minecraft:charcoal"
             },
-            "block": "furnace"
+            "block": "deprecated"
         },
         {
             "type": 3,
