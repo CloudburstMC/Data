@@ -33,6 +33,10 @@
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQYAwAACAQAbmFtZRcAbWluZWNyYWZ0OmNoZXJyeV9wbGFua3MECQBuYW1lX2hhc2hNIvVh/lVW7gMKAG5ldHdvcmtfaWQTXpRoCgYAc3RhdGVzAAMHAHZlcnNpb24BKBUBAA=="
         },
         {
+            "id": "minecraft:pale_oak_planks",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTjBAAACAQAbmFtZRkAbWluZWNyYWZ0OnBhbGVfb2FrX3BsYW5rcwQJAG5hbWVfaGFzaDbrgXmqzgxDAwoAbmV0d29ya19pZFpM6OoKBgBzdGF0ZXMAAwcAdmVyc2lvbgEoFQEA"
+        },
+        {
             "id": "minecraft:bamboo_planks",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWT9AgAACAQAbmFtZRcAbWluZWNyYWZ0OmJhbWJvb19wbGFua3MECQBuYW1lX2hhc2gYnjNz7SCCjgMKAG5ldHdvcmtfaWTi8ySSCgYAc3RhdGVzAAMHAHZlcnNpb24BKBUBAA=="
         },
@@ -149,6 +153,10 @@
             "block_state_b64": "CgAAAwgAYmxvY2tfaWTgAgAACAQAbmFtZRgAbWluZWNyYWZ0Om11ZF9icmlja193YWxsBAkAbmFtZV9oYXNov9b98ATpUSwDCgBuZXR3b3JrX2lkH/1WZQoGAHN0YXRlcwgZAHdhbGxfY29ubmVjdGlvbl90eXBlX2Vhc3QEAG5vbmUIGgB3YWxsX2Nvbm5lY3Rpb25fdHlwZV9ub3J0aAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX3NvdXRoBABub25lCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfd2VzdAQAbm9uZQENAHdhbGxfcG9zdF9iaXQAAAMHAHZlcnNpb24BKBUBAA=="
         },
         {
+            "id": "minecraft:resin_brick_wall",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWT4BAAACAQAbmFtZRoAbWluZWNyYWZ0OnJlc2luX2JyaWNrX3dhbGwECQBuYW1lX2hhc2iUkvfZlSl8+gMKAG5ldHdvcmtfaWSYW394CgYAc3RhdGVzCBkAd2FsbF9jb25uZWN0aW9uX3R5cGVfZWFzdAQAbm9uZQgaAHdhbGxfY29ubmVjdGlvbl90eXBlX25vcnRoBABub25lCBoAd2FsbF9jb25uZWN0aW9uX3R5cGVfc291dGgEAG5vbmUIGQB3YWxsX2Nvbm5lY3Rpb25fdHlwZV93ZXN0BABub25lAQ0Ad2FsbF9wb3N0X2JpdAAAAwcAdmVyc2lvbgEoFQEA"
+        },
+        {
             "id": "minecraft:oak_fence",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWRVAAAACAQAbmFtZRMAbWluZWNyYWZ0Om9ha19mZW5jZQQJAG5hbWVfaGFzaGEmid7AaCWRAwoAbmV0d29ya19pZDvPEXcKBgBzdGF0ZXMAAwcAdmVyc2lvbgEoFQEA"
         },
@@ -179,6 +187,10 @@
         {
             "id": "minecraft:cherry_fence",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQTAwAACAQAbmFtZRYAbWluZWNyYWZ0OmNoZXJyeV9mZW5jZQQJAG5hbWVfaGFzaFmtUfHfTxcxAwoAbmV0d29ya19pZPCBxAIKBgBzdGF0ZXMAAwcAdmVyc2lvbgEoFQEA"
+        },
+        {
+            "id": "minecraft:pale_oak_fence",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTeBAAACAQAbmFtZRgAbWluZWNyYWZ0OnBhbGVfb2FrX2ZlbmNlBAkAbmFtZV9oYXNobM05DVVUSxsDCgBuZXR3b3JrX2lkS7udAwoGAHN0YXRlcwADBwB2ZXJzaW9uASgVAQA="
         },
         {
             "id": "minecraft:bamboo_fence",
@@ -227,6 +239,10 @@
         {
             "id": "minecraft:cherry_fence_gate",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQUAwAACAQAbmFtZRsAbWluZWNyYWZ0OmNoZXJyeV9mZW5jZV9nYXRlBAkAbmFtZV9oYXNoKWLgCk0z+PsDCgBuZXR3b3JrX2lk/9bTZQoGAHN0YXRlcwMJAGRpcmVjdGlvbgAAAAABCwBpbl93YWxsX2JpdAABCABvcGVuX2JpdAAAAwcAdmVyc2lvbgEoFQEA"
+        },
+        {
+            "id": "minecraft:pale_oak_fence_gate",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTfBAAACAQAbmFtZR0AbWluZWNyYWZ0OnBhbGVfb2FrX2ZlbmNlX2dhdGUECQBuYW1lX2hhc2hCrHUtEPI3BgMKAG5ldHdvcmtfaWRsEYcmCgYAc3RhdGVzAwkAZGlyZWN0aW9uAAAAAAELAGluX3dhbGxfYml0AAEIAG9wZW5fYml0AAADBwB2ZXJzaW9uASgVAQA="
         },
         {
             "id": "minecraft:bamboo_fence_gate",
@@ -283,6 +299,10 @@
         {
             "id": "minecraft:cherry_stairs",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQcAwAACAQAbmFtZRcAbWluZWNyYWZ0OmNoZXJyeV9zdGFpcnMECQBuYW1lX2hhc2jMtr0v9JY4zwMKAG5ldHdvcmtfaWRQwq31CgYAc3RhdGVzAQ8AdXBzaWRlX2Rvd25fYml0AAMQAHdlaXJkb19kaXJlY3Rpb24AAAAAAAMHAHZlcnNpb24BKBUBAA=="
+        },
+        {
+            "id": "minecraft:pale_oak_stairs",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTnBAAACAQAbmFtZRkAbWluZWNyYWZ0OnBhbGVfb2FrX3N0YWlycwQJAG5hbWVfaGFzaJsYBq7wfPXaAwoAbmV0d29ya19pZE1U5UIKBgBzdGF0ZXMBDwB1cHNpZGVfZG93bl9iaXQAAxAAd2VpcmRvX2RpcmVjdGlvbgAAAAAAAwcAdmVyc2lvbgEoFQEA"
         },
         {
             "id": "minecraft:bamboo_stairs",
@@ -465,6 +485,10 @@
             "block_state_b64": "CgAAAwgAYmxvY2tfaWS/AgAACAQAbmFtZSoAbWluZWNyYWZ0OndheGVkX294aWRpemVkX2N1dF9jb3BwZXJfc3RhaXJzBAkAbmFtZV9oYXNoaqGdkuhxVZUDCgBuZXR3b3JrX2lkYQXzzgoGAHN0YXRlcwEPAHVwc2lkZV9kb3duX2JpdAADEAB3ZWlyZG9fZGlyZWN0aW9uAAAAAAADBwB2ZXJzaW9uASgVAQA="
         },
         {
+            "id": "minecraft:resin_brick_stairs",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWT3BAAACAQAbmFtZRwAbWluZWNyYWZ0OnJlc2luX2JyaWNrX3N0YWlycwQJAG5hbWVfaGFzaGJwsbVlApWmAwoAbmV0d29ya19pZCPz+A0KBgBzdGF0ZXMBDwB1cHNpZGVfZG93bl9iaXQAAxAAd2VpcmRvX2RpcmVjdGlvbgAAAAAAAwcAdmVyc2lvbgEoFQEA"
+        },
+        {
             "id": "minecraft:wooden_door"
         },
         {
@@ -487,6 +511,9 @@
         },
         {
             "id": "minecraft:cherry_door"
+        },
+        {
+            "id": "minecraft:pale_oak_door"
         },
         {
             "id": "minecraft:bamboo_door"
@@ -555,6 +582,10 @@
         {
             "id": "minecraft:cherry_trapdoor",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQeAwAACAQAbmFtZRkAbWluZWNyYWZ0OmNoZXJyeV90cmFwZG9vcgQJAG5hbWVfaGFzaH/PefpfdHgtAwoAbmV0d29ya19pZOA7eNgKBgBzdGF0ZXMDCQBkaXJlY3Rpb24AAAAAAQgAb3Blbl9iaXQAAQ8AdXBzaWRlX2Rvd25fYml0AAADBwB2ZXJzaW9uASgVAQA="
+        },
+        {
+            "id": "minecraft:pale_oak_trapdoor",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTpBAAACAQAbmFtZRsAbWluZWNyYWZ0OnBhbGVfb2FrX3RyYXBkb29yBAkAbmFtZV9oYXNo5L0cQtjJA9oDCgBuZXR3b3JrX2lkVwhZTgoGAHN0YXRlcwMJAGRpcmVjdGlvbgAAAAABCABvcGVuX2JpdAABDwB1cHNpZGVfZG93bl9iaXQAAAMHAHZlcnNpb24BKBUBAA=="
         },
         {
             "id": "minecraft:bamboo_trapdoor",
@@ -809,6 +840,10 @@
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQaAwAACAQAbmFtZRUAbWluZWNyYWZ0OmNoZXJyeV9zbGFiBAkAbmFtZV9oYXNoTt0MmVn/mqoDCgBuZXR3b3JrX2lk2VVsZQoGAHN0YXRlcwgXAG1pbmVjcmFmdDp2ZXJ0aWNhbF9oYWxmBgBib3R0b20AAwcAdmVyc2lvbgEoFQEA"
         },
         {
+            "id": "minecraft:pale_oak_slab",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTlBAAACAQAbmFtZRcAbWluZWNyYWZ0OnBhbGVfb2FrX3NsYWIECQBuYW1lX2hhc2g9QqTGUjo2XgMKAG5ldHdvcmtfaWQoWvcmCgYAc3RhdGVzCBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQADBwB2ZXJzaW9uASgVAQA="
+        },
+        {
             "id": "minecraft:bamboo_slab",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQAAwAACAQAbmFtZRUAbWluZWNyYWZ0OmJhbWJvb19zbGFiBAkAbmFtZV9oYXNoo1xuFqINeLYDCgBuZXR3b3JrX2lkVC+0twoGAHN0YXRlcwgXAG1pbmVjcmFmdDp2ZXJ0aWNhbF9oYWxmBgBib3R0b20AAwcAdmVyc2lvbgEoFQEA"
         },
@@ -995,6 +1030,10 @@
         {
             "id": "minecraft:waxed_oxidized_cut_copper_slab",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWTAAgAACAQAbmFtZSgAbWluZWNyYWZ0OndheGVkX294aWRpemVkX2N1dF9jb3BwZXJfc2xhYgQJAG5hbWVfaGFzaMjjTnLu1KcqAwoAbmV0d29ya19pZIxsnFYKBgBzdGF0ZXMIFwBtaW5lY3JhZnQ6dmVydGljYWxfaGFsZgYAYm90dG9tAAMHAHZlcnNpb24BKBUBAA=="
+        },
+        {
+            "id": "minecraft:resin_brick_slab",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWT1BAAACAQAbmFtZRoAbWluZWNyYWZ0OnJlc2luX2JyaWNrX3NsYWIECQBuYW1lX2hhc2hAGu/Hlaa12QMKAG5ldHdvcmtfaWSyDq8CCgYAc3RhdGVzCBcAbWluZWNyYWZ0OnZlcnRpY2FsX2hhbGYGAGJvdHRvbQADBwB2ZXJzaW9uASgVAQA="
         },
         {
             "id": "minecraft:stone_bricks",
@@ -1357,12 +1396,24 @@
             "block_state_b64": "CgAAAwgAYmxvY2tfaWTcAQAACAQAbmFtZRkAbWluZWNyYWZ0OmhvbmV5Y29tYl9ibG9jawQJAG5hbWVfaGFzaASIPuOCYd1oAwoAbmV0d29ya19pZKys4n4KBgBzdGF0ZXMAAwcAdmVyc2lvbgEoFQEA"
         },
         {
+            "id": "minecraft:resin_block",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWT8BAAACAQAbmFtZRUAbWluZWNyYWZ0OnJlc2luX2Jsb2NrBAkAbmFtZV9oYXNo6SHuLxdB67QDCgBuZXR3b3JrX2lkcWO4EwoGAHN0YXRlcwADBwB2ZXJzaW9uASgVAQA="
+        },
+        {
             "id": "minecraft:hay_block",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWSqAAAACAQAbmFtZRMAbWluZWNyYWZ0OmhheV9ibG9jawQJAG5hbWVfaGFzaIB2VxKxX8EpAwoAbmV0d29ya19pZKuQSloKBgBzdGF0ZXMDCgBkZXByZWNhdGVkAAAAAAgLAHBpbGxhcl9heGlzAQB5AAMHAHZlcnNpb24BKBUBAA=="
         },
         {
             "id": "minecraft:bone_block",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWTYAAAACAQAbmFtZRQAbWluZWNyYWZ0OmJvbmVfYmxvY2sECQBuYW1lX2hhc2i4ZX576W9AWgMKAG5ldHdvcmtfaWTWGacQCgYAc3RhdGVzAwoAZGVwcmVjYXRlZAAAAAAICwBwaWxsYXJfYXhpcwEAeQADBwB2ZXJzaW9uASgVAQA="
+        },
+        {
+            "id": "minecraft:resin_bricks",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWT0BAAACAQAbmFtZRYAbWluZWNyYWZ0OnJlc2luX2JyaWNrcwQJAG5hbWVfaGFzaPQfo5PcOZSaAwoAbmV0d29ya19pZB24YHwKBgBzdGF0ZXMAAwcAdmVyc2lvbgEoFQEA"
+        },
+        {
+            "id": "minecraft:chiseled_resin_bricks",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWT7BAAACAQAbmFtZR8AbWluZWNyYWZ0OmNoaXNlbGVkX3Jlc2luX2JyaWNrcwQJAG5hbWVfaGFzaNSCIvsamt6qAwoAbmV0d29ya19pZBY+3hYKBgBzdGF0ZXMAAwcAdmVyc2lvbgEoFQEA"
         },
         {
             "id": "minecraft:nether_brick",
@@ -2081,6 +2132,14 @@
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQWAwAACAQAbmFtZR0AbWluZWNyYWZ0OnN0cmlwcGVkX2NoZXJyeV9sb2cECQBuYW1lX2hhc2i85H6G+WhXaAMKAG5ldHdvcmtfaWRjzoglCgYAc3RhdGVzCAsAcGlsbGFyX2F4aXMBAHkAAwcAdmVyc2lvbgEoFQEA"
         },
         {
+            "id": "minecraft:pale_oak_log",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTiBAAACAQAbmFtZRYAbWluZWNyYWZ0OnBhbGVfb2FrX2xvZwQJAG5hbWVfaGFzaIEcMMTin/ihAwoAbmV0d29ya19pZMtoEVwKBgBzdGF0ZXMICwBwaWxsYXJfYXhpcwEAeQADBwB2ZXJzaW9uASgVAQA="
+        },
+        {
+            "id": "minecraft:stripped_pale_oak_log",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWThBAAACAQAbmFtZR8AbWluZWNyYWZ0OnN0cmlwcGVkX3BhbGVfb2FrX2xvZwQJAG5hbWVfaGFzaBVKFLV2TrFcAwoAbmV0d29ya19pZBY8/GAKBgBzdGF0ZXMICwBwaWxsYXJfYXhpcwEAeQADBwB2ZXJzaW9uASgVAQA="
+        },
+        {
             "id": "minecraft:crimson_stem",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWTgAQAACAQAbmFtZRYAbWluZWNyYWZ0OmNyaW1zb25fc3RlbQQJAG5hbWVfaGFzaM0FzfL0UTKZAwoAbmV0d29ya19pZKvzID0KBgBzdGF0ZXMICwBwaWxsYXJfYXhpcwEAeQADBwB2ZXJzaW9uASgVAQA="
         },
@@ -2161,6 +2220,14 @@
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQgAwAACAQAbmFtZR4AbWluZWNyYWZ0OnN0cmlwcGVkX2NoZXJyeV93b29kBAkAbmFtZV9oYXNo/e7KXv+CB38DCgBuZXR3b3JrX2lkg5aVtQoGAHN0YXRlcwgLAHBpbGxhcl9heGlzAQB5AAMHAHZlcnNpb24BKBUBAA=="
         },
         {
+            "id": "minecraft:pale_oak_wood",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTsBAAACAQAbmFtZRcAbWluZWNyYWZ0OnBhbGVfb2FrX3dvb2QECQBuYW1lX2hhc2hGlXnbUgRIggMKAG5ldHdvcmtfaWRPLx7LCgYAc3RhdGVzCAsAcGlsbGFyX2F4aXMBAHkAAwcAdmVyc2lvbgEoFQEA"
+        },
+        {
+            "id": "minecraft:stripped_pale_oak_wood",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTrBAAACAQAbmFtZSAAbWluZWNyYWZ0OnN0cmlwcGVkX3BhbGVfb2FrX3dvb2QECQBuYW1lX2hhc2iqaxd6ta2eNAMKAG5ldHdvcmtfaWQI+pz3CgYAc3RhdGVzCAsAcGlsbGFyX2F4aXMBAHkAAwcAdmVyc2lvbgEoFQEA"
+        },
+        {
             "id": "minecraft:crimson_hyphae",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQqAgAACAQAbmFtZRgAbWluZWNyYWZ0OmNyaW1zb25faHlwaGFlBAkAbmFtZV9oYXNouRmKmfSqEWADCgBuZXR3b3JrX2lk+Tm5rQoGAHN0YXRlcwgLAHBpbGxhcl9heGlzAQB5AAMHAHZlcnNpb24BKBUBAA=="
         },
@@ -2217,6 +2284,10 @@
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQjAwAACAQAbmFtZRcAbWluZWNyYWZ0OmNoZXJyeV9sZWF2ZXMECQBuYW1lX2hhc2giTs9ChhYBlQMKAG5ldHdvcmtfaWR8bPpwCgYAc3RhdGVzAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAAAwcAdmVyc2lvbgEoFQEA"
         },
         {
+            "id": "minecraft:pale_oak_leaves",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTuBAAACAQAbmFtZRkAbWluZWNyYWZ0OnBhbGVfb2FrX2xlYXZlcwQJAG5hbWVfaGFzaKVccFYyf0wbAwoAbmV0d29ya19pZNFNvgcKBgBzdGF0ZXMBDgBwZXJzaXN0ZW50X2JpdAABCgB1cGRhdGVfYml0AAADBwB2ZXJzaW9uASgVAQA="
+        },
+        {
             "id": "minecraft:azalea_leaves",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWRDAgAACAQAbmFtZRcAbWluZWNyYWZ0OmF6YWxlYV9sZWF2ZXMECQBuYW1lX2hhc2iXFhD57wFS7AMKAG5ldHdvcmtfaWTNB/9ECgYAc3RhdGVzAQ4AcGVyc2lzdGVudF9iaXQAAQoAdXBkYXRlX2JpdAAAAwcAdmVyc2lvbgEoFQEA"
         },
@@ -2255,6 +2326,10 @@
         {
             "id": "minecraft:cherry_sapling",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQiAwAACAQAbmFtZRgAbWluZWNyYWZ0OmNoZXJyeV9zYXBsaW5nBAkAbmFtZV9oYXNoGrPpNMf1LtcDCgBuZXR3b3JrX2lkypakXQoGAHN0YXRlcwEHAGFnZV9iaXQAAAMHAHZlcnNpb24BKBUBAA=="
+        },
+        {
+            "id": "minecraft:pale_oak_sapling",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTtBAAACAQAbmFtZRoAbWluZWNyYWZ0OnBhbGVfb2FrX3NhcGxpbmcECQBuYW1lX2hhc2gzvl+QbSfPHwMKAG5ldHdvcmtfaWSzav9sCgYAc3RhdGVzAQcAYWdlX2JpdAAAAwcAdmVyc2lvbgEoFQEA"
         },
         {
             "id": "minecraft:bee_nest",
@@ -2335,6 +2410,10 @@
         },
         {
             "id": "minecraft:honeycomb"
+        },
+        {
+            "id": "minecraft:resin_clump",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWT9BAAACAQAbmFtZRUAbWluZWNyYWZ0OnJlc2luX2NsdW1wBAkAbmFtZV9oYXNok5dcTB5ZyioDCgBuZXR3b3JrX2lkFbHrwwoGAHN0YXRlcwMZAG11bHRpX2ZhY2VfZGlyZWN0aW9uX2JpdHMAAAAAAAMHAHZlcnNpb24BKBUBAA=="
         },
         {
             "id": "minecraft:fern",
@@ -2524,6 +2603,14 @@
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQ3AwAACAQAbmFtZRUAbWluZWNyYWZ0OnRvcmNoZmxvd2VyBAkAbmFtZV9oYXNoL+mHtElwbqQDCgBuZXR3b3JrX2lkI34O+AoGAHN0YXRlcwADBwB2ZXJzaW9uASgVAQA="
         },
         {
+            "id": "minecraft:closed_eyeblossom",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWT6BAAACAQAbmFtZRsAbWluZWNyYWZ0OmNsb3NlZF9leWVibG9zc29tBAkAbmFtZV9oYXNoYbeklHBkRL8DCgBuZXR3b3JrX2lku6xJeAoGAHN0YXRlcwADBwB2ZXJzaW9uASgVAQA="
+        },
+        {
+            "id": "minecraft:open_eyeblossom",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWT5BAAACAQAbmFtZRkAbWluZWNyYWZ0Om9wZW5fZXllYmxvc3NvbQQJAG5hbWVfaGFzaHH2HXQ24l8fAwoAbmV0d29ya19pZP1bL4YKBgBzdGF0ZXMAAwcAdmVyc2lvbgEoFQEA"
+        },
+        {
             "id": "minecraft:white_dye"
         },
         {
@@ -2652,6 +2739,18 @@
         {
             "id": "minecraft:moss_block",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQ/AgAACAQAbmFtZRQAbWluZWNyYWZ0Om1vc3NfYmxvY2sECQBuYW1lX2hhc2iovcsPUYX2tgMKAG5ldHdvcmtfaWT3JSbfCgYAc3RhdGVzAAMHAHZlcnNpb24BKBUBAA=="
+        },
+        {
+            "id": "minecraft:pale_moss_carpet",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTxBAAACAQAbmFtZRoAbWluZWNyYWZ0OnBhbGVfbW9zc19jYXJwZXQECQBuYW1lX2hhc2g5SFufsjDdpAMKAG5ldHdvcmtfaWSwu2O/CgYAc3RhdGVzCBoAcGFsZV9tb3NzX2NhcnBldF9zaWRlX2Vhc3QEAG5vbmUIGwBwYWxlX21vc3NfY2FycGV0X3NpZGVfbm9ydGgEAG5vbmUIGwBwYWxlX21vc3NfY2FycGV0X3NpZGVfc291dGgEAG5vbmUIGgBwYWxlX21vc3NfY2FycGV0X3NpZGVfd2VzdAQAbm9uZQEPAHVwcGVyX2Jsb2NrX2JpdAAAAwcAdmVyc2lvbgEoFQEA"
+        },
+        {
+            "id": "minecraft:pale_moss_block",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTwBAAACAQAbmFtZRkAbWluZWNyYWZ0OnBhbGVfbW9zc19ibG9jawQJAG5hbWVfaGFzaAv55craFDiRAwoAbmV0d29ya19pZNMKFzcKBgBzdGF0ZXMAAwcAdmVyc2lvbgEoFQEA"
+        },
+        {
+            "id": "minecraft:pale_hanging_moss",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTyBAAACAQAbmFtZRsAbWluZWNyYWZ0OnBhbGVfaGFuZ2luZ19tb3NzBAkAbmFtZV9oYXNoNjhSFL+E2aQDCgBuZXR3b3JrX2lkC5iPTgoGAHN0YXRlcwEDAHRpcAAAAwcAdmVyc2lvbgEoFQEA"
         },
         {
             "id": "minecraft:hanging_roots",
@@ -2805,6 +2904,10 @@
         {
             "id": "minecraft:vault",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQ5AgAACAQAbmFtZQ8AbWluZWNyYWZ0OnZhdWx0BAkAbmFtZV9oYXNoCAp9n3IAyqcDCgBuZXR3b3JrX2lk6/P+vwoGAHN0YXRlcwgcAG1pbmVjcmFmdDpjYXJkaW5hbF9kaXJlY3Rpb24FAHNvdXRoAQcAb21pbm91cwAICwB2YXVsdF9zdGF0ZQgAaW5hY3RpdmUAAwcAdmVyc2lvbgEoFQEA"
+        },
+        {
+            "id": "minecraft:creaking_heart",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTzBAAACAQAbmFtZRgAbWluZWNyYWZ0OmNyZWFraW5nX2hlYXJ0BAkAbmFtZV9oYXNoQcOV0pmSMeADCgBuZXR3b3JrX2lkYfFBiQoGAHN0YXRlcwEGAGFjdGl2ZQABBwBuYXR1cmFsAAgLAHBpbGxhcl9heGlzAQB5AAMHAHZlcnNpb24BKBUBAA=="
         },
         {
             "id": "minecraft:end_portal_frame",
@@ -3099,6 +3202,9 @@
         },
         {
             "id": "minecraft:bogged_spawn_egg"
+        },
+        {
+            "id": "minecraft:creaking_spawn_egg"
         },
         {
             "id": "minecraft:obsidian",
@@ -4795,6 +4901,9 @@
             "id": "minecraft:cherry_sign"
         },
         {
+            "id": "minecraft:pale_oak_sign"
+        },
+        {
             "id": "minecraft:bamboo_sign"
         },
         {
@@ -4826,6 +4935,9 @@
         },
         {
             "id": "minecraft:cherry_hanging_sign"
+        },
+        {
+            "id": "minecraft:pale_oak_hanging_sign"
         },
         {
             "id": "minecraft:bamboo_hanging_sign"
@@ -4984,6 +5096,9 @@
         },
         {
             "id": "minecraft:netherbrick"
+        },
+        {
+            "id": "minecraft:resin_brick"
         },
         {
             "id": "minecraft:prismarine_shard"
@@ -5609,6 +5724,9 @@
             "id": "minecraft:cherry_boat"
         },
         {
+            "id": "minecraft:pale_oak_boat"
+        },
+        {
             "id": "minecraft:bamboo_raft"
         },
         {
@@ -5634,6 +5752,9 @@
         },
         {
             "id": "minecraft:cherry_chest_boat"
+        },
+        {
+            "id": "minecraft:pale_oak_chest_boat"
         },
         {
             "id": "minecraft:bamboo_chest_raft"
@@ -5714,6 +5835,10 @@
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQRAwAACAQAbmFtZRcAbWluZWNyYWZ0OmNoZXJyeV9idXR0b24ECQBuYW1lX2hhc2j2/IHjeAbUcwMKAG5ldHdvcmtfaWRJ1irQCgYAc3RhdGVzARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAAMHAHZlcnNpb24BKBUBAA=="
         },
         {
+            "id": "minecraft:pale_oak_button",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTcBAAACAQAbmFtZRkAbWluZWNyYWZ0OnBhbGVfb2FrX2J1dHRvbgQJAG5hbWVfaGFzaLk54s7RtGHgAwoAbmV0d29ya19pZNLO6ZwKBgBzdGF0ZXMBEgBidXR0b25fcHJlc3NlZF9iaXQAAxAAZmFjaW5nX2RpcmVjdGlvbgAAAAAAAwcAdmVyc2lvbgEoFQEA"
+        },
+        {
             "id": "minecraft:bamboo_button",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWT+AgAACAQAbmFtZRcAbWluZWNyYWZ0OmJhbWJvb19idXR0b24ECQBuYW1lX2hhc2j7AddMi+6nsgMKAG5ldHdvcmtfaWSa9w4/CgYAc3RhdGVzARIAYnV0dG9uX3ByZXNzZWRfYml0AAMQAGZhY2luZ19kaXJlY3Rpb24AAAAAAAMHAHZlcnNpb24BKBUBAA=="
         },
@@ -5768,6 +5893,10 @@
         {
             "id": "minecraft:cherry_pressure_plate",
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQZAwAACAQAbmFtZR8AbWluZWNyYWZ0OmNoZXJyeV9wcmVzc3VyZV9wbGF0ZQQJAG5hbWVfaGFzaALMqYEZDUQHAwoAbmV0d29ya19pZPNT+r0KBgBzdGF0ZXMDDwByZWRzdG9uZV9zaWduYWwAAAAAAAMHAHZlcnNpb24BKBUBAA=="
+        },
+        {
+            "id": "minecraft:pale_oak_pressure_plate",
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWTkBAAACAQAbmFtZSEAbWluZWNyYWZ0OnBhbGVfb2FrX3ByZXNzdXJlX3BsYXRlBAkAbmFtZV9oYXNo8cvY7evY5xkDCgBuZXR3b3JrX2lkDmW0uAoGAHN0YXRlcwMPAHJlZHN0b25lX3NpZ25hbAAAAAAAAwcAdmVyc2lvbgEoFQEA"
         },
         {
             "id": "minecraft:bamboo_pressure_plate",

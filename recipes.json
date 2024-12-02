@@ -1,5 +1,5 @@
 {
-    "version": 748,
+    "version": 765,
     "recipes": [
         {
             "type": 9,
@@ -3789,6 +3789,87 @@
             "priority": 4
         },
         {
+            "id": "minecraft:stonecutter_resin_brick_chiseled",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1013,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1020,
+                    "id": "minecraft:chiseled_resin_bricks"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_resin_brick_slab",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1013,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1014,
+                    "id": "minecraft:resin_brick_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 1
+        },
+        {
+            "id": "minecraft:stonecutter_resin_brick_stairs",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1013,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1016,
+                    "id": "minecraft:resin_brick_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 2
+        },
+        {
+            "id": "minecraft:stonecutter_resin_brick_wall",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1013,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1017,
+                    "id": "minecraft:resin_brick_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 3
+        },
+        {
             "id": "minecraft:stonecutter_sanddouble_stone_slab",
             "type": 0,
             "input": [
@@ -4156,6 +4237,26 @@
             "priority": 0
         },
         {
+            "id": "minecraft:stonecutter_stonebrick_chiseled2",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 98,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -870,
+                    "id": "minecraft:chiseled_stone_bricks"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
             "id": "minecraft:stonecutter_stonebrick_slab",
             "type": 0,
             "input": [
@@ -4195,7 +4296,7 @@
                 }
             ],
             "block": "stonecutter",
-            "priority": 0
+            "priority": 1
         },
         {
             "id": "minecraft:stonecutter_stonebrick_stairs",
@@ -4235,7 +4336,7 @@
                 }
             ],
             "block": "stonecutter",
-            "priority": 1
+            "priority": 2
         },
         {
             "id": "minecraft:stonecutter_stonebrick_wall",
@@ -4275,7 +4376,7 @@
                 }
             ],
             "block": "stonecutter",
-            "priority": 2
+            "priority": 3
         },
         {
             "id": "minecraft:stonecutter_tuff_bricks_to_chiseled_tuff_bricks",
@@ -26144,7 +26245,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 678,
+                    "legacyId": 679,
                     "id": "minecraft:acacia_chest_boat"
                 }
             ],
@@ -26245,7 +26346,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 655,
+                    "itemId": 656,
                     "auxValue": 32767
                 },
                 "B": {
@@ -26511,7 +26612,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 660,
+                    "itemId": 661,
                     "auxValue": 32767
                 }
             },
@@ -26767,13 +26868,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 689,
+                    "itemId": 690,
                     "auxValue": 0
                 }
             ],
             "output": [
                 {
-                    "legacyId": 690,
+                    "legacyId": 691,
                     "id": "minecraft:bamboo_chest_raft"
                 }
             ],
@@ -26874,7 +26975,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 655,
+                    "itemId": 656,
                     "auxValue": 32767
                 },
                 "B": {
@@ -27057,7 +27158,7 @@
             },
             "output": [
                 {
-                    "legacyId": 689,
+                    "legacyId": 690,
                     "id": "minecraft:bamboo_raft"
                 }
             ],
@@ -27087,7 +27188,7 @@
             },
             "output": [
                 {
-                    "legacyId": 688,
+                    "legacyId": 689,
                     "id": "minecraft:bamboo_sign",
                     "count": 3
                 }
@@ -27646,7 +27747,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 675,
+                    "legacyId": 676,
                     "id": "minecraft:birch_chest_boat"
                 }
             ],
@@ -27747,7 +27848,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 655,
+                    "itemId": 656,
                     "auxValue": 32767
                 },
                 "B": {
@@ -29170,7 +29271,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 734,
+                    "itemId": 735,
                     "auxValue": 32767
                 },
                 "C": {
@@ -29182,7 +29283,7 @@
             },
             "output": [
                 {
-                    "legacyId": 734,
+                    "legacyId": 735,
                     "id": "minecraft:bolt_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -29208,7 +29309,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 734,
+                    "itemId": 735,
                     "auxValue": 32767
                 },
                 "C": {
@@ -29220,7 +29321,7 @@
             },
             "output": [
                 {
-                    "legacyId": 734,
+                    "legacyId": 735,
                     "id": "minecraft:bolt_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -30233,7 +30334,7 @@
             },
             "output": [
                 {
-                    "legacyId": 715,
+                    "legacyId": 716,
                     "id": "minecraft:brush"
                 }
             ],
@@ -30354,7 +30455,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 660,
+                    "itemId": 661,
                     "auxValue": 32767
                 },
                 "B": {
@@ -31662,7 +31763,7 @@
             },
             "output": [
                 {
-                    "legacyId": 655,
+                    "legacyId": 656,
                     "id": "minecraft:chain"
                 }
             ],
@@ -31687,7 +31788,7 @@
             },
             "output": [
                 {
-                    "legacyId": 685,
+                    "legacyId": 686,
                     "id": "minecraft:cherry_boat"
                 }
             ],
@@ -31734,13 +31835,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 685,
+                    "itemId": 686,
                     "auxValue": 32767
                 }
             ],
             "output": [
                 {
-                    "legacyId": 686,
+                    "legacyId": 687,
                     "id": "minecraft:cherry_chest_boat"
                 }
             ],
@@ -31841,7 +31942,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 655,
+                    "itemId": 656,
                     "auxValue": 32767
                 },
                 "B": {
@@ -32004,7 +32105,7 @@
             },
             "output": [
                 {
-                    "legacyId": 687,
+                    "legacyId": 688,
                     "id": "minecraft:cherry_sign",
                     "count": 3
                 }
@@ -32161,7 +32262,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 674,
+                    "legacyId": 675,
                     "id": "minecraft:oak_chest_boat"
                 }
             ],
@@ -32371,6 +32472,30 @@
             "priority": 0
         },
         {
+            "id": "minecraft:chiseled_resin_bricks_from_slabs",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1014,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1020,
+                    "id": "minecraft:chiseled_resin_bricks"
+                }
+            ],
+            "shape": [
+                "A",
+                "A"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
             "id": "minecraft:chiseled_tuff",
             "type": 1,
             "input": {
@@ -32566,7 +32691,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 719,
+                    "itemId": 720,
                     "auxValue": 32767
                 },
                 "C": {
@@ -32578,7 +32703,7 @@
             },
             "output": [
                 {
-                    "legacyId": 719,
+                    "legacyId": 720,
                     "id": "minecraft:coast_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -33851,6 +33976,37 @@
             "priority": 1
         },
         {
+            "id": "minecraft:creaking_heart",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -995,
+                    "auxValue": 32767
+                },
+                "B": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1021,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1012,
+                    "id": "minecraft:creaking_heart"
+                }
+            ],
+            "shape": [
+                "A",
+                "B",
+                "A"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
             "id": "minecraft:crimson_button",
             "type": 1,
             "input": {
@@ -33886,7 +34042,7 @@
             },
             "output": [
                 {
-                    "legacyId": 652,
+                    "legacyId": 653,
                     "id": "minecraft:crimson_door",
                     "count": 3
                 }
@@ -33967,7 +34123,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 655,
+                    "itemId": 656,
                     "auxValue": 32767
                 },
                 "B": {
@@ -34155,7 +34311,7 @@
             },
             "output": [
                 {
-                    "legacyId": 650,
+                    "legacyId": 651,
                     "id": "minecraft:crimson_sign",
                     "count": 3
                 }
@@ -34709,7 +34865,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 679,
+                    "legacyId": 680,
                     "id": "minecraft:dark_oak_chest_boat"
                 }
             ],
@@ -34810,7 +34966,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 655,
+                    "itemId": 656,
                     "auxValue": 32767
                 },
                 "B": {
@@ -36004,7 +36160,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 718,
+                    "itemId": 719,
                     "auxValue": 32767
                 },
                 "C": {
@@ -36014,7 +36170,7 @@
             },
             "output": [
                 {
-                    "legacyId": 718,
+                    "legacyId": 719,
                     "id": "minecraft:dune_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -36241,7 +36397,7 @@
             },
             "output": [
                 {
-                    "legacyId": 789,
+                    "legacyId": 795,
                     "id": "minecraft:end_crystal"
                 }
             ],
@@ -36442,7 +36598,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 722,
+                    "itemId": 723,
                     "auxValue": 32767
                 },
                 "C": {
@@ -36454,7 +36610,7 @@
             },
             "output": [
                 {
-                    "legacyId": 722,
+                    "legacyId": 723,
                     "id": "minecraft:eye_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -36753,7 +36909,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 733,
+                    "itemId": 734,
                     "auxValue": 32767
                 },
                 "C": {
@@ -36765,7 +36921,7 @@
             },
             "output": [
                 {
-                    "legacyId": 733,
+                    "legacyId": 734,
                     "id": "minecraft:flow_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -36945,7 +37101,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 659,
+                    "legacyId": 660,
                     "id": "minecraft:glow_frame"
                 }
             ],
@@ -37741,6 +37897,26 @@
             ],
             "block": "crafting_table",
             "priority": 1
+        },
+        {
+            "id": "minecraft:gray_dye_from_closed_eyeblossom",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1019,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": 429,
+                    "id": "minecraft:gray_dye"
+                }
+            ],
+            "block": "crafting_table",
+            "priority": 0
         },
         {
             "id": "minecraft:gray_dye_from_ink_bonemeal",
@@ -38609,7 +38785,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 732,
+                    "itemId": 733,
                     "auxValue": 32767
                 },
                 "C": {
@@ -38621,7 +38797,7 @@
             },
             "output": [
                 {
-                    "legacyId": 732,
+                    "legacyId": 733,
                     "id": "minecraft:host_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -39275,7 +39451,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 676,
+                    "legacyId": 677,
                     "id": "minecraft:jungle_chest_boat"
                 }
             ],
@@ -39376,7 +39552,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 655,
+                    "itemId": 656,
                     "auxValue": 32767
                 },
                 "B": {
@@ -41501,7 +41677,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 644,
+                    "itemId": 645,
                     "auxValue": 32767
                 }
             },
@@ -42326,7 +42502,7 @@
             },
             "output": [
                 {
-                    "legacyId": 671,
+                    "legacyId": 672,
                     "id": "minecraft:mangrove_boat"
                 }
             ],
@@ -42373,13 +42549,13 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 671,
+                    "itemId": 672,
                     "auxValue": 0
                 }
             ],
             "output": [
                 {
-                    "legacyId": 680,
+                    "legacyId": 681,
                     "id": "minecraft:mangrove_chest_boat"
                 }
             ],
@@ -42399,7 +42575,7 @@
             },
             "output": [
                 {
-                    "legacyId": 669,
+                    "legacyId": 670,
                     "id": "minecraft:mangrove_door",
                     "count": 3
                 }
@@ -42480,7 +42656,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 655,
+                    "itemId": 656,
                     "auxValue": 32767
                 },
                 "B": {
@@ -42643,7 +42819,7 @@
             },
             "output": [
                 {
-                    "legacyId": 670,
+                    "legacyId": 671,
                     "id": "minecraft:mangrove_sign",
                     "count": 3
                 }
@@ -43404,7 +43580,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 644,
+                    "itemId": 645,
                     "auxValue": 32767
                 }
             },
@@ -43429,25 +43605,25 @@
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 649,
+                    "itemId": 650,
                     "auxValue": 32767
                 },
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 649,
+                    "itemId": 650,
                     "auxValue": 32767
                 },
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 649,
+                    "itemId": 650,
                     "auxValue": 32767
                 },
                 {
                     "type": "default",
                     "count": 1,
-                    "itemId": 649,
+                    "itemId": 650,
                     "auxValue": 32767
                 },
                 {
@@ -43477,7 +43653,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 644,
+                    "legacyId": 645,
                     "id": "minecraft:netherite_ingot"
                 }
             ],
@@ -43497,7 +43673,7 @@
             },
             "output": [
                 {
-                    "legacyId": 644,
+                    "legacyId": 645,
                     "id": "minecraft:netherite_ingot",
                     "count": 9
                 }
@@ -43521,7 +43697,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 716,
+                    "itemId": 717,
                     "auxValue": 32767
                 },
                 "C": {
@@ -43533,7 +43709,7 @@
             },
             "output": [
                 {
-                    "legacyId": 716,
+                    "legacyId": 717,
                     "id": "minecraft:netherite_upgrade_smithing_template",
                     "count": 2
                 }
@@ -43707,7 +43883,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 655,
+                    "itemId": 656,
                     "auxValue": 32767
                 },
                 "B": {
@@ -44150,6 +44326,26 @@
             "priority": 0
         },
         {
+            "id": "minecraft:orange_dye_from_open_eyeblossom",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1018,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": 435,
+                    "id": "minecraft:orange_dye"
+                }
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
             "id": "minecraft:orange_dye_from_orange_tulip",
             "type": 0,
             "input": [
@@ -44502,6 +44698,498 @@
                 "AAA",
                 "ABA",
                 "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_moss_carpet",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1009,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1010,
+                    "id": "minecraft:pale_moss_carpet",
+                    "count": 3
+                }
+            ],
+            "shape": [
+                "AA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_boat",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -996,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": 744,
+                    "id": "minecraft:pale_oak_boat"
+                }
+            ],
+            "shape": [
+                "A A",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_button",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -996,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -989,
+                    "id": "minecraft:pale_oak_button"
+                }
+            ],
+            "shape": [
+                "A"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_chest_boat",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 54,
+                    "auxValue": 32767
+                },
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 744,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": 745,
+                    "id": "minecraft:pale_oak_chest_boat"
+                }
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_door",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -996,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -990,
+                    "id": "minecraft:pale_oak_door",
+                    "count": 3
+                }
+            ],
+            "shape": [
+                "AA",
+                "AA",
+                "AA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_fence",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -996,
+                    "auxValue": 32767
+                },
+                "B": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 345,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -991,
+                    "id": "minecraft:pale_oak_fence",
+                    "count": 3
+                }
+            ],
+            "shape": [
+                "ABA",
+                "ABA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_fence_gate",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 345,
+                    "auxValue": 32767
+                },
+                "B": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -996,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -992,
+                    "id": "minecraft:pale_oak_fence_gate"
+                }
+            ],
+            "shape": [
+                "ABA",
+                "ABA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_hanging_sign",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 656,
+                    "auxValue": 32767
+                },
+                "B": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -994,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -993,
+                    "id": "minecraft:pale_oak_hanging_sign",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "A A",
+                "BBB",
+                "BBB"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_planks_from_log",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -995,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -996,
+                    "id": "minecraft:pale_oak_planks",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_planks_from_stripped_log",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -994,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -996,
+                    "id": "minecraft:pale_oak_planks",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_planks_from_stripped_wood",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1004,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -996,
+                    "id": "minecraft:pale_oak_planks",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_planks_from_wood",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1005,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -996,
+                    "id": "minecraft:pale_oak_planks",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_pressure_plate",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -996,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -997,
+                    "id": "minecraft:pale_oak_pressure_plate"
+                }
+            ],
+            "shape": [
+                "AA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_sign",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -996,
+                    "auxValue": 32767
+                },
+                "B": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 345,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": 746,
+                    "id": "minecraft:pale_oak_sign",
+                    "count": 3
+                }
+            ],
+            "shape": [
+                "AAA",
+                "AAA",
+                " B "
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_slab",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -996,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -998,
+                    "id": "minecraft:pale_oak_slab",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_stairs",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -996,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1000,
+                    "id": "minecraft:pale_oak_stairs",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A  ",
+                "AA ",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_trapdoor",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -996,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1002,
+                    "id": "minecraft:pale_oak_trapdoor",
+                    "count": 2
+                }
+            ],
+            "shape": [
+                "AAA",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_wood_from_log",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -995,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1005,
+                    "id": "minecraft:pale_oak_wood",
+                    "count": 3
+                }
+            ],
+            "shape": [
+                "AA",
+                "AA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:pale_oak_wood_from_stripped_log",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -994,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1004,
+                    "id": "minecraft:stripped_pale_oak_wood",
+                    "count": 3
+                }
+            ],
+            "shape": [
+                "AA",
+                "AA"
             ],
             "block": "crafting_table",
             "priority": 0
@@ -46363,6 +47051,30 @@
             "priority": 0
         },
         {
+            "id": "minecraft:purpur_slab",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -951,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -884,
+                    "id": "minecraft:purpur_slab",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
             "id": "minecraft:purpur_stairs",
             "type": 1,
             "input": {
@@ -46594,7 +47306,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 730,
+                    "itemId": 731,
                     "auxValue": 32767
                 },
                 "C": {
@@ -46606,7 +47318,7 @@
             },
             "output": [
                 {
-                    "legacyId": 730,
+                    "legacyId": 731,
                     "id": "minecraft:raiser_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -46773,13 +47485,13 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 673,
+                    "itemId": 674,
                     "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 672,
+                    "legacyId": 673,
                     "id": "minecraft:music_disc_5"
                 }
             ],
@@ -46798,7 +47510,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 683,
+                    "itemId": 684,
                     "auxValue": 32767
                 },
                 "B": {
@@ -46810,7 +47522,7 @@
             },
             "output": [
                 {
-                    "legacyId": 682,
+                    "legacyId": 683,
                     "id": "minecraft:recovery_compass"
                 }
             ],
@@ -46829,19 +47541,19 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 683,
+                    "itemId": 684,
                     "auxValue": 32767
                 },
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 638,
+                    "itemId": 639,
                     "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 682,
+                    "legacyId": 683,
                     "id": "minecraft:recovery_compass"
                 }
             ],
@@ -47250,6 +47962,58 @@
             "priority": 0
         },
         {
+            "id": "minecraft:red_sandstone_stairs_from_chiseled",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -956,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": 180,
+                    "id": "minecraft:red_sandstone_stairs",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A  ",
+                "AA ",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:red_sandstone_stairs_from_cut",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -957,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": 180,
+                    "id": "minecraft:red_sandstone_stairs",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A  ",
+                "AA ",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
             "id": "minecraft:red_sandstone_wall",
             "type": 1,
             "input": {
@@ -47542,6 +48306,154 @@
             "priority": 0
         },
         {
+            "id": "minecraft:resin_block",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1022,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1021,
+                    "id": "minecraft:resin_block"
+                }
+            ],
+            "shape": [
+                "AAA",
+                "AAA",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:resin_brick_slab",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1013,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1014,
+                    "id": "minecraft:resin_brick_slab",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:resin_brick_stairs",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1013,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1016,
+                    "id": "minecraft:resin_brick_stairs",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A  ",
+                "AA ",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:resin_brick_wall",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1013,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1017,
+                    "id": "minecraft:resin_brick_wall",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:resin_bricks",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 748,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1013,
+                    "id": "minecraft:resin_bricks"
+                }
+            ],
+            "shape": [
+                "AA",
+                "AA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:resin_clump_from_resin_block",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1021,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1022,
+                    "id": "minecraft:resin_clump",
+                    "count": 9
+                }
+            ],
+            "shape": [
+                "A"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
             "id": "minecraft:respawn_anchor",
             "type": 1,
             "input": {
@@ -47585,7 +48497,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 726,
+                    "itemId": 727,
                     "auxValue": 32767
                 },
                 "C": {
@@ -47597,7 +48509,7 @@
             },
             "output": [
                 {
-                    "legacyId": 726,
+                    "legacyId": 727,
                     "id": "minecraft:rib_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -47643,6 +48555,58 @@
                     "count": 1,
                     "itemId": 24,
                     "auxValue": 0
+                }
+            },
+            "output": [
+                {
+                    "legacyId": 128,
+                    "id": "minecraft:sandstone_stairs",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A  ",
+                "AA ",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:sandstone_stairs_from_chiseled",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -944,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": 128,
+                    "id": "minecraft:sandstone_stairs",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A  ",
+                "AA ",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:sandstone_stairs_from_cut",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -945,
+                    "auxValue": 32767
                 }
             },
             "output": [
@@ -47761,7 +48725,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 717,
+                    "itemId": 718,
                     "auxValue": 32767
                 },
                 "C": {
@@ -47773,7 +48737,7 @@
             },
             "output": [
                 {
-                    "legacyId": 717,
+                    "legacyId": 718,
                     "id": "minecraft:sentry_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -47799,7 +48763,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 731,
+                    "itemId": 732,
                     "auxValue": 32767
                 },
                 "C": {
@@ -47811,7 +48775,7 @@
             },
             "output": [
                 {
-                    "legacyId": 731,
+                    "legacyId": 732,
                     "id": "minecraft:shaper_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -48207,7 +49171,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 728,
+                    "itemId": 729,
                     "auxValue": 32767
                 },
                 "C": {
@@ -48219,7 +49183,7 @@
             },
             "output": [
                 {
-                    "legacyId": 728,
+                    "legacyId": 729,
                     "id": "minecraft:silence_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -49038,7 +50002,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 725,
+                    "itemId": 726,
                     "auxValue": 32767
                 },
                 "C": {
@@ -49050,7 +50014,7 @@
             },
             "output": [
                 {
-                    "legacyId": 725,
+                    "legacyId": 726,
                     "id": "minecraft:snout_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -49134,7 +50098,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49171,7 +50135,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49208,7 +50172,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49245,7 +50209,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49282,7 +50246,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49319,7 +50283,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49356,7 +50320,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49391,7 +50355,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49426,7 +50390,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49463,7 +50427,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49500,7 +50464,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49537,7 +50501,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49574,7 +50538,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49611,7 +50575,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49648,7 +50612,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49683,7 +50647,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49718,7 +50682,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49753,7 +50717,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49790,7 +50754,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49827,7 +50791,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49864,7 +50828,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49901,7 +50865,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49938,7 +50902,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -49975,7 +50939,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -50010,7 +50974,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -50047,7 +51011,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -50084,7 +51048,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -50121,7 +51085,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -50158,7 +51122,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -50195,7 +51159,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -50232,7 +51196,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -50269,7 +51233,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -50306,7 +51270,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -50343,7 +51307,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -50380,7 +51344,7 @@
             },
             "output": [
                 {
-                    "legacyId": 658,
+                    "legacyId": 659,
                     "id": "minecraft:soul_campfire"
                 }
             ],
@@ -50575,7 +51539,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 727,
+                    "itemId": 728,
                     "auxValue": 32767
                 },
                 "C": {
@@ -50585,7 +51549,7 @@
             },
             "output": [
                 {
-                    "legacyId": 727,
+                    "legacyId": 728,
                     "id": "minecraft:spire_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -50641,7 +51605,7 @@
             ],
             "output": [
                 {
-                    "legacyId": 677,
+                    "legacyId": 678,
                     "id": "minecraft:spruce_chest_boat"
                 }
             ],
@@ -50742,7 +51706,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 655,
+                    "itemId": 656,
                     "auxValue": 32767
                 },
                 "B": {
@@ -50970,7 +51934,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 660,
+                    "itemId": 661,
                     "auxValue": 32767
                 },
                 "B": {
@@ -50982,7 +51946,7 @@
             },
             "output": [
                 {
-                    "legacyId": 661,
+                    "legacyId": 662,
                     "id": "minecraft:spyglass"
                 }
             ],
@@ -51974,6 +52938,45 @@
             "priority": 0
         },
         {
+            "id": "minecraft:suspicious_stew_from_closed_eyeblossom",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 39,
+                    "auxValue": 32767
+                },
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 40,
+                    "auxValue": 32767
+                },
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 346,
+                    "auxValue": 32767
+                },
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1019,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": 625,
+                    "id": "minecraft:suspicious_stew",
+                    "damage": 12
+                }
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
             "id": "minecraft:suspicious_stew_from_cornflower",
             "type": 0,
             "input": [
@@ -52085,6 +53088,45 @@
                     "legacyId": 625,
                     "id": "minecraft:suspicious_stew",
                     "damage": 4
+                }
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:suspicious_stew_from_open_eyeblossom",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 39,
+                    "auxValue": 32767
+                },
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 40,
+                    "auxValue": 32767
+                },
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 346,
+                    "auxValue": 32767
+                },
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1018,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": 625,
+                    "id": "minecraft:suspicious_stew",
+                    "damage": 11
                 }
             ],
             "block": "crafting_table",
@@ -52445,7 +53487,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 724,
+                    "itemId": 725,
                     "auxValue": 32767
                 },
                 "C": {
@@ -52455,7 +53497,7 @@
             },
             "output": [
                 {
-                    "legacyId": 724,
+                    "legacyId": 725,
                     "id": "minecraft:tide_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -52475,7 +53517,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 660,
+                    "itemId": 661,
                     "auxValue": 32767
                 },
                 "B": {
@@ -52971,7 +54013,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 723,
+                    "itemId": 724,
                     "auxValue": 32767
                 },
                 "C": {
@@ -52983,7 +54025,7 @@
             },
             "output": [
                 {
-                    "legacyId": 723,
+                    "legacyId": 724,
                     "id": "minecraft:vex_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -53009,7 +54051,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 721,
+                    "itemId": 722,
                     "auxValue": 32767
                 },
                 "C": {
@@ -53021,7 +54063,7 @@
             },
             "output": [
                 {
-                    "legacyId": 721,
+                    "legacyId": 722,
                     "id": "minecraft:ward_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -53070,7 +54112,7 @@
             },
             "output": [
                 {
-                    "legacyId": 653,
+                    "legacyId": 654,
                     "id": "minecraft:warped_door",
                     "count": 3
                 }
@@ -53163,7 +54205,7 @@
             },
             "output": [
                 {
-                    "legacyId": 654,
+                    "legacyId": 655,
                     "id": "minecraft:warped_fungus_on_a_stick"
                 }
             ],
@@ -53181,7 +54223,7 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 655,
+                    "itemId": 656,
                     "auxValue": 32767
                 },
                 "B": {
@@ -53369,7 +54411,7 @@
             },
             "output": [
                 {
-                    "legacyId": 651,
+                    "legacyId": 652,
                     "id": "minecraft:warped_sign",
                     "count": 3
                 }
@@ -54758,7 +55800,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 729,
+                    "itemId": 730,
                     "auxValue": 32767
                 },
                 "C": {
@@ -54770,7 +55812,7 @@
             },
             "output": [
                 {
-                    "legacyId": 729,
+                    "legacyId": 730,
                     "id": "minecraft:wayfinder_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -55380,7 +56422,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 720,
+                    "itemId": 721,
                     "auxValue": 32767
                 },
                 "C": {
@@ -55392,7 +56434,7 @@
             },
             "output": [
                 {
-                    "legacyId": 720,
+                    "legacyId": 721,
                     "id": "minecraft:wild_armor_trim_smithing_template",
                     "count": 2
                 }
@@ -55433,13 +56475,13 @@
                 "A": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 739,
+                    "itemId": 740,
                     "auxValue": 32767
                 }
             },
             "output": [
                 {
-                    "legacyId": 740,
+                    "legacyId": 741,
                     "id": "minecraft:wolf_armor"
                 }
             ],
@@ -75837,6 +76879,72 @@
         {
             "type": 3,
             "input": {
+                "legacyId": -1022,
+                "id": "minecraft:resin_clump",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": 748,
+                "id": "minecraft:resin_brick",
+                "damage": 32767
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -1005,
+                "id": "minecraft:pale_oak_wood",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": 327,
+                "id": "minecraft:charcoal"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -1004,
+                "id": "minecraft:stripped_pale_oak_wood",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": 327,
+                "id": "minecraft:charcoal"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -995,
+                "id": "minecraft:pale_oak_log",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": 327,
+                "id": "minecraft:charcoal"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -994,
+                "id": "minecraft:stripped_pale_oak_log",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": 327,
+                "id": "minecraft:charcoal"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
                 "legacyId": -984,
                 "id": "minecraft:wet_sponge",
                 "damage": -1
@@ -76870,7 +77978,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 649,
+                "legacyId": 650,
                 "id": "minecraft:netherite_scrap",
                 "damage": 32767
             },
@@ -76884,7 +77992,7 @@
                 "damage": -1
             },
             "output": {
-                "legacyId": 649,
+                "legacyId": 650,
                 "id": "minecraft:netherite_scrap",
                 "damage": 32767
             },
