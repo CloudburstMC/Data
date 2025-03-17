@@ -1,5 +1,5 @@
 {
-    "version": 776,
+    "version": 785,
     "recipes": [
         {
             "type": 9,
@@ -30417,10 +30417,9 @@
                     "auxValue": 32767
                 },
                 "C": {
-                    "type": "default",
+                    "type": "item_tag",
                     "count": 1,
-                    "itemId": 416,
-                    "auxValue": 32767
+                    "itemTag": "minecraft:egg"
                 },
                 "D": {
                     "type": "default",
@@ -36397,7 +36396,7 @@
             },
             "output": [
                 {
-                    "legacyId": 795,
+                    "legacyId": 797,
                     "id": "minecraft:end_crystal"
                 }
             ],
@@ -41677,7 +41676,7 @@
                 "B": {
                     "type": "default",
                     "count": 1,
-                    "itemId": 645,
+                    "itemId": 329,
                     "auxValue": 32767
                 }
             },
@@ -45455,6 +45454,26 @@
             "priority": 0
         },
         {
+            "id": "minecraft:pink_dye_from_cactus_flower",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1030,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": 430,
+                    "id": "minecraft:pink_dye"
+                }
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
             "id": "minecraft:pink_dye_from_peony",
             "type": 0,
             "input": [
@@ -46627,10 +46646,9 @@
                     "auxValue": 32767
                 },
                 {
-                    "type": "default",
+                    "type": "item_tag",
                     "count": 1,
-                    "itemId": 416,
-                    "auxValue": 32767
+                    "itemTag": "minecraft:egg"
                 }
             ],
             "output": [
@@ -57386,6 +57404,26 @@
                     "legacyId": 432,
                     "id": "minecraft:yellow_dye",
                     "count": 2
+                }
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:yellow_dye_from_wildflowers",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1024,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": 432,
+                    "id": "minecraft:yellow_dye"
                 }
             ],
             "block": "crafting_table",
@@ -76893,6 +76931,19 @@
         {
             "type": 3,
             "input": {
+                "legacyId": -1007,
+                "id": "minecraft:pale_oak_leaves",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": -1026,
+                "id": "minecraft:leaf_litter"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
                 "legacyId": -1005,
                 "id": "minecraft:pale_oak_wood",
                 "damage": -1
@@ -77246,6 +77297,58 @@
         {
             "type": 3,
             "input": {
+                "legacyId": -803,
+                "id": "minecraft:dark_oak_leaves",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": -1026,
+                "id": "minecraft:leaf_litter"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -802,
+                "id": "minecraft:jungle_leaves",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": -1026,
+                "id": "minecraft:leaf_litter"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -801,
+                "id": "minecraft:birch_leaves",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": -1026,
+                "id": "minecraft:leaf_litter"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -800,
+                "id": "minecraft:spruce_leaves",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": -1026,
+                "id": "minecraft:leaf_litter"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
                 "legacyId": -738,
                 "id": "minecraft:black_terracotta",
                 "damage": -1
@@ -77541,6 +77644,19 @@
         {
             "type": 3,
             "input": {
+                "legacyId": -548,
+                "id": "minecraft:cherry_leaves",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": -1026,
+                "id": "minecraft:leaf_litter"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
                 "legacyId": -546,
                 "id": "minecraft:cherry_wood",
                 "damage": -1
@@ -77639,6 +77755,19 @@
             "output": {
                 "legacyId": 327,
                 "id": "minecraft:charcoal"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -472,
+                "id": "minecraft:mangrove_leaves",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": -1026,
+                "id": "minecraft:leaf_litter"
             },
             "block": "furnace"
         },
@@ -77898,6 +78027,32 @@
             "output": {
                 "legacyId": -378,
                 "id": "minecraft:deepslate"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -325,
+                "id": "minecraft:azalea_leaves_flowered",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": -1026,
+                "id": "minecraft:leaf_litter"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": -324,
+                "id": "minecraft:azalea_leaves",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": -1026,
+                "id": "minecraft:leaf_litter"
             },
             "block": "furnace"
         },
@@ -78274,6 +78429,19 @@
         {
             "type": 3,
             "input": {
+                "legacyId": 18,
+                "id": "minecraft:oak_leaves",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": -1026,
+                "id": "minecraft:leaf_litter"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
                 "legacyId": 21,
                 "id": "minecraft:lapis_ore",
                 "damage": -1
@@ -78509,6 +78677,19 @@
             "output": {
                 "legacyId": 220,
                 "id": "minecraft:white_glazed_terracotta"
+            },
+            "block": "furnace"
+        },
+        {
+            "type": 3,
+            "input": {
+                "legacyId": 161,
+                "id": "minecraft:acacia_leaves",
+                "damage": -1
+            },
+            "output": {
+                "legacyId": -1026,
+                "id": "minecraft:leaf_litter"
             },
             "block": "furnace"
         },

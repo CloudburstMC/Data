@@ -3876,6 +3876,21 @@
             "block_state_b64": "CgAAAwgAYmxvY2tfaWRfBAAACAQAbmFtZRQAbWluZWNyYWZ0OnRhbGxfZ3Jhc3MECQBuYW1lX2hhc2ii5MyZJpv4sgMKAG5ldHdvcmtfaWRRfeH4CgYAc3RhdGVzAQ8AdXBwZXJfYmxvY2tfYml0AAADBwB2ZXJzaW9uITwVAQA="
         },
         {
+            "id": "minecraft:short_dry_grass",
+            "groupId": 37,
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWQDBQAACAQAbmFtZRkAbWluZWNyYWZ0OnNob3J0X2RyeV9ncmFzcwQJAG5hbWVfaGFzaLspJ2i3BIGkAwoAbmV0d29ya19pZKdsCUgKBgBzdGF0ZXMAAwcAdmVyc2lvbiE8FQEA"
+        },
+        {
+            "id": "minecraft:tall_dry_grass",
+            "groupId": 37,
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWQEBQAACAQAbmFtZRgAbWluZWNyYWZ0OnRhbGxfZHJ5X2dyYXNzBAkAbmFtZV9oYXNoBNweZbdOLIMDCgBuZXR3b3JrX2lkI32+NwoGAHN0YXRlcwADBwB2ZXJzaW9uITwVAQA="
+        },
+        {
+            "id": "minecraft:bush",
+            "groupId": 37,
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWT+BAAACAQAbmFtZQ4AbWluZWNyYWZ0OmJ1c2gECQBuYW1lX2hhc2hS6PcDXRRjxAMKAG5ldHdvcmtfaWSrbYGwCgYAc3RhdGVzAAMHAHZlcnNpb24hPBUBAA=="
+        },
+        {
             "id": "minecraft:nether_sprouts",
             "groupId": 37
         },
@@ -4080,6 +4095,11 @@
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQkAwAACAQAbmFtZRUAbWluZWNyYWZ0OnBpbmtfcGV0YWxzBAkAbmFtZV9oYXNo6DQwN9SwV3QDCgBuZXR3b3JrX2lkNWneGgoGAHN0YXRlcwMGAGdyb3d0aAAAAAAIHABtaW5lY3JhZnQ6Y2FyZGluYWxfZGlyZWN0aW9uBQBzb3V0aAADBwB2ZXJzaW9uITwVAQA="
         },
         {
+            "id": "minecraft:wildflowers",
+            "groupId": 39,
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWT/BAAACAQAbmFtZRUAbWluZWNyYWZ0OndpbGRmbG93ZXJzBAkAbmFtZV9oYXNolGHs6KLn0OkDCgBuZXR3b3JrX2lkQfSy6AoGAHN0YXRlcwMGAGdyb3d0aAAAAAAIHABtaW5lY3JhZnQ6Y2FyZGluYWxfZGlyZWN0aW9uBQBzb3V0aAADBwB2ZXJzaW9uITwVAQA="
+        },
+        {
             "id": "minecraft:wither_rose",
             "groupId": 39,
             "block_state_b64": "CgAAAwgAYmxvY2tfaWTXAQAACAQAbmFtZRUAbWluZWNyYWZ0OndpdGhlcl9yb3NlBAkAbmFtZV9oYXNoaSKxl3I516gDCgBuZXR3b3JrX2lkATXLPwoGAHN0YXRlcwADBwB2ZXJzaW9uITwVAQA="
@@ -4088,6 +4108,11 @@
             "id": "minecraft:torchflower",
             "groupId": 39,
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQ3AwAACAQAbmFtZRUAbWluZWNyYWZ0OnRvcmNoZmxvd2VyBAkAbmFtZV9oYXNoL+mHtElwbqQDCgBuZXR3b3JrX2lkI34O+AoGAHN0YXRlcwADBwB2ZXJzaW9uITwVAQA="
+        },
+        {
+            "id": "minecraft:cactus_flower",
+            "groupId": 39,
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWQFBQAACAQAbmFtZRcAbWluZWNyYWZ0OmNhY3R1c19mbG93ZXIECQBuYW1lX2hhc2jJjvXLUmwSEQMKAG5ldHdvcmtfaWRPT2hwCgYAc3RhdGVzAAMHAHZlcnNpb24hPBUBAA=="
         },
         {
             "id": "minecraft:closed_eyeblossom",
@@ -4258,6 +4283,11 @@
             "block_state_b64": "CgAAAwgAYmxvY2tfaWQ8AgAACAQAbmFtZRkAbWluZWNyYWZ0OmRyaXBzdG9uZV9ibG9jawQJAG5hbWVfaGFzaIIXnEqY77YsAwoAbmV0d29ya19pZMZi2kwKBgBzdGF0ZXMAAwcAdmVyc2lvbiE8FQEA"
         },
         {
+            "id": "minecraft:leaf_litter",
+            "groupId": 41,
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWQBBQAACAQAbmFtZRUAbWluZWNyYWZ0OmxlYWZfbGl0dGVyBAkAbmFtZV9oYXNor9NVW4N5RQEDCgBuZXR3b3JrX2lk/F9LgwoGAHN0YXRlcwMGAGdyb3d0aAAAAAAIHABtaW5lY3JhZnQ6Y2FyZGluYWxfZGlyZWN0aW9uBQBzb3V0aAADBwB2ZXJzaW9uITwVAQA="
+        },
+        {
             "id": "minecraft:moss_carpet",
             "groupId": 41,
             "block_state_b64": "CgAAAwgAYmxvY2tfaWROAgAACAQAbmFtZRUAbWluZWNyYWZ0Om1vc3NfY2FycGV0BAkAbmFtZV9oYXNo/NEDxRPTshYDCgBuZXR3b3JrX2lkaGG3QwoGAHN0YXRlcwADBwB2ZXJzaW9uITwVAQA="
@@ -4311,6 +4341,11 @@
             "id": "minecraft:spore_blossom",
             "groupId": 41,
             "block_state_b64": "CgAAAwgAYmxvY2tfaWRAAgAACAQAbmFtZRcAbWluZWNyYWZ0OnNwb3JlX2Jsb3Nzb20ECQBuYW1lX2hhc2il3U72Gbco2gMKAG5ldHdvcmtfaWSbbbgcCgYAc3RhdGVzAAMHAHZlcnNpb24hPBUBAA=="
+        },
+        {
+            "id": "minecraft:firefly_bush",
+            "groupId": 41,
+            "block_state_b64": "CgAAAwgAYmxvY2tfaWQABQAACAQAbmFtZRYAbWluZWNyYWZ0OmZpcmVmbHlfYnVzaAQJAG5hbWVfaGFzaOx1G1G0/5wVAwoAbmV0d29ya19pZEWIoxMKBgBzdGF0ZXMAAwcAdmVyc2lvbiE8FQEA"
         },
         {
             "id": "minecraft:azalea",
@@ -4435,6 +4470,14 @@
         },
         {
             "id": "minecraft:egg",
+            "groupId": 44
+        },
+        {
+            "id": "minecraft:brown_egg",
+            "groupId": 44
+        },
+        {
+            "id": "minecraft:blue_egg",
             "groupId": 44
         },
         {
