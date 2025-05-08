@@ -1,5 +1,5 @@
 {
-    "version": 785,
+    "version": 800,
     "recipes": [
         {
             "type": 9,
@@ -1809,6 +1809,48 @@
             ],
             "block": "stonecutter",
             "priority": 2
+        },
+        {
+            "id": "minecraft:stonecutter_cut_red_sandstone_slab",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -957,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -901,
+                    "id": "minecraft:cut_red_sandstone_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cut_sandstone_slab",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -945,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -900,
+                    "id": "minecraft:cut_sandstone_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
         },
         {
             "id": "minecraft:stonecutter_dark_prismarine_slab",
@@ -36396,7 +36438,7 @@
             },
             "output": [
                 {
-                    "legacyId": 797,
+                    "legacyId": 814,
                     "id": "minecraft:end_crystal"
                 }
             ],

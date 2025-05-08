@@ -5877,6 +5877,11 @@
         },
         {
             "id": "minecraft:potion",
+            "damage": 42,
+            "groupId": 72
+        },
+        {
+            "id": "minecraft:potion",
             "damage": 19,
             "groupId": 72
         },
@@ -5988,11 +5993,6 @@
         {
             "id": "minecraft:potion",
             "damage": 41,
-            "groupId": 72
-        },
-        {
-            "id": "minecraft:potion",
-            "damage": 42,
             "groupId": 72
         },
         {
@@ -6111,6 +6111,11 @@
         },
         {
             "id": "minecraft:splash_potion",
+            "damage": 42,
+            "groupId": 73
+        },
+        {
+            "id": "minecraft:splash_potion",
             "damage": 19,
             "groupId": 73
         },
@@ -6222,11 +6227,6 @@
         {
             "id": "minecraft:splash_potion",
             "damage": 41,
-            "groupId": 73
-        },
-        {
-            "id": "minecraft:splash_potion",
-            "damage": 42,
             "groupId": 73
         },
         {
@@ -6345,6 +6345,11 @@
         },
         {
             "id": "minecraft:lingering_potion",
+            "damage": 42,
+            "groupId": 74
+        },
+        {
+            "id": "minecraft:lingering_potion",
             "damage": 19,
             "groupId": 74
         },
@@ -6456,11 +6461,6 @@
         {
             "id": "minecraft:lingering_potion",
             "damage": 41,
-            "groupId": 74
-        },
-        {
-            "id": "minecraft:lingering_potion",
-            "damage": 42,
             "groupId": 74
         },
         {
