@@ -1,5 +1,5 @@
 {
-    "version": 819,
+    "version": 827,
     "recipes": [
         {
             "type": 9,
@@ -46861,7 +46861,7 @@
             },
             "output": [
                 {
-                    "legacyId": 816,
+                    "legacyId": 827,
                     "id": "minecraft:end_crystal"
                 }
             ],
