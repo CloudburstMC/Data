@@ -1,5 +1,5 @@
 {
-    "version": 924,
+    "version": 944,
     "recipes": [
         {
             "type": 9,
@@ -1596,6 +1596,26 @@
             "priority": 2
         },
         {
+            "id": "minecraft:stonecutter_chiseled_stone_bricks_from_cobblestone",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 4,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -870,
+                    "id": "minecraft:chiseled_stone_bricks"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
             "id": "minecraft:stonecutter_cobbledouble_stone_slab",
             "type": 0,
             "input": [
@@ -1604,6 +1624,47 @@
                     "count": 1,
                     "itemId": 4,
                     "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -873,
+                    "id": "minecraft:cobblestone_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cobblestone_from_stone",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 1,
+                    "auxValue": 0
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": 4,
+                    "id": "minecraft:cobblestone"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cobblestone_slab_from_stone",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 1,
+                    "auxValue": 0
                 }
             ],
             "output": [
@@ -1637,6 +1698,26 @@
             "priority": 1
         },
         {
+            "id": "minecraft:stonecutter_cobblestone_stairs_from_stone",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 1,
+                    "auxValue": 0
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": 67,
+                    "id": "minecraft:stone_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
             "id": "minecraft:stonecutter_cobblestone_wall",
             "type": 0,
             "input": [
@@ -1655,6 +1736,26 @@
             ],
             "block": "stonecutter",
             "priority": 2
+        },
+        {
+            "id": "minecraft:stonecutter_cobblestone_wall_from_stone",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 1,
+                    "auxValue": 0
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": 139,
+                    "id": "minecraft:cobblestone_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
         },
         {
             "id": "minecraft:stonecutter_copper_block_to_chiseled_copper",
@@ -4231,6 +4332,87 @@
             "priority": 2
         },
         {
+            "id": "minecraft:stonecutter_stone_brick_slab_from_cobblestone",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 4,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -875,
+                    "id": "minecraft:stone_brick_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_stone_brick_stairs_from_cobblestone",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 4,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": 109,
+                    "id": "minecraft:stone_brick_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_stone_brick_wall_from_cobblestone",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 4,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -977,
+                    "id": "minecraft:stone_brick_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_stone_bricks_from_cobblestone",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 4,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": 98,
+                    "id": "minecraft:stone_bricks"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
             "id": "minecraft:stonecutter_stone_stairs",
             "type": 0,
             "input": [
@@ -5641,6 +5823,350 @@
                 {
                     "legacyId": -762,
                     "id": "minecraft:weathered_chiseled_copper"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_chiseled_deepslate_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -395,
+                    "id": "minecraft:chiseled_deepslate"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_cobbled_deepslate_slab_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -380,
+                    "id": "minecraft:cobbled_deepslate_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_cobbled_deepslate_stairs_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -381,
+                    "id": "minecraft:cobbled_deepslate_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_cobbled_deepslate_wall_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -382,
+                    "id": "minecraft:cobbled_deepslate_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_cobbled_deepslateblock_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -379,
+                    "id": "minecraft:cobbled_deepslate"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_deepslate_brick_slab_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -392,
+                    "id": "minecraft:deepslate_brick_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_deepslate_brick_stairs_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -393,
+                    "id": "minecraft:deepslate_brick_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_deepslate_brick_wall_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -394,
+                    "id": "minecraft:deepslate_brick_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_deepslate_bricks_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -391,
+                    "id": "minecraft:deepslate_bricks"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_deepslate_tile_slab_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -388,
+                    "id": "minecraft:deepslate_tile_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_deepslate_tile_stairs_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -389,
+                    "id": "minecraft:deepslate_tile_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_deepslate_tile_wall_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -390,
+                    "id": "minecraft:deepslate_tile_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_deepslate_tiles_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -387,
+                    "id": "minecraft:deepslate_tiles"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_polished_deepslate_slab_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -384,
+                    "id": "minecraft:polished_deepslate_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_polished_deepslate_stairs_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -385,
+                    "id": "minecraft:polished_deepslate_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_polished_deepslate_wall_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -386,
+                    "id": "minecraft:polished_deepslate_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutting_polished_deepslateblock_from_deepslate",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -378,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -383,
+                    "id": "minecraft:polished_deepslate"
                 }
             ],
             "block": "stonecutter",
@@ -48523,6 +49049,37 @@
             "priority": 0
         },
         {
+            "id": "minecraft:golden_dandelion",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 458,
+                    "auxValue": 32767
+                },
+                "B": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 37,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1091,
+                    "id": "minecraft:golden_dandelion"
+                }
+            ],
+            "shape": [
+                "AAA",
+                "ABA",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
             "id": "minecraft:golden_helmet",
             "type": 1,
             "input": {
@@ -54696,6 +55253,35 @@
                     "legacyId": 289,
                     "id": "minecraft:mushroom_stew"
                 }
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:name_tag",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "item_tag",
+                    "count": 1,
+                    "itemTag": "minecraft:metal_nuggets"
+                },
+                "B": {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 418,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": 587,
+                    "id": "minecraft:name_tag"
+                }
+            ],
+            "shape": [
+                " A",
+                "B "
             ],
             "block": "crafting_table",
             "priority": 0
@@ -64470,6 +65056,45 @@
             "priority": 0
         },
         {
+            "id": "minecraft:suspicious_stew_from_golden_dandelion",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 39,
+                    "auxValue": 32767
+                },
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 40,
+                    "auxValue": 32767
+                },
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": 353,
+                    "auxValue": 32767
+                },
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1091,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": 631,
+                    "id": "minecraft:suspicious_stew",
+                    "damage": 5
+                }
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
             "id": "minecraft:suspicious_stew_from_lily_of_the_valley",
             "type": 0,
             "input": [
@@ -69453,6 +70078,26 @@
                     "type": "default",
                     "count": 1,
                     "itemId": 37,
+                    "auxValue": 0
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": 438,
+                    "id": "minecraft:yellow_dye"
+                }
+            ],
+            "block": "crafting_table",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:yellow_dye_from_golden_dandelion",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "itemId": -1091,
                     "auxValue": 0
                 }
             ],
