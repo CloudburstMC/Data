@@ -42,7 +42,8 @@
       "10": "minecraft:lava_bucket",
       "11": "minecraft:powder_snow_bucket",
       "12": "minecraft:axolotl_bucket",
-      "13": "minecraft:tadpole_bucket"
+      "13": "minecraft:tadpole_bucket",
+      "14": "minecraft:sulfur_cube_bucket"
     },
     "minecraft:carpet": {
       "0": "minecraft:white_carpet",
@@ -537,6 +538,7 @@
       "150": "minecraft:zombie_nautilus_spawn_egg",
       "151": "minecraft:parched_spawn_egg",
       "152": "minecraft:camel_husk_spawn_egg",
+      "153": "minecraft:sulfur_cube_spawn_egg",
       "157": "minecraft:trader_llama_spawn_egg"
     },
     "minecraft:sponge": {
