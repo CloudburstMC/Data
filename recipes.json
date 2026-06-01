@@ -1,5 +1,5 @@
 {
-    "version": 975,
+    "version": 1001,
     "recipes": [
         {
             "type": 9,
@@ -5298,6 +5298,27 @@
             "priority": 2
         },
         {
+            "id": "minecraft:stonecutter_chiseled_cinnabar_from_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1124,
+                    "id": "minecraft:chiseled_cinnabar"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
             "id": "minecraft:stonecutter_chiseled_from_polished_blackstone",
             "type": 0,
             "input": [
@@ -5376,6 +5397,325 @@
                 {
                     "legacyId": -870,
                     "id": "minecraft:chiseled_stone_bricks"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_chiseled_sulfur_from_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1107,
+                    "id": "minecraft:chiseled_sulfur"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cinnabar_brick_slab_from_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1120,
+                    "id": "minecraft:cinnabar_brick_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cinnabar_brick_slab_from_cinnabar_bricks",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar_bricks",
+                    "itemId": -1119,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1120,
+                    "id": "minecraft:cinnabar_brick_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cinnabar_brick_slab_from_polished_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_cinnabar",
+                    "itemId": -1114,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1120,
+                    "id": "minecraft:cinnabar_brick_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cinnabar_brick_stairs_from_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1122,
+                    "id": "minecraft:cinnabar_brick_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cinnabar_brick_stairs_from_cinnabar_bricks",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar_bricks",
+                    "itemId": -1119,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1122,
+                    "id": "minecraft:cinnabar_brick_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cinnabar_brick_stairs_from_polished_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_cinnabar",
+                    "itemId": -1114,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1122,
+                    "id": "minecraft:cinnabar_brick_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cinnabar_brick_wall_from_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1123,
+                    "id": "minecraft:cinnabar_brick_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cinnabar_brick_wall_from_cinnabar_bricks",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar_bricks",
+                    "itemId": -1119,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1123,
+                    "id": "minecraft:cinnabar_brick_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cinnabar_brick_wall_from_polished_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_cinnabar",
+                    "itemId": -1114,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1123,
+                    "id": "minecraft:cinnabar_brick_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cinnabar_bricks_from_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1119,
+                    "id": "minecraft:cinnabar_bricks"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cinnabar_bricks_from_polished_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_cinnabar",
+                    "itemId": -1114,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1119,
+                    "id": "minecraft:cinnabar_bricks"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cinnabar_slab_from_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1110,
+                    "id": "minecraft:cinnabar_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cinnabar_stairs_from_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1112,
+                    "id": "minecraft:cinnabar_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_cinnabar_wall_from_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1113,
+                    "id": "minecraft:cinnabar_wall"
                 }
             ],
             "block": "stonecutter",
@@ -6908,6 +7248,155 @@
             "priority": 2
         },
         {
+            "id": "minecraft:stonecutter_polished_cinnabar_from_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1114,
+                    "id": "minecraft:polished_cinnabar"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_polished_cinnabar_slab_from_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1115,
+                    "id": "minecraft:polished_cinnabar_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_polished_cinnabar_slab_from_polished_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_cinnabar",
+                    "itemId": -1114,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1115,
+                    "id": "minecraft:polished_cinnabar_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_polished_cinnabar_stairs_from_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1117,
+                    "id": "minecraft:polished_cinnabar_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_polished_cinnabar_stairs_from_polished_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_cinnabar",
+                    "itemId": -1114,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1117,
+                    "id": "minecraft:polished_cinnabar_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_polished_cinnabar_wall_from_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1118,
+                    "id": "minecraft:polished_cinnabar_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_polished_cinnabar_wall_from_polished_cinnabar",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_cinnabar",
+                    "itemId": -1114,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1118,
+                    "id": "minecraft:polished_cinnabar_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
             "id": "minecraft:stonecutter_polished_diorite",
             "type": 0,
             "input": [
@@ -7184,6 +7673,155 @@
             ],
             "block": "stonecutter",
             "priority": 2
+        },
+        {
+            "id": "minecraft:stonecutter_polished_sulfur_from_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1097,
+                    "id": "minecraft:polished_sulfur"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_polished_sulfur_slab_from_polished_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_sulfur",
+                    "itemId": -1097,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1098,
+                    "id": "minecraft:polished_sulfur_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_polished_sulfur_slab_from_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1098,
+                    "id": "minecraft:polished_sulfur_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_polished_sulfur_stairs_from_polished_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_sulfur",
+                    "itemId": -1097,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1100,
+                    "id": "minecraft:polished_sulfur_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_polished_sulfur_stairs_from_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1100,
+                    "id": "minecraft:polished_sulfur_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_polished_sulfur_wall_from_polished_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_sulfur",
+                    "itemId": -1097,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1101,
+                    "id": "minecraft:polished_sulfur_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_polished_sulfur_wall_from_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1101,
+                    "id": "minecraft:polished_sulfur_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
         },
         {
             "id": "minecraft:stonecutter_polished_tuff_to_chiseled_tuff_bricks",
@@ -8526,6 +9164,304 @@
             ],
             "block": "stonecutter",
             "priority": 3
+        },
+        {
+            "id": "minecraft:stonecutter_sulfur_brick_slab_from_polished_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_sulfur",
+                    "itemId": -1097,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1103,
+                    "id": "minecraft:sulfur_brick_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_sulfur_brick_slab_from_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1103,
+                    "id": "minecraft:sulfur_brick_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_sulfur_brick_slab_from_sulfur_bricks",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur_bricks",
+                    "itemId": -1102,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1103,
+                    "id": "minecraft:sulfur_brick_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_sulfur_brick_stairs_from_polished_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_sulfur",
+                    "itemId": -1097,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1105,
+                    "id": "minecraft:sulfur_brick_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_sulfur_brick_stairs_from_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1105,
+                    "id": "minecraft:sulfur_brick_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_sulfur_brick_stairs_from_sulfur_bricks",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur_bricks",
+                    "itemId": -1102,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1105,
+                    "id": "minecraft:sulfur_brick_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_sulfur_brick_wall_from_polished_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_sulfur",
+                    "itemId": -1097,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1106,
+                    "id": "minecraft:sulfur_brick_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_sulfur_brick_wall_from_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1106,
+                    "id": "minecraft:sulfur_brick_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_sulfur_brick_wall_from_sulfur_bricks",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur_bricks",
+                    "itemId": -1102,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1106,
+                    "id": "minecraft:sulfur_brick_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_sulfur_bricks_from_polished_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_sulfur",
+                    "itemId": -1097,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1102,
+                    "id": "minecraft:sulfur_bricks"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_sulfur_bricks_from_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1102,
+                    "id": "minecraft:sulfur_bricks"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_sulfur_slab_from_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1093,
+                    "id": "minecraft:sulfur_slab",
+                    "count": 2
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_sulfur_stairs_from_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1095,
+                    "id": "minecraft:sulfur_stairs"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
+        },
+        {
+            "id": "minecraft:stonecutter_sulfur_wall_from_sulfur",
+            "type": 0,
+            "input": [
+                {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            ],
+            "output": [
+                {
+                    "legacyId": -1096,
+                    "id": "minecraft:sulfur_wall"
+                }
+            ],
+            "block": "stonecutter",
+            "priority": 0
         },
         {
             "id": "minecraft:stonecutter_tuff_bricks_to_chiseled_tuff_bricks",
@@ -43745,7 +44681,7 @@
                 "AA"
             ],
             "block": "crafting_table",
-            "priority": -1,
+            "priority": 1,
             "assumeSymetry": true,
             "unlockContext": "ALWAYS_UNLOCKED"
         },
@@ -50650,6 +51586,32 @@
             "assumeSymetry": true
         },
         {
+            "id": "minecraft:chiseled_cinnabar",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar_slab",
+                    "itemId": -1110,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1124,
+                    "id": "minecraft:chiseled_cinnabar"
+                }
+            ],
+            "shape": [
+                "A",
+                "A"
+            ],
+            "block": "crafting_table",
+            "priority": 1,
+            "assumeSymetry": true
+        },
+        {
             "id": "minecraft:chiseled_deepslate",
             "type": 1,
             "input": {
@@ -50754,6 +51716,32 @@
             "assumeSymetry": true
         },
         {
+            "id": "minecraft:chiseled_sulfur",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur_slab",
+                    "itemId": -1093,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1107,
+                    "id": "minecraft:chiseled_sulfur"
+                }
+            ],
+            "shape": [
+                "A",
+                "A"
+            ],
+            "block": "crafting_table",
+            "priority": 1,
+            "assumeSymetry": true
+        },
+        {
             "id": "minecraft:chiseled_tuff",
             "type": 1,
             "input": {
@@ -50803,6 +51791,195 @@
             ],
             "block": "crafting_table",
             "priority": 1,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:cinnabar_brick_slab",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar_bricks",
+                    "itemId": -1119,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1120,
+                    "id": "minecraft:cinnabar_brick_slab",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:cinnabar_brick_stairs",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar_bricks",
+                    "itemId": -1119,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1122,
+                    "id": "minecraft:cinnabar_brick_stairs",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A  ",
+                "AA ",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:cinnabar_brick_wall",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar_bricks",
+                    "itemId": -1119,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1123,
+                    "id": "minecraft:cinnabar_brick_wall",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:cinnabar_bricks",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_cinnabar",
+                    "itemId": -1114,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1119,
+                    "id": "minecraft:cinnabar_bricks",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "AA",
+                "AA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:cinnabar_slab",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1110,
+                    "id": "minecraft:cinnabar_slab",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:cinnabar_stairs",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1112,
+                    "id": "minecraft:cinnabar_stairs",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A  ",
+                "AA ",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:cinnabar_wall",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1113,
+                    "id": "minecraft:cinnabar_wall",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
             "assumeSymetry": true
         },
         {
@@ -55654,7 +56831,7 @@
             },
             "output": [
                 {
-                    "legacyId": 843,
+                    "legacyId": 844,
                     "id": "minecraft:end_crystal"
                 }
             ],
@@ -66547,6 +67724,114 @@
             "assumeSymetry": true
         },
         {
+            "id": "minecraft:polished_cinnabar",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:cinnabar",
+                    "itemId": -1109,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1114,
+                    "id": "minecraft:polished_cinnabar",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "AA",
+                "AA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:polished_cinnabar_slab",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_cinnabar",
+                    "itemId": -1114,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1115,
+                    "id": "minecraft:polished_cinnabar_slab",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:polished_cinnabar_stairs",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_cinnabar",
+                    "itemId": -1114,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1117,
+                    "id": "minecraft:polished_cinnabar_stairs",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A  ",
+                "AA ",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:polished_cinnabar_wall",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_cinnabar",
+                    "itemId": -1114,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1118,
+                    "id": "minecraft:polished_cinnabar_wall",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
             "id": "minecraft:polished_deepslate",
             "type": 1,
             "input": {
@@ -66765,6 +68050,114 @@
             "assumeSymetry": true
         },
         {
+            "id": "minecraft:polished_sulfur",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1097,
+                    "id": "minecraft:polished_sulfur",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "AA",
+                "AA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:polished_sulfur_slab",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_sulfur",
+                    "itemId": -1097,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1098,
+                    "id": "minecraft:polished_sulfur_slab",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:polished_sulfur_stairs",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_sulfur",
+                    "itemId": -1097,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1100,
+                    "id": "minecraft:polished_sulfur_stairs",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A  ",
+                "AA ",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:polished_sulfur_wall",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_sulfur",
+                    "itemId": -1097,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1101,
+                    "id": "minecraft:polished_sulfur_wall",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
             "id": "minecraft:polished_tuff",
             "type": 1,
             "input": {
@@ -66865,6 +68258,33 @@
                 }
             ],
             "shape": [
+                "AAA",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:potent_sulfur",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1108,
+                    "id": "minecraft:potent_sulfur"
+                }
+            ],
+            "shape": [
+                "AAA",
                 "AAA",
                 "AAA"
             ],
@@ -73912,6 +75332,221 @@
             ],
             "shape": [
                 "A"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:sulfur",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur_spike",
+                    "itemId": -1125,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1092,
+                    "id": "minecraft:sulfur"
+                }
+            ],
+            "shape": [
+                "AA",
+                "AA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:sulfur_brick_slab",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur_bricks",
+                    "itemId": -1102,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1103,
+                    "id": "minecraft:sulfur_brick_slab",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:sulfur_brick_stairs",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur_bricks",
+                    "itemId": -1102,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1105,
+                    "id": "minecraft:sulfur_brick_stairs",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A  ",
+                "AA ",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:sulfur_brick_wall",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur_bricks",
+                    "itemId": -1102,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1106,
+                    "id": "minecraft:sulfur_brick_wall",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:sulfur_bricks",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:polished_sulfur",
+                    "itemId": -1097,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1102,
+                    "id": "minecraft:sulfur_bricks",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "AA",
+                "AA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:sulfur_slab",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1093,
+                    "id": "minecraft:sulfur_slab",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:sulfur_stairs",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1095,
+                    "id": "minecraft:sulfur_stairs",
+                    "count": 4
+                }
+            ],
+            "shape": [
+                "A  ",
+                "AA ",
+                "AAA"
+            ],
+            "block": "crafting_table",
+            "priority": 0,
+            "assumeSymetry": true
+        },
+        {
+            "id": "minecraft:sulfur_wall",
+            "type": 1,
+            "input": {
+                "A": {
+                    "type": "default",
+                    "count": 1,
+                    "id": "minecraft:sulfur",
+                    "itemId": -1092,
+                    "auxValue": 32767
+                }
+            },
+            "output": [
+                {
+                    "legacyId": -1096,
+                    "id": "minecraft:sulfur_wall",
+                    "count": 6
+                }
+            ],
+            "shape": [
+                "AAA",
+                "AAA"
             ],
             "block": "crafting_table",
             "priority": 0,
