@@ -88,7 +88,8 @@
       "6": "minecraft:mangrove_chest_boat",
       "7": "minecraft:bamboo_chest_raft",
       "8": "minecraft:cherry_chest_boat",
-      "9": "minecraft:pale_oak_chest_boat"
+      "9": "minecraft:pale_oak_chest_boat",
+      "10": "minecraft:poplar_chest_boat"
     },
     "minecraft:coal": {
       "1": "minecraft:charcoal"
